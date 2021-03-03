@@ -1,6 +1,7 @@
 ---
 title: "Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity"
 collection: research
+permalink: /research/
 date: 2021-01-01
 venue: 'Working Paper'
 paperurl: 'https://ssrn.com/abstract=3795758'
