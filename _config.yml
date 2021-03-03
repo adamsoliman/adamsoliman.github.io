@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adam Soliman"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Adam Soliman"
 description              : &description "Economics PhD Candidate at Duke University"
