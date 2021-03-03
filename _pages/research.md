@@ -5,15 +5,17 @@ permalink: /research/
 author_profile: true
 ---
 
-# Working Papers
+## Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity
+### Working Paper, 2021, *Under Review*,  [SSRN Link](https://ssrn.com/abstract=3795758) 
 
-## Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity</h2>
-### *Under Review*,  [SSRN Link](https://ssrn.com/abstract=3795758) 
 **Abstract**: Every state imposes harsher punishments for drug offenses committed near schools. These “drug-free school zones'” (DFSZs) aim to deter crime from entering schoolyards, but they also give significant discretionary power to police, as they can expose offenders to additional risk for the same criminal activity. I exploit a sudden reduction in DFSZ size in order to examine offender and enforcement behavior and find an 18% decrease in drug arrests in “de-zoned” areas one year after the reform. There is no displacement of non-drug offenses and majority black neighborhoods have a larger decline in drug arrests. If offenders were significantly deterred by harsher penalties, as the law intended and Becker’s (1968) model predicts, there should be an increase in drug arrests. I therefore conclude that police respond to changes in punishment, where punishment severity and enforcement effort are complementary. Additionally, two concerns commonly associated with the “War on Drugs” view of weakening drug crime penalties, crime displacement and an increase in drug use, are not substantiated in this setting.
 
 ## Rebel Funding Strategies: Illicit Activities, Natural Resources, and Substitution Behavior
+#### Working Paper, 2020
+
 **Abstract**: Rebel groups often exploit natural resources in order to finance their operations, yet we still know little about their basic funding decisions. Given the prevalence of asymmetric warfare, I examine how rebel groups choose between funding strategies using a unique panel dataset on the activities of 297 groups. I find that when the world price of a natural resource they exploit rises, rebel groups substitute away from extortion, smuggling, kidnapping, and theft. These results suggest that policies attempting to shut down these groups by cutting their main sources of funding may produce harmful unintended consequences in the short run.
 
 ## Prescriptive Drought Policy and Supplier Compliance
-### Under Review
+Under Review
+
 **Abstract**: Economists advocate using prices to ration scarce goods, but in the case of publicly provided water, governments must often use alternative methods. The need to understand the impacts of these methods is growing due to the increased variability in water resources. I shed light on supplier behavior by exploiting a policy change that occurred during the 2012-2016 drought in California, a period that may presage the future of water management in a warmer climate. During this time, the state attempted to manage water use through a set of mandatory restrictions that assigned each of California’s 412 largest urban water suppliers to one of nine conservation tiers; those with greater historic per capita usage needed to conserve more. I find that only half of all suppliers were compliant by the proposed end of the mandate and that the policy was largely ineffective at inducing the intended differential savings. There was significant variation in savings within a given tier, but the distributions of savings across tiers were similar, i.e., suppliers over-complied if assigned to lower tiers and under-complied if assigned to higher tiers. While the primary predictors of eventual compliance are investor-ownership and composition of the population served, water use re-bounded after the emergency declaration was removed. Given the significant costs of complex water regulation and the high probability of future droughts, the policy implication is that both governments and suppliers may benefit from alternative choices in the design and implementation of such prescriptive policies.
