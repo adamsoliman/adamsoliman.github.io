@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV here](https://adamsoliman.github.io/files/AdamSolimanCV (Dec 2020).pdf)
+[Download full CV here](https://adamsoliman.github.io/files/AdamSolimanCV_Mar2021.pdf)
 
 Education
 ======
