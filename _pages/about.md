@@ -12,4 +12,4 @@ I am a Ph.D. candidate in economics at Duke University with research interests i
 
 My research focuses on the economics of crime, where I am particularly interested in the incentives of police and prosecutors and the behavior of rebel groups. 
 
-Before pursuing graduate study, I taught math and economics in Dubai and took a year off to travel. 
+Before starting graduate school, I taught math and economics in Dubai and took a year off to travel. 
