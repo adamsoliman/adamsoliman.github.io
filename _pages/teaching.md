@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## ECON 890: Special Topics in Economics, *Duke University*
+## ECON 890: Special Topics in Economics (Intro to Stata), *Duke University*
 ### *Graduate Course*, Instructor (Summer 2021)
 
 ## ECON 111: Probability and Statistics, *Duke University*
