@@ -84,7 +84,7 @@ author:
   avatar           : "Soliman_Photo_1.jpg"
   bio              : "Economics PhD Candidate at Duke University"
   location         : "Durham, NC"
-  employer         :
+  employer         : "https://scholars.duke.edu/person/adam.soliman"
   pubmed           : 
   googlescholar    : 
   email            : "adam.soliman@duke.edu"
@@ -113,7 +113,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "https://scholars.duke.edu/person/adam.soliman"
+  wikipedia        : 
 
 # Reading Files
 include:
