@@ -13,6 +13,6 @@ redirect_from:
 
 I am a Ph.D. candidate in economics at Duke University with research interests in public, environmental, and development economics. 
 
-My research focuses on the economics of crime, where I study neighborhood crime dynamics, prosecutorial discretion, and the behavior of rebel groups, and my dissertation examines the interactions between schools and criminal activity. 
+My research focuses on the economics of crime, where I study neighborhood crime dynamics, criminal capital formation, and the behavior of rebel groups.
 
 Before starting graduate school, I taught math and economics in Dubai and took a year off to travel. 
