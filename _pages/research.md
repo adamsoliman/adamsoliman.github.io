@@ -24,11 +24,9 @@ author_profile: true
 
 ### Drug Crime and Student Outcomes (with [Viviana Rodriguez](https://www.vivianarodriguez.com/))
 
-### Gentrification and Crime (with [Chris Timmins](https://sites.duke.edu/christophertimmins/))
+### Gentrification, Crime, and Community Trauma (with [Chris Timmins](https://sites.duke.edu/christophertimmins/))
 
-### Police Assignments (with [Bocar Ba](https://sites.google.com/view/bocarba/) and [Roman Rivera](https://sites.google.com/view/romangabrielrivera/))
-
-### The Opium-Heroin Value Chain
+### Schooling and Crime (with [Bocar Ba](https://sites.google.com/view/bocarba/) and [Jason Baron](https://sites.google.com/view/jasonbaron/home))
 
 ## Master’s Thesis
 
