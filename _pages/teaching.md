@@ -8,7 +8,7 @@ author_profile: true
 ## ECON 890: Special Topics in Economics (Intro to Stata), *Duke University*
 ### *Graduate Course*, Instructor (Summer 2021)
 
-## ECON 111: Probability and Statistics, *Duke University*
+## STAT 111: Probability and Statistics, *Duke University*
 ### *Undergraduate Course*, Head Teaching Assistant for Stata Labs (Fall 2019, Spring 2020)
 
 ## ECON 131: Economics of the Environment, ECON 165: Economics of the Middle East, and ECON 138: Economics of Discrimination, *University of California, San Diego*
