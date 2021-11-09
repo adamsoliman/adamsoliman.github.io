@@ -28,7 +28,7 @@ author_profile: true
 
 ### Education and Crime (with [Jason Baron](https://sites.google.com/view/jasonbaron/home))
 
-### Prosecutorial Discretion
+### Prosecutorial Discretion and Policing (with [Bocar Ba](https://sites.google.com/view/bocarba/))
 
 ## Master’s Thesis
 
