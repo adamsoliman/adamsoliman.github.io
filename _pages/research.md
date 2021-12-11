@@ -28,7 +28,9 @@ author_profile: true
 
 ### Education and Crime (with [Jason Baron](https://sites.google.com/view/jasonbaron/home))
 
-### Prosecutorial Discretion and Policing (with [Bocar Ba](https://sites.google.com/view/bocarba/))
+### Language in News Media (with [Bocar Ba](https://sites.google.com/view/bocarba/), [Pat Bayer](https://sites.duke.edu/patrickbayer/), [Jonathan Moreno-Medina](https://business.utsa.edu/faculty/jonathan-moreno-medina/), and [Aurelie Ouss](https://aouss.github.io/))
+
+### Prosecutorial Discretion
 
 ## Master’s Thesis
 
