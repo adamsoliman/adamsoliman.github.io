@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-# Working Papers and Publications
 ## Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity
 ### *Under Review*, 2021,  [SSRN Link](https://ssrn.com/abstract=3795758) 
 
