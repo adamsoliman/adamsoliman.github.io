@@ -27,7 +27,7 @@ author_profile: true
 
 ### Criminal Capital Formation
 
-### Disrupting Drug Markets: Evidence from the Opioid Crisis (Job Market Paper)
+### Disrupting Drug Markets: Evidence from the Opioid Epidemic (Job Market Paper)
 
 ### Education and Crime (with [Jason Baron](https://sites.google.com/view/jasonbaron/home))
 
