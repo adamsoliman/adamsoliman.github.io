@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ### ECON 890: Special Topics in Economics (Intro to Stata), *Duke University*
-#### *Graduate Course*, Instructor (Summer 2021, Summer 2022)
+#### *Graduate Course*, Instructor of Record (Summer 2022)
 
 ### STAT 111: Probability and Statistics, *Duke University*
 #### *Undergraduate Course*, Head Teaching Assistant for Stata Labs (Fall 2019, Spring 2020)
 
 ### Mathematics and Economics, *International School of Chouiefat, Dubai, UAE*
-#### *Primary and Secondary School*, Teacher (Academic Years 2009-2010 and 2010-2011)
+#### *Primary and Secondary School*, Teacher (Academic Years 2009-2010, 2010-2011, 2011-2012)
