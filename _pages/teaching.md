@@ -19,5 +19,5 @@ author_profile: true
 ### [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching), 2023
 #### The Graduate School, Duke University
 
-### [Teaching on Purpose](https://kenan.ethics.duke.edu/teaching-on-purpose/), 2023
+### [Teaching on Purpose](https://kenan.ethics.duke.edu/teaching-on-purpose/), 2022
 #### The Kenan Institute for Ethics, Duke University
