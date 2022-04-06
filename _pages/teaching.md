@@ -13,3 +13,11 @@ author_profile: true
 
 ### Mathematics and Economics, *International School of Chouiefat, Dubai, UAE*
 #### *Primary and Secondary School*, Teacher (Academic Years 2009-2010, 2010-2011)
+
+## Professional Development
+
+### [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching), 2023
+#### The Graduate School, Duke University
+
+### [Teaching on Purpose](https://kenan.ethics.duke.edu/teaching-on-purpose/), 2023
+#### The Kenan Institute for Ethics, Duke University
