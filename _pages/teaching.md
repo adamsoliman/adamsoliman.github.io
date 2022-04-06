@@ -9,7 +9,7 @@ author_profile: true
 #### *Graduate Course*, Instructor of Record (Summer 2022)
 
 ### STAT 111: Probability and Statistics, *Duke University*
-#### *Undergraduate Course*, Head Teaching Assistant for Stata Labs (Fall 2019, Spring 2020)
+#### *Undergraduate Course*, Head Teaching Assistant for Stata Labs (Fall 2019, [Course Evaluations](https://adamsoliman.github.io/files/F19_STA111_AdamSoliman.pdf))
 
 ### Mathematics and Economics, *International School of Chouiefat, Dubai, UAE*
-#### *Primary and Secondary School*, Teacher (Academic Years 2009-2010, 2010-2011, 2011-2012)
+#### *Primary and Secondary School*, Teacher (Academic Years 2009-2010, 2010-2011)
