@@ -11,7 +11,7 @@ PhD Course, Department of Economics, Duke University (Summer 2022)
 ### Probability and Statistics, *Head Teaching Assistant*
 Undergraduate Course, Department of Statistical Science, Duke University (Fall 2019, [Course Evaluations](https://adamsoliman.github.io/files/F19_STA111_AdamSoliman.pdf))
 
-### Mathematics (Primary), Economics (Secondary), *Teacher*
+### Mathematics (Primary) and Economics (Secondary), *Teacher*
 Grades 3-6 & 11, International School of Chouiefat, Dubai, UAE (Academic Years 2009-2010 & 2010-2011)
 
 ## Professional Development
