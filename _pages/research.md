@@ -25,17 +25,11 @@ author_profile: true
 
 ### Education and Crime (with [Jason Baron](https://sites.google.com/view/jasonbaron/home))
 
-### Language in News Media (with [Bocar Ba](https://sites.google.com/view/bocarba/), [Pat Bayer](https://sites.duke.edu/patrickbayer/), [Jonathan Moreno-Medina](https://business.utsa.edu/faculty/jonathan-moreno-medina/), and [Aurelie Ouss](https://aouss.github.io/))
-
 ## Resting Papers
 
 ### Rebel Funding Strategies: Illicit Activities, Natural Resources, and Substitution Behavior 
 
 **Abstract**: Rebel groups often exploit natural resources in order to finance their operations, yet we still know little about their basic funding decisions. Given the prevalence of asymmetric warfare, I examine how rebel groups choose between funding strategies using a unique panel dataset on the activities of 297 groups. I find that when the world price of a natural resource they exploit rises, rebel groups substitute away from extortion, smuggling, kidnapping, and theft. These results suggest that policies attempting to shut down these groups by cutting their main sources of funding may produce harmful unintended consequences in the short run.
-
-## Master’s Thesis
-
-*To What Water Price Do Consumers Respond? A Study of Increasing Block Rates and Mandatory Water Restrictions,*  Michigan State University, May 2016
 
 ## Policy Work
 
