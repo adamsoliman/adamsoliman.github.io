@@ -23,7 +23,7 @@ author_profile: true
 
 ### Disrupting Drug Markets: Evidence from the Opioid Epidemic (Job Market Paper)
 
-### Education and Crime (with [Jason Baron](https://sites.google.com/view/jasonbaron/home))
+### Education and Drug Epidemics (with [Jason Baron](https://sites.google.com/view/jasonbaron/home))
 
 ## Resting Papers
 
