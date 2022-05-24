@@ -19,11 +19,11 @@ author_profile: true
 
 ## Work in Progress
 
-### Community-Level Trauma (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/) and [Kevin Schnepel](https://kschnepel.github.io/))
+### Pill Mills and Corner Crews: Estimating the Elasticity of Substitution between Legal abd Illegal Markets (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/), [Jesse Bruhn]([https://kschnepel.github.io/](https://www.jessebruhn.com/), [Kevin Schnepel](https://kschnepel.github.io/))
 
 ### Disrupting Drug Markets: Evidence from the Opioid Epidemic (Job Market Paper)
 
-### Education and Drug Epidemics (with [Jason Baron](https://sites.google.com/view/jasonbaron/home))
+### School Funding, Accountability, and the Opioid Epidemic (with [Jason Baron](https://sites.google.com/view/jasonbaron/home) and [Brian Jacob](http://www.brian-jacob.com/))
 
 ## Resting Papers
 
