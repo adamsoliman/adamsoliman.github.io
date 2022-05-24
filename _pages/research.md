@@ -19,7 +19,7 @@ author_profile: true
 
 ## Work in Progress
 
-### Pill Mills and Corner Crews: Estimating the Elasticity of Substitution between Legal abd Illegal Markets (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/), [Jesse Bruhn](https://www.jessebruhn.com/), [Kevin Schnepel](https://kschnepel.github.io/))
+### Pill Mills and Corner Crews: Estimating the Elasticity of Substitution between Legal abd Illegal Markets (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/), [Jesse Bruhn](https://www.jessebruhn.com/), and [Kevin Schnepel](https://kschnepel.github.io/))
 
 ### Disrupting Drug Markets: Evidence from the Opioid Epidemic (Job Market Paper)
 
