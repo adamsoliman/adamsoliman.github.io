@@ -11,6 +11,6 @@ redirect_from:
 <meta name="google-site-verification" content="F1PA5O0lN6ADr5Cde5ABVSGNCeayniG2Il_SGyFGQjA" />
 
 
-I am a Ph.D. candidate in economics at Duke University with research interests in public economics and the economics of education. I study topics at the intersection of community health, public policy, and crime, where I am particularly interested in the causes and consequences of drug epidemics, as well as discretion in enforcement. My job market paper is at the intersection of these two interests, where I examine the impacts of crackdowns against rogue doctors and pharmacies in the prescription opioid market. 
+I am a Ph.D. candidate in economics at Duke University with research interests in public economics and the economics of education. I study topics at the intersection of community health, public policy, and crime, where I am particularly interested in the causes and consequences of drug epidemics, as well as discretion in enforcement. My job market paper, "Illegal Activity in Legal Drug Markets," examines the impacts of crackdowns on rogue doctors and pharmacies in the prescription opioid market. 
 
 Before starting graduate school, I taught math and economics in Dubai and took a year off to [travel](https://twitter.com/adamksoliman/status/1402014895214776331?s=20&t=kWelDx7GIkrv42lqRBRhfQ). 
