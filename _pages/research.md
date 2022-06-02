@@ -21,7 +21,7 @@ author_profile: true
 
 ### Pill Mills and Corner Crews: Estimating the Elasticity of Substitution between Legal abd Illegal Markets (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/), [Jesse Bruhn](https://www.jessebruhn.com/), and [Kevin Schnepel](https://kschnepel.github.io/))
 
-### Illegal Activity in Legal Drug Markets (Job Market Paper)
+### Disrupting Drug Markets: Evidence from the Opioid Epidemic (Job Market Paper)
 
 ### School Funding, Accountability, and the Opioid Epidemic (with [Jason Baron](https://sites.google.com/view/jasonbaron/home) and [Brian Jacob](http://www.brian-jacob.com/))
 
