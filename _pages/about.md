@@ -11,6 +11,6 @@ redirect_from:
 <meta name="google-site-verification" content="F1PA5O0lN6ADr5Cde5ABVSGNCeayniG2Il_SGyFGQjA" />
 
 
-I am a Ph.D. candidate in economics at Duke University with research interests in public and labor economics. More specifically, I study topics at the intersection of community health, public policy, and crime, where I am particularly interested in the causes and consequences of drug epidemics, as well as discretion in enforcement. My job market paper, "Disrupting Drug Markets: Evidence from the Opioid Epidemic," studies the impacts of crackdowns on rogue supply chain actors in a prescription drug market. 
+I am a Ph.D. candidate in economics at Duke University with research interests in public and labor economics. More specifically, I study topics at the intersection of community health, public policy, and crime, where I am particularly interested in the causes and consequences of drug epidemics and discretion in enforcement. My job market paper, "Disrupting Drug Markets: Evidence from the Opioid Epidemic," studies the impacts of crackdowns on rogue supply chain actors in a prescription drug market. 
 
 Before starting graduate school, I taught math and economics in Dubai and took a year off to [travel](https://twitter.com/adamksoliman/status/1402014895214776331?s=20&t=kWelDx7GIkrv42lqRBRhfQ). 
