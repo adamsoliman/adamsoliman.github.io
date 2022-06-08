@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download full CV here](https://adamsoliman.github.io/files/AdamSolimanCV.pdf)
+[Download](https://adamsoliman.github.io/files/AdamSolimanCV.pdf) or [preview full CV](https://docs.google.com/viewer?url=https://adamsoliman.github.io/files/AdamSolimanCV.pdf)
 
 Education
 ======
@@ -19,4 +19,4 @@ Education
 * B.A. in Economics, Boston University, 2009 
 * B.S. in Health Science, Boston University, 2009
 
-[Trial](https://docs.google.com/viewer?url=https://adamsoliman.github.io/files/AdamSolimanCV.pdf)
+
