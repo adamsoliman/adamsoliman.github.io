@@ -18,3 +18,5 @@ Education
 * M.S. in Agricultural, Food, and Resource Economics, Michigan State University, 2016
 * B.A. in Economics, Boston University, 2009 
 * B.S. in Health Science, Boston University, 2009
+
+<object data="files/AdamSolimanCV.pdf" width="1000" height="1000" type='application/pdf'/></object>
