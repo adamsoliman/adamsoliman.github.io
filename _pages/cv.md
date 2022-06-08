@@ -19,4 +19,4 @@ Education
 * B.A. in Economics, Boston University, 2009 
 * B.S. in Health Science, Boston University, 2009
 
-https://docs.google.com/viewer?url=https://adamsoliman.github.io/files/AdamSolimanCV.pdf
+[Trial](https://docs.google.com/viewer?url=https://adamsoliman.github.io/files/AdamSolimanCV.pdf)
