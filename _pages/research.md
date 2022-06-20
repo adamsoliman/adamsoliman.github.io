@@ -8,7 +8,7 @@ author_profile: true
 ## Publications
 ### [Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity](https://ssrn.com/abstract=3795758)
 
-Accepted, *The Journal of Law and Economics*, 2022
+Forthcoming, *The Journal of Law and Economics*, 2022
 
 **Abstract**: We still know very little about the incentives of police. Using geocoded crime data and a novel source of within-city variation in punishment severity, I am able to shed light on enforcement behavior. I find that in parts of a city where drug sale penalties were weakened, there is a 13% decrease in all drug arrests. There is no displacement of non-drug offenses. If offenders were significantly deterred by harsher penalties, as the law intended and Becker’s (1968) model predicts, drug arrests should have increased in areas with weaker penalties. My results are therefore consistent with police treating enforcement effort and punishment severity as complements. I also find that city-wide crime and drug use do not increase after the reform. This paper thus calls into question the "War on Drugs" view of punishment and suggests that certain types of enforcement can be reduced without incurring large public safety costs. 	
 
