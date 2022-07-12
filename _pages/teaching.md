@@ -16,7 +16,10 @@ Grades 3-6 & 11, International School of Chouiefat, Dubai, UAE (Academic Years 2
 
 ## Professional Development
 
-### [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching), 2023
+### [Preparing Future Faculty](https://gradschool.duke.edu/professional-development/programs/preparing-future-faculty), 2022 - 2023
+The Graduate School, Duke University
+
+### [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching), 2022
 The Graduate School, Duke University
 
 ### [Teaching on Purpose](https://kenan.ethics.duke.edu/teaching-on-purpose/), 2022
