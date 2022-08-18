@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Special Topics in Economics (Introduction to Stata), *Instructor of Record*
-PhD Course, Department of Economics, Duke University (Summer 2022)
+PhD Course, Department of Economics, Duke University (Summer 2022, [Course Evaluations](https://adamsoliman.github.io/files/Summer II 2022_Econ 890-02_Soliman.pdf))
 
 ### Probability and Statistics, *Head Teaching Assistant*
 Undergraduate Course, Department of Statistical Science, Duke University (Fall 2019, [Course Evaluations](https://adamsoliman.github.io/files/F19_STA111_AdamSoliman.pdf))
