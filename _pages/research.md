@@ -5,6 +5,12 @@ permalink: /research/
 author_profile: true
 ---
 
+## Job Market Paper
+### Disrupting Drug Markets: Evidence from the Opioid Epidemic (Draft Coming Soon)
+
+**Abstract**: The US government attempts to reduce drug abuse primarily through supply-side interventions. Evidence of their effectiveness in illegal drug markets is mixed, and almost no research exists on targeted enforcement in a legal drug market. This is relevant because a single supplier can divert large quantities out of the medical system and legally-produced drugs have generated devastating drug epidemics since the Civil War. In this paper, I identify the causal impacts of prescription opioid supplier crackdowns on legal drug supply, street drug prices, and health outcomes. To do this, I combine three sources of administrative data and leverage random audits of doctors and pharmacies that lead to controlled substance license revocations. I find that these targeted enforcement actions cause large decreases in local opioid dispensing that persist across space and time. This sustained reduction in legal supply leads to increases in both street pill prices and heroin overdose deaths and decreases in overall mortality. These results suggest that substitution to heroin is limited to the stock of existing heavy users and that the number of light users is reduced following a crackdown. The policy implication is that treatment programs should compliment supply-side interventions, or that enforcement should occur earlier in the crisis. 
+
+
 ## Publications
 ### [Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity](https://ssrn.com/abstract=3795758)
 
@@ -20,8 +26,6 @@ Forthcoming, *The Journal of Law and Economics*, 2022
 ## Work in Progress
 
 ### Pill Mills and Corner Crews: Estimating the Elasticity of Substitution between Legal and Illegal Markets (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/), [Jesse Bruhn](https://www.jessebruhn.com/), and [Kevin Schnepel](https://kschnepel.github.io/))
-
-### Disrupting Drug Markets: Evidence from the Opioid Epidemic (Job Market Paper)
 
 ### School Funding, Accountability, and the Opioid Epidemic (with [Jason Baron](https://sites.google.com/view/jasonbaron/home) and [Brian Jacob](http://www.brian-jacob.com/))
 
