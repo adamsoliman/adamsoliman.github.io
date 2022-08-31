@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Job Market Paper
-### Disrupting Drug Markets: Evidence from the Opioid Epidemic (Draft Coming Soon)
+### Disrupting Drug Markets: The Effects of Crackdowns on Rogue Opioid Suppliers (Draft Coming Soon)
 
 **Abstract**: The US government attempts to reduce drug abuse primarily through supply-side interventions. Evidence from illegal drug markets suggests that these crackdowns lead either to crime displacement or substitution to other substances. Almost no research exists on the impacts of this approach in a legal drug market, where the vast majority of drug epidemics originate and a single supplier can divert large quantities out of the medical system. In this paper, I identify the causal impacts of prescription opioid supplier crackdowns on legal drug supply, diverted pill prices, and health outcomes. Leveraging random audits of doctors and pharmacies that lead to controlled substance license revocations, I find that crackdowns cause large decreases in local opioid dispensing that persist across space and time. This sustained reduction in legal supply leads to increases in street pill prices and heroin overdose deaths but to decreases in overall mortality. These results indicate that substitution to heroin is limited to the stock of existing heavy users and that crackdowns reduce the number of light users. The policy implication is that treatment programs need to compliment supply-side interventions, or that enforcement should occur earlier in an epidemic. 
 
