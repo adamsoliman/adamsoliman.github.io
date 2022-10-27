@@ -30,7 +30,7 @@ Forthcoming, *The Journal of Law and Economics*, 2022
 
 ### The Impact of Changing Felony Theft Thresholds on Policing Behavior (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/) and [Kevin Schnepel](https://kschnepel.github.io/))
 
-## Resting Papers
+## Working Papers
 
 ### Rebel Funding Strategies: Illicit Activities, Natural Resources, and Substitution Behavior 
 
