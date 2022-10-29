@@ -8,15 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-HJR937XQY0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-HJR937XQY0');
-</script>
-
 <meta name="google-site-verification" content="F1PA5O0lN6ADr5Cde5ABVSGNCeayniG2Il_SGyFGQjA" />
 
 
