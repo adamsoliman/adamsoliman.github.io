@@ -6,10 +6,18 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-HJR937XQY0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-HJR937XQY0');
+</script>
 ---
 
 <meta name="google-site-verification" content="F1PA5O0lN6ADr5Cde5ABVSGNCeayniG2Il_SGyFGQjA" />
-
 
 I am a Ph.D. candidate at Duke University with research interests in public, crime, urban, and health economics. I am particularly interested in the causes and consequences of drug epidemics and discretion in the criminal justice system.  
 
