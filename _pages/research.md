@@ -28,7 +28,7 @@ Forthcoming, *The Journal of Law and Economics*, 2022
 
 ### School Funding, Accountability, and the Opioid Epidemic (with [Jason Baron](https://sites.google.com/view/jasonbaron/home) and [Brian Jacob](http://www.brian-jacob.com/))
 
-### The Impact of Changing Felony Theft Thresholds on Policing Behavior (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/) and [Kevin Schnepel](https://kschnepel.github.io/))
+### The Effects of Changing Felony Theft Thresholds on Policing Behavior (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/) and [Kevin Schnepel](https://kschnepel.github.io/))
 
 ## Working Papers
 
