@@ -10,7 +10,7 @@ redirect_from:
 
 <meta name="google-site-verification" content="F1PA5O0lN6ADr5Cde5ABVSGNCeayniG2Il_SGyFGQjA" />
 
-I am a Ph.D. candidate at Duke University with research interests in public, crime, urban, and health economics. I am particularly interested in the management and consequences of drug epidemics and discretion in law enforcement. 
+I am a Ph.D. candidate at Duke University with research interests in public, crime, urban, and health economics. I am particularly interested in studying the management and consequences of drug epidemics and discretion in law enforcement. 
 
 I am on the job market for the 2022-2023 academic year. My job market paper, "[Disrupting Drug Markets: The Effects of Crackdowns on Rogue Opioid Suppliers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266020)," examines the direct and spillover effects of targeted supply-side enforcement within the prescription opioid market.
 
