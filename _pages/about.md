@@ -12,6 +12,6 @@ redirect_from:
 
 I am a Ph.D. candidate at Duke University with research interests in public, urban, and health economics. I am particularly interested in the management and consequences of drug epidemics and discretion in law enforcement. 
 
-I am on the job market for the 2022-2023 academic year. My job market paper, "[Disrupting Drug Markets: The Effects of Crackdowns on Rogue Opioid Suppliers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266020)," examines the direct and spillover effects of targeted supply-side enforcement within the prescription opioid market.
+I am on the job market for the 2022-2023 academic year. My job market paper, "[Disrupting Drug Markets: The Effects of Crackdowns on Rogue Opioid Suppliers](https://adamsoliman.github.io/Disrupting_Drug_Markets_Soliman_JMP.pdf)," examines the direct and spillover effects of targeted supply-side enforcement within the prescription opioid market.
 
 Before starting graduate school, I taught math and economics in Dubai and took a year off to [travel](https://twitter.com/adamksoliman/status/1402014895214776331?s=20&t=kWelDx7GIkrv42lqRBRhfQ). 
