@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Economics, Duke University, 2023 (Expected)
+* Ph.D. in Economics, Duke University, 2023
 * M.A. in Economics, University of California, San Diego, 2019
 * M.S. in Agricultural, Food, and Resource Economics, Michigan State University, 2016
 * B.A. in Economics, Boston University, 2009 
