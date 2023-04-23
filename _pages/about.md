@@ -14,4 +14,6 @@ I am a Ph.D. candidate at Duke University with research interests in the economi
 
 Please download my CV [here](https://adamsoliman.github.io/files/AdamSolimanCV.pdf) or preview it [here](https://docs.google.com/viewer?url=https://adamsoliman.github.io/files/AdamSolimanCV.pdf).
 
+# comment
+
 Before graduate school, I taught math and economics in Dubai and took a year off to [travel](https://twitter.com/adamksoliman/status/1402014895214776331?s=20&t=kWelDx7GIkrv42lqRBRhfQ). 
