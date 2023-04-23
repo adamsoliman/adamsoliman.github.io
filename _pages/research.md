@@ -29,7 +29,7 @@ author_profile: true
 
 ### The Effects of Changing Felony Theft Thresholds on Policing Behavior (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/) and [Kevin Schnepel](https://kschnepel.github.io/))
 
-## Working Papers
+## Resting Paper
 
 ### Rebel Funding Strategies: Illicit Activities, Natural Resources, and Substitution Behavior 
 
