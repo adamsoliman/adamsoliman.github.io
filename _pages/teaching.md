@@ -14,7 +14,7 @@ Undergraduate Course, Department of Statistical Science, Duke University (Fall 2
 ### Mathematics (Primary) and Economics (Secondary), *Teacher*
 Grades 3-7 & 11, International School of Chouiefat, Dubai, UAE (2009 - 2011)
 
-Grade 5 Math Students (2011)    |  Grade 4 Math Students (2011) 
+Grade 5 Math (2011)    |  Grade 4 Math (2011) 
 :-------------------------:|:-------------------------:
 ![femalestudents](https://adamsoliman.github.io/assets/Dubai007.JPG)  |  ![malestudents](https://adamsoliman.github.io/assets/Dubai008.JPG)
 
