@@ -16,7 +16,7 @@ Grades 3-7 & 11, International School of Chouiefat, Dubai, UAE (2009 - 2011)
 
 Grade 5 Students (2011)    |  Grade 5 Students (2011) 
 :-------------------------:|:-------------------------:
-![girlstudents](https://adamsoliman.github.io/assets/Dubai007.JPG)  |  ![boystudents](https://adamsoliman.github.io/assets/Dubai008.JPG)
+![femalestudents](https://adamsoliman.github.io/assets/Dubai007.JPG)  |  ![malestudents](https://adamsoliman.github.io/assets/Dubai008.JPG)
 
 ## Professional Development
 
