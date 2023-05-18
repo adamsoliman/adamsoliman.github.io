@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Adam Soliman"
 title_separator          : "-"
 name                     : &name "Adam Soliman"
-description              : &description "PhD Candidate in Economics at Duke University"
+description              : &description "PhD in Economics, Duke University"
 url                      : https://adamsoliman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Adam Soliman"
   avatar           : "solimanjmp.jpg" # Soliman_Photo_1
-  bio              : "PhD Candidate in Economics at Duke University"
+  bio              : "PhD in Economics, Duke University"
   location         : "Durham, NC"
   employer         : 
   pubmed           : 
