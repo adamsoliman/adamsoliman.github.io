@@ -17,3 +17,7 @@ For the coming academic year, I will be a postdoctoral scholar in the [Centre fo
 Please find my CV [here](https://adamsoliman.github.io/files/AdamSolimanCV.pdf).
 
 Before graduate school, I [taught math and economics in Dubai](https://adamsoliman.github.io/teaching/) and took a year off to [travel](https://twitter.com/adamksoliman/status/1402014895214776331?s=20&t=kWelDx7GIkrv42lqRBRhfQ). 
+
+[May 2023](https://bfi.uchicago.edu/event/conference-on-the-economics-of-crime-and-justice-3/)
+:-------------------------:
+![bficrime](https://adamsoliman.github.io/assets/1sgosXVA.jpeg) 
