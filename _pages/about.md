@@ -17,4 +17,4 @@ For the coming academic year, I will be a postdoctoral scholar in the [Centre fo
 In May 2023, I received my Ph.D. from Duke University. Prior to my life as an economist, I taught primary and secondary school [math in Dubai](https://adamsoliman.github.io/teaching/) and took a year off to [travel](https://twitter.com/adamksoliman/status/1402014895214776331?s=20&t=kWelDx7GIkrv42lqRBRhfQ). Please find my full CV [here](https://adamsoliman.github.io/files/AdamSolimanCV.pdf).
 
 ![bficrime](https://adamsoliman.github.io/assets/1sgosXVA.jpeg) 
-Photo Credit: University of Chicago, [May 2023](https://bfi.uchicago.edu/event/conference-on-the-economics-of-crime-and-justice-3/)
+Photo Credit: [University of Chicago, May 2023](https://bfi.uchicago.edu/event/conference-on-the-economics-of-crime-and-justice-3/)
