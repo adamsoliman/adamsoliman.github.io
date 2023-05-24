@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Adam Soliman"
 title_separator          : "-"
 name                     : &name "Adam Soliman"
-description              : &description "PhD in Economics, Duke University"
+description              : &description ""
 url                      : https://adamsoliman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Adam Soliman"
   avatar           : "solimanjmp.jpg" # Soliman_Photo_1
-  bio              : "PhD in Economics, Duke University"
-  location         : "Durham, NC"
+  bio              : "Postdoctoral Scholar, London School of Economics"
+  location         : #"London, UK"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Y7weoQQAAAAJ&hl=en&oi=sra"
@@ -98,8 +98,8 @@ author:
   github           : 
   google_plus      :
   keybase          :
-  instagram        : # "kingsolzz"
-  impactstory      : # "https://scholars.duke.edu/person/adam.soliman"
+  instagram        : "kingsolzz"
+  impactstory      : 
   lastfm           :
   linkedin         :
   orcid            : 
