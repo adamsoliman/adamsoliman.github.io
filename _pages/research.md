@@ -13,7 +13,7 @@ author_profile: true
 
 * ### School Funding, Accountability, and the Opioid Epidemic (with [Jason Baron](https://sites.google.com/view/jasonbaron/home) and [Brian Jacob](http://www.brian-jacob.com/))
 
-* ### The Effects of Changing Felony Theft Thresholds (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/) and [Kevin Schnepel](https://kschnepel.github.io/))
+* ### The Effects of Changing Felony Theft Thresholds (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/), [Mike Makowsky](https://www.michaelmakowsky.com/), and [Kevin Schnepel](https://kschnepel.github.io/))
 
 ## Working Papers and Publications
 ### [Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity](https://www.journals.uchicago.edu/doi/10.1086/721292)
