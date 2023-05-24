@@ -7,6 +7,8 @@ author_profile: true
 
 ## Work in Progress
 
+* ###	Pharmaceutical Distributors and the Opioid Epidemic (with [Aljoscha Janssen](https://aljoschajanssen.com/) and [Xuan Zhang](https://sites.google.com/site/xuanzhangeconomics/home))
+
 * ### Pill Mills and Corner Crews: Estimating the Elasticity of Substitution between Legal and Illegal Markets (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/), [Jesse Bruhn](https://www.jessebruhn.com/), and [Kevin Schnepel](https://kschnepel.github.io/))
 
 * ### School Funding, Accountability, and the Opioid Epidemic (with [Jason Baron](https://sites.google.com/view/jasonbaron/home) and [Brian Jacob](http://www.brian-jacob.com/))
