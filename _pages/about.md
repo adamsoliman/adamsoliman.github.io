@@ -12,7 +12,7 @@ redirect_from:
 
 I am an applied microeconomist focusing on crime, health, and education. I am particularly interested in the role of different actors involved in issues related to drug abuse, primarily health care professionals and the police, and how they interact with the demand-side, such as patients, heavy users, and students. 
 
-For the coming academic year, I will be a postdoctoral scholar in the [Centre for Economic Performance](https://cep.lse.ac.uk/) at the London School of Economics. I will then join the [Department of Economics](https://www.clemson.edu/business/departments/economics/index.html) at Clemson University as an assistant professor in the Fall of 2024. 
+*For the coming academic year, I will be a postdoctoral scholar in the [Centre for Economic Performance](https://cep.lse.ac.uk/) at the London School of Economics. I will then join the [Department of Economics](https://www.clemson.edu/business/departments/economics/index.html) at Clemson University as an assistant professor in the Fall of 2024.*
 
 In May 2023, I received my Ph.D. from Duke University. Prior to my life as an economist, I was a primary and secondary school [teacher in Dubai](https://adamsoliman.github.io/teaching/) and took a year off to [travel](https://twitter.com/adamksoliman/status/1402014895214776331?s=20&t=kWelDx7GIkrv42lqRBRhfQ). Please find my full CV [here](https://adamsoliman.github.io/files/AdamSolimanCV.pdf).
 
