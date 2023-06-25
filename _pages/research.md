@@ -9,6 +9,8 @@ author_profile: true
 
 * ### Felony Theft Thresholds and the Opportunity Cost of Crime (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/), [Mike Makowsky](https://www.michaelmakowsky.com/), and [Kevin Schnepel](https://kschnepel.github.io/))
 
+* ### Shootings and Police Response (with [Phil Cook](https://sanford.duke.edu/profile/philip-j-cook/)
+
 * ###	Pharmaceutical Distributors and the Opioid Epidemic (with [Aljoscha Janssen](https://aljoschajanssen.com/) and [Xuan Zhang](https://sites.google.com/site/xuanzhangeconomics/home))
 
 * ### Pill Mills and Corner Crews: Estimating the Elasticity of Substitution between Legal and Illegal Markets (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/), [Jesse Bruhn](https://www.jessebruhn.com/), and [Kevin Schnepel](https://kschnepel.github.io/))
