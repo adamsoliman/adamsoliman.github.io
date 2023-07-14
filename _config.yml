@@ -89,8 +89,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=Y7weoQQAAAAJ&hl=en&oi=sra"
   email            : "adamksoliman@gmail.com"
   uri              : 
-  bitbucket        : "https://cep.lse.ac.uk/_new/people/person.asp?id=11305"
-  codepen          : "https://cep.lse.ac.uk/_new/people/person.asp?id=11305"
+  bitbucket        : 
+  codepen          : 
   dribbble         :
   flickr           :
   facebook         :
@@ -111,9 +111,9 @@ author:
   twitter          : "adamksoliman"
   vine             :
   weibo            :
-  xing             : "https://cep.lse.ac.uk/_new/people/person.asp?id=11305"
+  xing             : 
   youtube          :
-  wikipedia        : "https://cep.lse.ac.uk/_new/people/person.asp?id=11305"
+  wikipedia        : 
 
 # Reading Files
 include:
