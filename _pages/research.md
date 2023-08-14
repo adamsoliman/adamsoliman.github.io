@@ -7,16 +7,18 @@ author_profile: true
 
 ## Work in Progress
 
-* ### Felony Theft Thresholds and the Opportunity Cost of Crime (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/), [Mike Makowsky](https://www.michaelmakowsky.com/), and [Kevin Schnepel](https://kschnepel.github.io/))
-
-* ### Shootings and Police Response (with [Phil Cook](https://sanford.duke.edu/profile/philip-j-cook/))
-
-* ###	Pharmaceutical Distributors and the Opioid Epidemic (with [Aljoscha Janssen](https://aljoschajanssen.com/) and [Xuan Zhang](https://sites.google.com/site/xuanzhangeconomics/home))
-
-* ### Pill Mills and Corner Crews: Estimating the Elasticity of Substitution between Legal and Illegal Markets (with [Steve Billings](https://sites.google.com/a/colorado.edu/stephen-billings/), [Jesse Bruhn](https://www.jessebruhn.com/), and [Kevin Schnepel](https://kschnepel.github.io/))
-
-* ### School Funding, Accountability, and the Opioid Epidemic (with [Jason Baron](https://sites.google.com/view/jasonbaron/home) and [Brian Jacob](http://www.brian-jacob.com/))
-
+* ### Criminal Records and Local Monopsony Power (with Mike Makowsky and Peter Brummund)
+	
+* ### Felony Theft Thresholds and the Opportunity Cost of Crime (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
+	
+* ### Macroeconomic Shocks and Criminal Activity (with Tom Kirchmaier and Magdalena Dominguez)
+	
+* ### Pharmaceutical Distributors and the Opioid Epidemic (with Aljoscha Janssen and  Xuan Zhang)
+	
+* ### Shootings and Police Response (with Phil Cook)
+	
+* ### The Social Benefits of Homeownership (with Steve Billings)
+	
 ## Working Papers and Publications
 ### [Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity](https://www.journals.uchicago.edu/doi/10.1086/721292)
 *The Journal of Law and Economics*, 2022
