@@ -17,7 +17,7 @@ author_profile: true
 	
 * ### Shootings and Police Response (with Phil Cook)
 	
-* ### The Social Benefits of Homeownership (with Steve Billings)
+* ### The Erosion of Homeownership and Minority Wealth (with Steve Billings)
 	
 ## Working Papers and Publications
 ### [Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity](https://www.journals.uchicago.edu/doi/10.1086/721292)
