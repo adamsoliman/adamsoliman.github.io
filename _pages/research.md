@@ -12,9 +12,7 @@ author_profile: true
 * ### Felony Theft Thresholds and the Opportunity Cost of Crime (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
 	
 * ### Macroeconomic Shocks and Criminal Activity (with Tom Kirchmaier and Magdalena Dominguez)
-	
-* ### Pharmaceutical Distributors and the Opioid Epidemic (with Aljoscha Janssen and  Xuan Zhang)
-	
+		
 * ### Shootings and Police Response (with Phil Cook)
 	
 * ### The Erosion of Homeownership and Minority Wealth (with Steve Billings)
