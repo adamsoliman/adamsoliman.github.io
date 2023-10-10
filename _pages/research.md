@@ -7,10 +7,10 @@ author_profile: true
 
 ## Work in Progress
 
+* ### Better Stealing than Dealing: Property Crime, Illicit Drug Distribution, and Opioid Abuse after Felony Theft Thresholds Increase (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
+
 * ### Criminal Records and Local Monopsony Power (with Mike Makowsky and Peter Brummund)
-	
-* ### Felony Theft Thresholds and the Opportunity Cost of Crime (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
-	
+		
 * ### Macroeconomic Shocks and Criminal Activity (with Tom Kirchmaier and Magdalena Dominguez)
 		
 * ### Shootings and Police Response (with Phil Cook)
