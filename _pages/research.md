@@ -14,9 +14,7 @@ author_profile: true
 * ### Macroeconomic Shocks and Criminal Activity (with Tom Kirchmaier and Magdalena Dominguez)
 		
 * ### Shootings and Police Response (with Phil Cook)
-	
-* ### The Erosion of Homeownership and Minority Wealth (with Steve Billings)
-	
+		
 ## Working Papers and Publications
 ### [Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity](https://www.journals.uchicago.edu/doi/10.1086/721292)
 *The Journal of Law and Economics*, 2022
@@ -32,6 +30,12 @@ author_profile: true
 *Ecological Economics*, 2022
 
 **Abstract**: Governments often cannot use prices to induce water conservation, and the need to understand the impacts of alternate methods is growing due to increased variability in water resources. During the 2012-2016 drought in California, a period that may presage the future of water management in a warmer climate, the state attempted to manage water use through a set of mandatory restrictions that assigned each of California's 412 largest urban water suppliers to one of nine conservation tiers; those with greater historic usage needed to conserve more. I find that even though significant statewide savings occurred, only half of all suppliers complied with their conservation target. Moreover, the increased savings were not caused by the tiered design of the mandate: evidence from a regression discontinuity design shows that suppliers that just missed a stricter conservation tier actually conserved more. Additionally, water use rebounded after the regulation was removed, implying that variable adjustments in demand contributed more to water use savings than fixed cost household investments. Given the significant costs of water regulation and the high probability of future droughts, the policy implication is that both governments and water suppliers may benefit from investments in water supply reliability and less complex prescriptive policies.
+
+### The Erosion of Homeownership and Minority Wealth (with Steve Billings)
+### [Prescriptive Drought Policy and Water Supplier Compliance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479)
+
+**Abstract**: 
+
 
 ## Resting Papers
 
