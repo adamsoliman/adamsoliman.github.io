@@ -34,7 +34,7 @@ author_profile: true
 ### The Erosion of Homeownership and Minority Wealth (with Steve Billings)
 ### [Prescriptive Drought Policy and Water Supplier Compliance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479)
 
-**Abstract**: 
+**Abstract**: Since the Great Recession, the traditional path to wealth creation through home ownership has stalled and worsened for many minority households. One potential and largely unexplored driver of this trend is the growing presence of institutional investors that purchase single-family homes and convert them to permanent rentals. We find that large institutional investors alone have decreased homeownership rates in Black neighborhoods in high growth southern cities like Charlotte, North Carolina by 4 percentage points. Using a granular spatial difference-in-differences estimator, we show that an institutional investor purchase leads to a 2% decline in neighboring property values. This effect is almost exclusively limited to majority Black suburban neighborhoods. These property value declines are also associated with commonly hypothesized social spillovers from the loss of homeownership, namely increases in crime and decreases in property maintenance and political participation. 
 
 
 ## Resting Papers
