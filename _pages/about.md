@@ -10,7 +10,7 @@ redirect_from:
 
 <meta name="google-site-verification" content="F1PA5O0lN6ADr5Cde5ABVSGNCeayniG2Il_SGyFGQjA" />
 
-I am an applied microeconomist focusing on crime, health, and education. I am particularly interested in illicit drug markets, policing, neighborhood dynamics, and peer interactions. 
+I am an applied microeconomist focusing on crime, health, and education. I am particularly interested in studying illicit drug markets, policing, neighborhood dynamics, and peer interactions. 
 
 *I am currently a postdoctoral scholar in the [Centre for Economic Performance](https://cep.lse.ac.uk/) at the London School of Economics. I will then join the [Department of Economics](https://www.clemson.edu/business/departments/economics/index.html) at Clemson University as an assistant professor in the Fall of 2024.*
 
