@@ -42,7 +42,9 @@ author_profile: true
 
 **Abstract**: Rebel groups often exploit natural resources in order to finance their operations, yet we still know little about their basic funding decisions. Given the prevalence of asymmetric warfare, I examine how rebel groups choose between funding strategies using a unique panel dataset on the activities of 297 groups. I find that when the world price of a natural resource they exploit rises, rebel groups substitute away from extortion, smuggling, kidnapping, and theft. These results suggest that policies attempting to shut down these groups by cutting their main sources of funding may produce harmful unintended consequences in the short run.
 
-## Policy Work
+## Other Writing
+
+[Corporate landlords are eroding the American Dream of homeownership](https://blogs.lse.ac.uk/usappblog/2023/12/18/corporate-landlords-are-eroding-the-american-dream-of-homeownership-especially-in-black-neighborhoods/), London School of Economics, Phelan US Centre, December 2023
 
 [Reducing the Costs of Drought: Lessons from Australia](https://www.ppic.org/blog/reducing-the-costs-of-drought-lessons-from-australia/), Public Policy Institute of California, September 2015
 
