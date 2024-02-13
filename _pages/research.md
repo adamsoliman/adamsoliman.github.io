@@ -12,9 +12,7 @@ author_profile: true
 * ### Better Stealing than Dealing? Property Crime, Illicit Drug Distribution, and Opioid Abuse after Felony Theft Thresholds Increase (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
 
 * ### Criminal Records and Local Monopsony Power (with Mike Makowsky and Peter Brummund)
-				
-* ### Shootings and Police Response (with Phil Cook)
-		
+						
 ## Working Papers and Publications
 
 ### [The Erosion of Homeownership and Minority Wealth](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479) (with Steve Billings)
