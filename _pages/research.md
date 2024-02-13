@@ -13,7 +13,7 @@ author_profile: true
 
 * ### Criminal Records and Local Monopsony Power (with Mike Makowsky and Peter Brummund)
 
-* ### Neighborhood Crime and Victimization(with Steve Billings, Eric Chyn, and Gerard DomenechArumi)
+* ### Neighborhood Crime and Victimization(with Steve Billings, Eric Chyn, and Gerard Domenech Arumi)
 						
 ## Working Papers and Publications
 
