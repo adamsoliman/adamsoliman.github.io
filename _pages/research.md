@@ -7,6 +7,8 @@ author_profile: true
 
 ## Work in Progress
 
+* ### Administrative Consolidation, Policing, and Crime (with Magdalena Dominguez and Tom Kirchmaier)
+
 * ### Better Stealing than Dealing? Property Crime, Illicit Drug Distribution, and Opioid Abuse after Felony Theft Thresholds Increase (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
 
 * ### Criminal Records and Local Monopsony Power (with Mike Makowsky and Peter Brummund)
