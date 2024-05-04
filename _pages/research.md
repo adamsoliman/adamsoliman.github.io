@@ -45,6 +45,8 @@ author_profile: true
 
 ## Other Writing
 
+[Evaluation of Durham's ShotSpotter Installation: Results of a 12-Month Pilot Project (with Phil Cook)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808698), Wilson Center for Science and Justice at Duke Law, February 2024
+
 [Corporate landlords are eroding the American Dream of homeownership](https://blogs.lse.ac.uk/usappblog/2023/12/18/corporate-landlords-are-eroding-the-american-dream-of-homeownership-especially-in-black-neighborhoods/), London School of Economics, Phelan US Centre, December 2023
 
 [Reducing the Costs of Drought: Lessons from Australia](https://www.ppic.org/blog/reducing-the-costs-of-drought-lessons-from-australia/), Public Policy Institute of California, September 2015
