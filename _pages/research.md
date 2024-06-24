@@ -13,7 +13,7 @@ author_profile: true
 
 * ### Criminal Records and Local Monopsony Power (with Mike Makowsky and Peter Brummund)
 
-* ### Illicit Drug Quality and the Overdose Epidemic} (with J. Travis Donahoe)
+* ### Illicit Drug Quality and the Overdose Epidemic (with J. Travis Donahoe)
 
 * ### Neighborhood Crime and Victimization (with Steve Billings, Eric Chyn, and Gerard Domenech Arumi)
 						
