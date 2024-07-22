@@ -5,10 +5,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Special Topics in Economics (Introduction to Stata), *Instructor of Record*
+### Introduction to Econometrics
+Undergraduate Course, Department of Economics, Clemson University, (Fall 2024)
+
+### Special Topics in Economics (Introduction to Stata)
 PhD Course, Department of Economics, Duke University (Summer 2021, Summer 2022)
 
-### Probability and Statistics, *Head Teaching Assistant*
+### Probability and Statistics
 Undergraduate Course, Department of Statistical Science, Duke University (Fall 2019, Spring 2020)
 
 ### Mathematics (Primary) and Economics (Secondary), *Teacher*
