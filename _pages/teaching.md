@@ -6,10 +6,10 @@ author_profile: true
 ---
 
 ### Special Topics in Economics (Introduction to Stata), *Instructor of Record*
-PhD Course, Department of Economics, Duke University (Summer 2022, [Course Evaluations](https://adamsoliman.github.io/files/Summer_II_2022_Econ_890-02_Soliman.pdf))
+PhD Course, Department of Economics, Duke University (Summer 2021, Summer 2022)
 
 ### Probability and Statistics, *Head Teaching Assistant*
-Undergraduate Course, Department of Statistical Science, Duke University (Fall 2019, [Course Evaluations](https://adamsoliman.github.io/files/F19_STA111_AdamSoliman.pdf))
+Undergraduate Course, Department of Statistical Science, Duke University (Fall 2019, Spring 2020)
 
 ### Mathematics (Primary) and Economics (Secondary), *Teacher*
 Grades 3-7 & 11, International School of Chouiefat, Dubai, UAE (2009 - 2011)
