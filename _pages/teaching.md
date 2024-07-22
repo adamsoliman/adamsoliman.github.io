@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### Introduction to Econometrics
-Undergraduate Course, Department of Economics, Clemson University, (Fall 2024)
+Undergraduate Course, Department of Economics, Clemson University (Fall 2024)
 
 ### Special Topics in Economics (Introduction to Stata)
 PhD Course, Department of Economics, Duke University (Summer 2021, Summer 2022)
