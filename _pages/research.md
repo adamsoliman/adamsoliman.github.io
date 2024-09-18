@@ -13,10 +13,10 @@ author_profile: true
 
 * ### Criminal Records and Local Monopsony Power (with Mike Makowsky and Peter Brummund)
 
-* ### Supply-Side Drivers of the Illicit Opioid Epidemic (with J. Travis Donahoe)
-
 * ### Neighborhood Crime and Victimization (with Steve Billings, Eric Chyn, and Gerard Domenech Arumi)
-						
+
+* ### Supply-Side Drivers of the Illicit Opioid Epidemic (with J. Travis Donahoe)
+      
 ## Working Papers and Publications
 
 ### [Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity](https://www.journals.uchicago.edu/doi/10.1086/721292)
