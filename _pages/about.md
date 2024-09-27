@@ -14,6 +14,3 @@ I am an assistant professor of economics at [Clemson University](https://www.cle
 I was previously a postdoctoral scholar at the London School of Economics after receiving my Ph.D. from Duke University in May 2023. Prior to my life as an economist, I was a primary and secondary school [teacher in Dubai](https://adamsoliman.github.io/teaching/) and took a year off to [travel](https://twitter.com/adamksoliman/status/1402014895214776331?s=20&t=kWelDx7GIkrv42lqRBRhfQ). 
 
 Please find my full CV [here](https://www.dropbox.com/scl/fi/aklgriq3on2v7ub0972f9/AdamSolimanCV.pdf?rlkey=c9b8detlwdo06ghfbuvyq6ji0&dl=0).
-
-![bficrime](https://adamsoliman.github.io/assets/1sgosXVA.jpeg) 
-Photo Credit: [University of Chicago, May 2023](https://bfi.uchicago.edu/event/conference-on-the-economics-of-crime-and-justice-3/)
