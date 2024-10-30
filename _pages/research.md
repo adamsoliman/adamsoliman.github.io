@@ -15,7 +15,7 @@ author_profile: true
 
 * ### Neighborhood Crime and Victimization (with Steve Billings, Eric Chyn, and Gerard Domenech Arumi)
 
-* ### Supply-Side Drivers of the Illicit Opioid Epidemic (with J. Travis Donahoe)
+* ### What Fueled the Illicit Opioid Epidemic's Rise? New Evidence from a Takeover of White Powder Heroin Markets (with J. Travis Donahoe)
       
 ## Working Papers and Publications
 
