@@ -7,9 +7,9 @@ author_profile: true
 
 <style>
   .toggle-button {
-    background-color: #a3a2a2;
-    color: white;
-    border: none;
+    background-color: white;
+    color: #0084fb;
+    border: #0084fb;
     padding: 5px 10px; /* Reduced padding */
     font-size: 14px; /* Smaller font size */
     border-radius: 3px; /* Slightly smaller border radius */
