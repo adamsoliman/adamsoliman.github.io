@@ -7,23 +7,26 @@ author_profile: true
 
 <style>
   .toggle-button {
-    background-color: #007bff; /* Bootstrap primary color */
-    color: white; /* Text color */
-    border: none; /* No border */
-    padding: 10px 15px; /* Top-bottom, left-right padding */
-    border-radius: 5px; /* Rounded corners */
-    cursor: pointer; /* Pointer cursor on hover */
-    transition: background-color 0.3s; /* Smooth transition */
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px; /* Reduced padding */
+    font-size: 14px; /* Smaller font size */
+    border-radius: 3px; /* Slightly smaller border radius */
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin: 2px; /* Add some margin to reduce visual bulk */
   }
 
   .toggle-button:hover {
-    background-color: #0056b3; /* Darker shade on hover */
+    background-color: #0056b3;
   }
 
   .toggle-button:focus {
-    outline: none; /* Remove focus outline */
+    outline: none;
   }
 </style>
+
 
 ## Work in Progress
 
