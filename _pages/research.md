@@ -7,7 +7,7 @@ author_profile: true
 
 <style>
   .toggle-button {
-    background-color: #4d4d52;
+    background-color: #9c9db5;
     color: white;
     border: none;
     padding: 5px 10px; /* Reduced padding */
