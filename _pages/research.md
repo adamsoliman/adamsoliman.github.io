@@ -39,26 +39,21 @@ author_profile: true
 
 ## Working Papers and Publications
 
-### [Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity](https://www.journals.uchicago.edu/doi/10.1086/721292)
-*The Journal of Law and Economics*, 2022
+### [Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity](https://www.journals.uchicago.edu/doi/10.1086/721292), *The Journal of Law and Economics*, 2022
 
 <button class="toggle-button" onclick="toggleText('abstract1')">Show Abstract</button>
 <div id="abstract1" style="display: none;">
   We still know very little about the incentives of police. Using geocoded crime data and a novel source of within-city variation in punishment severity, I am able to shed light on enforcement behavior. I find that in parts of a city where drug sale penalties were weakened, there is a 13% decrease in all drug arrests. There is no displacement of non-drug offenses. If offenders were significantly deterred by harsher penalties, as the law intended and Becker’s (1968) model predicts, drug arrests should have increased in areas with weaker penalties. My results are therefore consistent with police treating enforcement effort and punishment severity as complements. I also find that city-wide crime and drug use do not increase after the reform. This paper thus calls into question the "War on Drugs" view of punishment and suggests that certain types of enforcement can be reduced without incurring large public safety costs.
 </div>
 
-### [Disrupting Drug Markets: The Effects of Crackdowns on Rogue Opioid Suppliers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266020)
-*American Economic Journal: Economic Policy*, Conditionally Accepted
-
-*[ASHEcon Program Chair Award (2023)](https://www.ashecon.org/2023-ashecon-program-chair-awards/)*
+### [Disrupting Drug Markets: The Effects of Crackdowns on Rogue Opioid Suppliers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266020), *American Economic Journal: Economic Policy*, Conditionally Accepted
 
 <button class="toggle-button" onclick="toggleText('abstract2')">Show Abstract</button>
 <div id="abstract2" style="display: none;">
   This paper estimates the impacts of doctor crackdowns on the quantity demanded of prescription opioids, across-market substitution, and across-product substitution. Exploiting plausibly exogenous variation in the timing and location of administrative actions, I find that cracking down on a single doctor decreases county-level opioid dispensing by 10%. This decline persists across space and grows over time. Additionally, significant heroin substitution occurs, yet overall overdose mortality decreases. These results highlight a critical tradeoff policymakers should consider with targeted crackdowns: reductions in the flow of new users must be balanced against the harm that arises when existing users substitute to more dangerous drugs. 
 </div>
 
-### [Prescriptive Drought Policy and Water Supplier Compliance](https://www.sciencedirect.com/science/article/pii/S092180092200091X?dgcid=author)
-*Ecological Economics*, 2022
+### [Prescriptive Drought Policy and Water Supplier Compliance](https://www.sciencedirect.com/science/article/pii/S092180092200091X?dgcid=author), *Ecological Economics*, 2022
 
 <button class="toggle-button" onclick="toggleText('abstract3')">Show Abstract</button>
 <div id="abstract3" style="display: none;">
@@ -66,7 +61,6 @@ author_profile: true
 </div>
 
 ### [The Social Spillovers of Homeownership: Evidence from Institutional Investors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479) (with Steve Billings)
-*[The News & Observer](https://www.newsobserver.com/news/business/real-estate-news/article282644728.html )*, *[WFAE 90.7/NPR](https://www.wfae.org/business/2023-12-15/corporate-landlords-linked-to-declines-in-property-values-black-homeownership-in-charlotte)*
 
 <button class="toggle-button" onclick="toggleText('abstract4')">Show Abstract</button>
 <div id="abstract4" style="display: none;">
