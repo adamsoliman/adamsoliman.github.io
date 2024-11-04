@@ -30,15 +30,12 @@ author_profile: true
 
 ## Work in Progress
 
-* ### Administrative Consolidation, Policing, and Crime (with Magdalena Dominguez and Tom Kirchmaier)
+* **Administrative Consolidation, Policing, and Crime** (with Magdalena Dominguez and Tom Kirchmaier)
+* **Better Stealing than Dealing? The Effects of Felony Theft Thresholds** (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
+* **Criminal Records and Local Monopsony Power** (with Mike Makowsky and Peter Brummund)
+* **Neighborhood Crime and Victimization** (with Steve Billings, Eric Chyn, and Gerard Domenech Arumi)
+* **What Fueled the Illicit Opioid Epidemic? New Evidence from a Takeover of White Powder Heroin Markets** (with J. Travis Donahoe)
 
-* ### Better Stealing than Dealing? Property Crime, Illicit Drug Distribution, and Opioid Abuse after Felony Theft Thresholds Increase (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
-
-* ### Criminal Records and Local Monopsony Power (with Mike Makowsky and Peter Brummund)
-
-* ### Neighborhood Crime and Victimization (with Steve Billings, Eric Chyn, and Gerard Domenech Arumi)
-
-* ### What Fueled the Illicit Opioid Epidemic? New Evidence from a Takeover of White Powder Heroin Markets (with J. Travis Donahoe)
 
 ## Working Papers and Publications
 
