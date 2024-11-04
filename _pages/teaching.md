@@ -5,17 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Introduction to Econometrics
-Undergraduate Course, Department of Economics, Clemson University (Fall 2024)
+## Courses Taught
 
-### Special Topics in Economics (Introduction to Stata)
-PhD Course, Department of Economics, Duke University (Summer 2021, Summer 2022)
+* **Introduction to Econometrics**, Undergraduate Course, Department of Economics, Clemson University (Fall 2024)
 
-### Probability and Statistics
-Undergraduate Course, Department of Statistical Science, Duke University (Fall 2019, Spring 2020)
+* **Special Topics in Economics (Introduction to Stata)**, PhD Course, Department of Economics, Duke University (Summer 2021, Summer 2022)
 
-### Mathematics (Primary) and Economics (Secondary), *Teacher*
-Grades 3-7 & 11, International School of Chouiefat, Dubai, UAE (2009 - 2011)
+* **Probability and Statistics**, Undergraduate Course, Department of Statistical Science, Duke University (Fall 2019, Spring 2020)
+
+* **Mathematics (Primary) and Economics (Secondary)**, Grades 3-7 & 11, International School of Chouiefat, Dubai, UAE (2009 - 2011)
 
 Grade 5 Math Students | Grade 4 Math Students
 :-------------------------:|:-------------------------:
@@ -23,11 +21,8 @@ Grade 5 Math Students | Grade 4 Math Students
 
 ## Professional Development
 
-### [Preparing Future Faculty](https://gradschool.duke.edu/professional-development/programs/preparing-future-faculty), 2022 - 2023
-The Graduate School, Duke University
+* **[Preparing Future Faculty](https://gradschool.duke.edu/professional-development/programs/preparing-future-faculty)**, 2022 - 2023, The Graduate School, Duke University
 
-### [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching), 2022
-The Graduate School, Duke University
+* **[Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching)**, 2022, The Graduate School, Duke University
 
-### [Teaching on Purpose](https://kenan.ethics.duke.edu/teaching-on-purpose/), 2022
-The Kenan Institute for Ethics, Duke University
+* **[Teaching on Purpose](https://kenan.ethics.duke.edu/teaching-on-purpose/)**, 2022, The Kenan Institute for Ethics, Duke University
