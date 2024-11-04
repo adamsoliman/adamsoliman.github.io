@@ -37,7 +37,7 @@ author_profile: true
 * **What Fueled the Illicit Opioid Epidemic? New Evidence from a Takeover of White Powder Heroin Markets** (with J. Travis Donahoe)
 
 
-## Working Papers and Publications
+## Publications and Working Papers
 
 * **[Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity](https://www.journals.uchicago.edu/doi/10.1086/721292)**, *The Journal of Law and Economics*, 2022 <button class="toggle-button" onclick="toggleText('abstractdfsz')" style="display: inline-block; margin-left: 10px;">Show Abstract</button>
 <div id="abstractdfsz" style="display: none;">
@@ -57,13 +57,6 @@ Abstract: Governments often cannot use prices to induce water conservation, and 
 * **[The Social Spillovers of Homeownership: Evidence from Institutional Investors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479)** (with Steve Billings) <button class="toggle-button" onclick="toggleText('abstracthomes')" style="display: inline-block; margin-left: 10px;">Show Abstract</button>
 <div id="abstracthomes" style="display: none;">
 Abstract: We provide novel evidence on the social spillovers of homeownership by exploiting a recent trend of institutional investors purchasing single-family homes and converting them to permanent rentals. Using a granular difference-in-difference design based on proximity to a single investor-purchased property, we find that neighboring property values decline by 2% relative to those slightly further away. This decline grows over time yet decays across space, and these same properties experience increases in crime and decreases in property maintenance and registered voters. Our heterogeneity analysis suggests an important role for property owners, rather than tenants, in these observed externalities.
-</div>
-
-## Resting Papers
-
-* **Rebel Funding Strategies: Illicit Activities, Natural Resources, and Substitution Behavior** <button class="toggle-button" onclick="toggleText('abstractrebels')" style="display: inline-block; margin-left: 10px;">Show Abstract</button>
-<div id="abstractrebels" style="display: none;">
-Abstract: Rebel groups often exploit natural resources in order to finance their operations, yet we still know little about their basic funding decisions. Given the prevalence of asymmetric warfare, I examine how rebel groups choose between funding strategies using a unique panel dataset on the activities of 297 groups. I find that when the world price of a natural resource they exploit rises, rebel groups substitute away from extortion, smuggling, kidnapping, and theft. These results suggest that policies attempting to shut down these groups by cutting their main sources of funding may produce harmful unintended consequences in the short run.
 </div>
 
 <script>
