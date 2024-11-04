@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Courses Taught
-
 * **Introduction to Econometrics**, Undergraduate Course, Department of Economics, Clemson University (Fall 2024)
 
 * **Special Topics in Economics (Introduction to Stata)**, PhD Course, Department of Economics, Duke University (Summer 2021, Summer 2022)
@@ -18,11 +16,3 @@ author_profile: true
 Grade 5 Math Students | Grade 4 Math Students
 :-------------------------:|:-------------------------:
 ![femalestudents](https://adamsoliman.github.io/assets/Dubai007.JPG)  |  ![malestudents](https://adamsoliman.github.io/assets/Dubai008.JPG)
-
-## Professional Development
-
-* **[Preparing Future Faculty](https://gradschool.duke.edu/professional-development/programs/preparing-future-faculty)**, 2022 - 2023, The Graduate School, Duke University
-
-* **[Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching)**, 2022, The Graduate School, Duke University
-
-* **[Teaching on Purpose](https://kenan.ethics.duke.edu/teaching-on-purpose/)**, 2022, The Kenan Institute for Ethics, Duke University
