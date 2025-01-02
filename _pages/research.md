@@ -32,8 +32,8 @@ author_profile: true
 
 * **Administrative Consolidation, Policing, and Crime** (with Magdalena Dominguez and Tom Kirchmaier)
 * **Better Stealing than Dealing? The Effects of Felony Theft Thresholds** (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
+* **Legal Trade Routes and Illicit Drug Trafficking** (with Giacomo Campagnola and Gianmarco Danielle)
 * **Neighborhood Crime and Victimization** (with Steve Billings, Eric Chyn, and Gerard Domenech Arumi)
-* **Ports** (with Giacomo Campagnola and Gianmarco Danielle)
 * **What Fueled the Illicit Opioid Epidemic? New Evidence from a Takeover of White Powder Heroin Markets** (with J. Travis Donahoe)
 
 
