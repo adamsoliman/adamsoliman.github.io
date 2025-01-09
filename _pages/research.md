@@ -27,16 +27,6 @@ author_profile: true
   }
 </style>
 
-
-## Work in Progress
-
-* **Administrative Consolidation, Policing, and Crime** (with Magdalena Dominguez and Tom Kirchmaier)
-* **Better Stealing than Dealing? The Effects of Felony Theft Thresholds** (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
-* **Legal Trade Routes and Illicit Drug Trafficking** (with Giacomo Campagnola and Gianmarco Danielle)
-* **Neighborhood Crime and Victimization** (with Steve Billings, Eric Chyn, and Gerard Domenech Arumi)
-* **What Fueled the Illicit Opioid Epidemic? New Evidence from a Takeover of White Powder Heroin Markets** (with J. Travis Donahoe)
-
-
 ## Publications and Working Papers
 
 * **[Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity](https://www.journals.uchicago.edu/doi/10.1086/721292)**
@@ -80,6 +70,14 @@ We provide novel evidence on the social spillovers of homeownership by exploitin
     }
   }
 </script>
+
+## Work in Progress
+
+* **Administrative Consolidation, Policing, and Crime** (with Magdalena Dominguez and Tom Kirchmaier)
+* **Better Stealing than Dealing? The Effects of Felony Theft Thresholds** (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
+* **Legal Trade Routes and Illicit Drug Trafficking** (with Giacomo Campagnola and Gianmarco Danielle)
+* **Neighborhood Crime and Victimization** (with Steve Billings, Eric Chyn, and Gerard Domenech Arumi)
+* **What Fueled the Illicit Opioid Epidemic? New Evidence from a Takeover of White Powder Heroin Markets** (with J. Travis Donahoe)
 
 ## Other Writing
 
