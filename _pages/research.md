@@ -57,6 +57,13 @@ Governments often cannot use prices to induce water conservation, and the need t
 We provide novel evidence on the social spillovers of homeownership by exploiting a recent trend of institutional investors purchasing single-family homes and converting them to permanent rentals. Using a granular difference-in-difference design based on proximity to a single investor-purchased property, we find that neighboring property values decline by 2% relative to those slightly further away. This decline grows over time yet decays across space, and these same properties experience increases in crime and decreases in property maintenance and registered voters. Our heterogeneity analysis suggests an important role for property owners, rather than tenants, in these observed externalities.
 </div>
 
+* **[What Fueled the Illicit Opioid Epidemic? New Evidence from a Takeover of White Powder Heroin Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479)** (with J. Travis Donahoe)
+
+    <span style="display: block; margin-top: -12px; line-height: 1;">*Working Paper*, 2023 <button class="toggle-button" onclick="toggleText('abstracthomes')" style="display: inline-block; margin-left: 10px;">Show Abstract</button>
+<div id="abstracthomes" style="display: none;">
+In recent years, the majority of drug overdose deaths in the U.S. have involved illicitly-produced opioids (primarily heroin and fentanyl), overtaking prescription opioids as the main driver of the opioid epidemic. In this paper, we document a previously unexplored shift in heroin markets that played a critical role in driving this transition: the takeover of white powder heroin production by Mexican Drug Trafficking Organizations (DTOs) from Colombian DTOs beginning in 2012, which resulted in heroin that was adulterated with fentanyl and more variable in potency. Using a difference-in-differences approach that exploits the fact that white powder heroin markets were exposed to these heroin quality shocks while black tar heroin markets were not, we find that they increased heroin and fentanyl death rates by roughly 230% and 890%, respectively, from 2012 to 2019. Previously studied legal market interventions cannot explain these effects, and we shed light on key aspects of the evolving epidemic that were thus far unexplained. We conclude that shocks to heroin quality are a major determinant of the transition to the illicit opioid waves of the epidemic. 
+</div>
+
 <script>
   function toggleText(sectionId) {
     const section = document.getElementById(sectionId);
@@ -77,7 +84,6 @@ We provide novel evidence on the social spillovers of homeownership by exploitin
 * **Better Stealing than Dealing? The Effects of Felony Theft Thresholds** (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
 * **Legal Trade Routes and Illicit Drug Trafficking** (with Giacomo Campagnola and Gianmarco Danielle)
 * **Neighborhood Crime and Victimization** (with Steve Billings, Eric Chyn, and Gerard Domenech Arumi)
-* **What Fueled the Illicit Opioid Epidemic? New Evidence from a Takeover of White Powder Heroin Markets** (with J. Travis Donahoe)
 
 ## Other Writing
 
