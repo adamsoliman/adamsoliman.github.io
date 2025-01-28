@@ -57,7 +57,7 @@ Governments often cannot use prices to induce water conservation, and the need t
 We provide novel evidence on the social spillovers of homeownership by exploiting a recent trend of institutional investors purchasing single-family homes and converting them to permanent rentals. Using a granular difference-in-difference design based on proximity to a single investor-purchased property, we find that neighboring property values decline by 2% relative to those slightly further away. This decline grows over time yet decays across space, and these same properties experience increases in crime and decreases in property maintenance and registered voters. Our heterogeneity analysis suggests an important role for property owners, rather than tenants, in these observed externalities.
 </div>
 
-* **[What Fueled the Illicit Opioid Epidemic? New Evidence from a Takeover of White Powder Heroin Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479)** (with J. Travis Donahoe)
+* **[What Fueled the Illicit Opioid Epidemic? New Evidence from a Takeover of White Powder Heroin Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929)** (with J. Travis Donahoe)
 
     <span style="display: block; margin-top: -12px; line-height: 1;">*Working Paper*, 2023 <button class="toggle-button" onclick="toggleText('abstracthomes')" style="display: inline-block; margin-left: 10px;">Show Abstract</button>
 <div id="abstracthomes" style="display: none;">
