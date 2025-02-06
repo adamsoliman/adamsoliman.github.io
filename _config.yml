@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Adam Soliman"
   avatar           : "cofb headshots-1022.jpg" # "solimanjmp.jpg" 
-  bio              : "Assistant Professor of Economics at Clemson University"
+  bio              : "Assistant Professor of Economics"
   location         : "South Carolina"
-  employer         : 
+  employer         : "Clemson University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Y7weoQQAAAAJ&hl=en&oi=sra"
   email            : "adamksoliman@gmail.com"
@@ -99,7 +99,7 @@ author:
   google_plus      :
   keybase          :
   instagram        : # "a.k.soliman"
-  impactstory      : # "https://cep.lse.ac.uk/_new/people/person.asp?id=11305"
+  impactstory      : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3706931"
   lastfm           :
   linkedin         : "adamksoliman"
   orcid            : 
