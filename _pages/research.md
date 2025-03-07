@@ -29,6 +29,13 @@ author_profile: true
 
 ## Publications and Working Papers
 
+* **[Better Stealing than Dealing: How do Felony Theft Thresholds Impact Crime?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572)** (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
+
+    <span style="display: block; margin-top: -12px; line-height: 1;">*Working Paper*, 2025 <button class="toggle-button" onclick="toggleText('abstracttheft')" style="display: inline-block; margin-left: 10px;">Show Abstract</button>
+<div id="abstracttheft" style="display: none;">
+From 2005 to 2019, forty US states increased the dollar value threshold delineating misdemeanor and felony theft, reducing the expected punishment for a subset of property crimes. Using an event study framework, we observe significant and growing increases in theft after a state reform is passed. We then show that reduced sanctions for theft have broader effects in the market for illegal activity. Consistent with a mechanism of substitution across income-generating crimes, we find decreases in both drug distribution crimes and the probability that a released offender previously convicted of drug distribution is reincarcerated for a new drug conviction. 
+</div>
+
 * **[Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity](https://www.journals.uchicago.edu/doi/10.1086/721292)**
 
     <span style="display: block; margin-top: -12px; line-height: 1;">*The Journal of Law and Economics*, 2022 <button class="toggle-button" onclick="toggleText('abstractdfsz')" style="display: inline-block; margin-left: 10px;">Show Abstract</button>
@@ -80,7 +87,6 @@ In recent years, illicitly produced opioids—primarily heroin and fentanyl—ha
 
 ## Work in Progress
 
-* **Better Stealing than Dealing? The Effects of Felony Theft Thresholds** (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
 * **Legal Trade Routes and Illicit Drug Trafficking** (with Gianmarco Danielle and Juan Vargas)
 * **Neighborhood Crime and Victimization** (with Steve Billings, Eric Chyn, and Gerard Domenech Arumi)
 
