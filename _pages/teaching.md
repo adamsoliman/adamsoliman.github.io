@@ -18,4 +18,5 @@ Grade 5 Math Students (2012) | Grade 4 Math Students (2012)
 ![femalestudents](https://adamsoliman.github.io/assets/Dubai007.JPG)  |  ![malestudents](https://adamsoliman.github.io/assets/Dubai008.JPG)
 
 <p align="center"><b>Econometrics with Special Guest (2025)</b></p>  
+
 ![classroomactivity](https://adamsoliman.github.io/images/specialguest_econ4050_spring2025.jpg)
