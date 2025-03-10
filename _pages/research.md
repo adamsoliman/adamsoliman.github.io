@@ -36,18 +36,18 @@ author_profile: true
 This paper estimates the impacts of doctor crackdowns on the quantity demanded of prescription opioids, across-market substitution, and across-product substitution. Exploiting plausibly exogenous variation in the timing and location of administrative actions, I find that cracking down on a single doctor decreases county-level opioid dispensing by 10%. This decline persists across space and grows over time. Additionally, significant heroin substitution occurs, yet overall overdose mortality decreases. These results highlight a critical tradeoff policymakers should consider with targeted crackdowns: reductions in the flow of new users must be balanced against the harm that arises when existing users substitute to more dangerous drugs. 
 </div>
 
-* **[Better Stealing than Dealing: How do Felony Theft Thresholds Impact Crime?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572)** (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
-
-    <span style="display: block; margin-top: -12px; line-height: 1;">*Working Paper*, 2025 <button class="toggle-button" onclick="toggleText('abstracttheft')" style="display: inline-block; margin-left: 10px;">Show Abstract</button>
-<div id="abstracttheft" style="display: none;">
-From 2005 to 2019, forty US states increased the dollar value threshold delineating misdemeanor and felony theft, reducing the expected punishment for a subset of property crimes. Using an event study framework, we observe significant and growing increases in theft after a state reform is passed. We then show that reduced sanctions for theft have broader effects in the market for illegal activity. Consistent with a mechanism of substitution across income-generating crimes, we find decreases in both drug distribution crimes and the probability that a released offender previously convicted of drug distribution is reincarcerated for a new drug conviction. 
-</div>
-
 * **[What Fueled the Illicit Opioid Epidemic?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929)** (with J. Travis Donahoe)
 
     <span style="display: block; margin-top: -12px; line-height: 1;">*Working Paper*, 2025 <button class="toggle-button" onclick="toggleText('abstracttakeover')" style="display: inline-block; margin-left: 10px;">Show Abstract</button>
 <div id="abstracttakeover" style="display: none;">
 In recent years, illicitly produced opioids—primarily heroin and fentanyl—have surpassed prescription opioids as the leading cause of overdose deaths in the United States. We identify a previously unexplored driver of this transition: heroin potency shocks resulting from both the integration of heroin supply chains in Mexico and the adulteration of heroin with fentanyl. Using a difference-in-differences framework that exploits the fact that white powder heroin markets were exposed to these potency shocks while black tar heroin markets were not, we estimate that they increased heroin and fentanyl death rates by approximately 230% and 890%, respectively, from 2012 to 2019. Previously studied legal market interventions cannot explain these effects, and our findings provide new insight into key aspects of the evolving epidemic that were thus far unexplained. We conclude that heroin potency shocks are a major determinant of the transition to the illicit opioid waves of the epidemic. 
+</div>
+
+* **[Better Stealing than Dealing: How do Felony Theft Thresholds Impact Crime?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572)** (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
+
+    <span style="display: block; margin-top: -12px; line-height: 1;">*Working Paper*, 2025 <button class="toggle-button" onclick="toggleText('abstracttheft')" style="display: inline-block; margin-left: 10px;">Show Abstract</button>
+<div id="abstracttheft" style="display: none;">
+From 2005 to 2019, forty US states increased the dollar value threshold delineating misdemeanor and felony theft, reducing the expected punishment for a subset of property crimes. Using an event study framework, we observe significant and growing increases in theft after a state reform is passed. We then show that reduced sanctions for theft have broader effects in the market for illegal activity. Consistent with a mechanism of substitution across income-generating crimes, we find decreases in both drug distribution crimes and the probability that a released offender previously convicted of drug distribution is reincarcerated for a new drug conviction. 
 </div>
 
 * **[The Social Spillovers of Homeownership: Evidence from Institutional Investors](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479)** (with Steve Billings)
