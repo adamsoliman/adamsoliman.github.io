@@ -31,7 +31,7 @@ author_profile: true
 
 * **[Disrupting Drug Markets: The Effects of Crackdowns on Rogue Opioid Suppliers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266020)**
 
-    <span style="display: block; margin-top: -12px; line-height: 1;">*American Economic Journal: Economic Policy*, Conditionally Accepted <button class="toggle-button" onclick="toggleText('abstractdocs')" style="display: inline-block; margin-left: 10px;">Show Abstract</button>
+    <span style="display: block; margin-top: -12px; line-height: 1;">*American Economic Journal: Economic Policy*, Accepted <button class="toggle-button" onclick="toggleText('abstractdocs')" style="display: inline-block; margin-left: 10px;">Show Abstract</button>
 <div id="abstractdocs" style="display: none;">
 This paper estimates the impacts of doctor crackdowns on the quantity demanded of prescription opioids, across-market substitution, and across-product substitution. Exploiting plausibly exogenous variation in the timing and location of administrative actions, I find that cracking down on a single doctor decreases county-level opioid dispensing by 10%. This decline persists across space and grows over time. Additionally, significant heroin substitution occurs, yet overall overdose mortality decreases. These results highlight a critical tradeoff policymakers should consider with targeted crackdowns: reductions in the flow of new users must be balanced against the harm that arises when existing users substitute to more dangerous drugs. 
 </div>
