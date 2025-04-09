@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Adam Soliman"
-  avatar           : "cofb headshots-1022.jpg" # "solimanjmp.jpg" 
+  avatar           : "solimanjmp.jpg" # "cofb headshots-1022.jpg"
   bio              : "Assistant Professor of Economics at Clemson University"
   location         : "South Carolina"
   employer         : 
