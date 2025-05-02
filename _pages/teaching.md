@@ -11,7 +11,7 @@ author_profile: true
 
 * **Probability and Statistics**, Undergraduate Course, Department of Statistical Science, Duke University (Fall 2019, Spring 2020)
 
-* **Mathematics (Primary) and Economics (Secondary)**, Grades 3-7 & 11, International School of Chouiefat, Dubai, UAE (2009 - 2011)
+* **Mathematics (Primary) and Economics (Secondary)**, International School of Chouiefat, Dubai, UAE (2009 - 2011)
 
 Grade 5 Math Students (2012) | Grade 4 Math Students (2012)
 :-------------------------:|:-------------------------:
