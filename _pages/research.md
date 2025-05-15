@@ -78,7 +78,7 @@ We still know very little about the incentives of police. Using geocoded crime d
   }
 </script>
 
-## Work in Progress
+## Selected Work in Progress
 
 * **Legal Trade Routes and Illicit Drug Trafficking** (with Gianmarco Danielle and Juan Vargas)
 * **Neighborhood Crime and Victimization** (with Steve Billings, Eric Chyn, and Gerard Domenech Arumi)
