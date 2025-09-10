@@ -6,25 +6,21 @@ author_profile: true
 ---
 
 <style>
-  .toggle-button {
-    background-color: white;
-    color: #0084fb;
-    border: #0084fb;
-    padding: 5px 10px; /* Reduced padding */
-    font-size: 14px; /* Smaller font size */
-    border-radius: 3px; /* Slightly smaller border radius */
-    cursor: pointer;
-    transition: background-color 0.3s;
-    margin: 2px; /* Add some margin to reduce visual bulk */
-  }
-
-  .toggle-button:hover {
-    background-color: #0056b3;
-  }
-
-  .toggle-button:focus {
-    outline: none;
-  }
+  .toggle-button{
+  background: transparent;
+  color:#0056b3;
+  border:1px solid #0056b3;
+  padding:4px 8px;
+  font-size:14px;
+  border-radius:6px;
+  cursor:pointer;
+  transition: background-color .2s, color .2s, border-color .2s;
+}
+.toggle-button:hover,
+.toggle-button[aria-expanded="true"]{
+  background:#0056b3;
+  color:#fff;            /* fix contrast on hover */
+}
 </style>
 
 ## Publications and Working Papers
@@ -80,8 +76,10 @@ We still know very little about the incentives of police. Using geocoded crime d
 
 ## Selected Work in Progress
 
-* **Legal Trade Routes and Illicit Drug Trafficking** (with Gianmarco Danielle and Juan Vargas)
-* **Neighborhood Crime and Victimization** (with Steve Billings, Eric Chyn, and Gerard Domenech Arumi)
+* **Global cocaine shocks** (with Gianmarco Danielle and Juan Vargas)
+* **Methadone clinics, overdoses, and crime** (with Travis Donahoe and Analisa Packham)
+* **Policing behavior and crime** (with Mike Makowsky, Matt Ross, and CarlyWill Sloan)
+* **Prosecutorial discretion** (with Spencer Cooper)
 
 ## Other Writing
 
