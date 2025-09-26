@@ -33,12 +33,18 @@ This paper estimates the impacts of doctor crackdowns on the quantity demanded o
 </div>  
 
 * **[Drug Potency Shocks and Overdose Mortality: Evidence from Geographically Segmented Heroin Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929)** (with J. Travis Donahoe)  
-  <span style="display:block; margin-top:2px; font-size:90%; color:#555;">Previously circulated as <em>“What Fueled the Illicit Opioid Epidemic?”</em></span>  
-  <span style="display:block; margin-top:4px; line-height:1.3;">*Working Paper*, 2025 <button class="toggle-button" onclick="toggleText('abstracttakeover')" style="display:inline-block; margin-left:10px;">Show Abstract</button></span>  
+<span style="display:block; margin-top:2px; font-size:90%; color:#555;">
+  Previously circulated as <em>“What Fueled the Illicit Opioid Epidemic?”</em>
+</span>
+<span style="display:block; margin-top:0; line-height:1.3;">
+  <em>Working Paper</em>, 2025 
+  <button class="toggle-button" onclick="toggleText('abstracttakeover')" style="display:inline-block; margin-left:10px;">Show Abstract</button>
+</span>
 
 <div id="abstracttakeover" style="display:none;">
 We provide the first causal evidence that geographically concentrated shocks to heroin potency drove recent surges in U.S. overdose mortality. Exploiting the fact that white powder heroin markets experienced greater purity variability and fentanyl adulteration beginning in 2012, while black tar markets did not, we compare subsequent mortality across commuting zones. Exposure to these shocks increased overdose death rates by 52% through 2019. These effects arose from heightened fatality risk among existing heroin users, highlighting the dangers of volatility in illicit drug supply and underscoring the central role of supply-side dynamics in shaping the recent trajectory of the overdose epidemic.  
 </div>
+
 
 
 * **[Better Stealing than Dealing: How do Felony Theft Thresholds Impact Crime?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572)** (with Steve Billings, Mike Makowsky, and Kevin Schnepel)  
