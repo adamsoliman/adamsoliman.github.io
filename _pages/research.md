@@ -32,11 +32,18 @@ author_profile: true
 This paper estimates the impacts of doctor crackdowns on the quantity demanded of prescription opioids, across-market substitution, and across-product substitution. Exploiting plausibly exogenous variation in the timing and location of administrative actions, I find that cracking down on a single doctor decreases county-level opioid dispensing by 10%. This decline persists across space and grows over time. Additionally, significant heroin substitution occurs, yet overall overdose mortality decreases. These results highlight a critical tradeoff policymakers should consider with targeted crackdowns: reductions in the flow of new users must be balanced against the harm that arises when existing users substitute to more dangerous drugs. 
 </div>
 
-* **[What Fueled the Illicit Opioid Epidemic?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929)** (with J. Travis Donahoe)
+* **[Drug Potency Shocks and Overdose Mortality: Evidence from Geographically Segmented Heroin Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929)** (with J. Travis Donahoe)  
+  <span style="display:block; margin-top:-8px; font-size:90%; color:#555;">
+    Previously circulated as <em>“What Fueled the Illicit Opioid Epidemic?”</em>
+  </span>
 
-    <span style="display: block; margin-top: -12px; line-height: 1;">*Working Paper*, 2025 <button class="toggle-button" onclick="toggleText('abstracttakeover')" style="display: inline-block; margin-left: 10px;">Show Abstract</button>
-<div id="abstracttakeover" style="display: none;">
-In recent years, illicitly manufactured opioids—primarily heroin and fentanyl—have overtaken prescription opioids as the leading cause of overdose deaths in the United States. We provide the first causal evidence that geographically concentrated heroin purity shocks and supply-side adulteration of heroin with fentanyl played a central role in driving this transition. Using a difference-in-differences design that exploits the fact that white powder heroin markets—but not black tar heroin markets—were exposed to supply chain shifts beginning in 2012 that increased both the variability of heroin purity and the prevalence of fentanyl adulteration, we find that exposure to these shocks increased all-cause overdose death rates by approximately 50% and account for roughly half of the rise in illicit opioid deaths through 2019. These effects cannot be explained by previously studied policy efforts aimed at restricting prescription opioids. Our findings also help reconcile unexplained patterns in the opioid epidemic, including the sharp geographic shift in overdose deaths toward eastern states and rising mortality among populations less exposed to prescription opioids.
+  <span style="display:block; margin-top:4px; line-height:1;">
+    *Working Paper*, 2025 
+    <button class="toggle-button" onclick="toggleText('abstracttakeover')" style="display:inline-block; margin-left:10px;">Show Abstract</button>
+  </span>
+
+  <div id="abstracttakeover" style="display:none;">
+We provide the first causal evidence that geographically concentrated shocks to heroin potency drove recent surges in U.S. overdose mortality. Exploiting the fact that white powder heroin markets experienced greater purity variability and fentanyl adulteration beginning in 2012, while black tar markets did not, we compare subsequent mortality across commuting zones. Exposure to these shocks increased overdose death rates by 52% through 2019. These effects arose from heightened fatality risk among existing heroin users, highlighting the dangers of volatility in illicit drug supply and underscoring the central role of supply-side dynamics in shaping the recent trajectory of the overdose epidemic.  
 </div>
 
 * **[Better Stealing than Dealing: How do Felony Theft Thresholds Impact Crime?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572)** (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
