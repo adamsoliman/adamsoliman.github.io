@@ -86,9 +86,10 @@ We still know very little about the incentives of police. Using geocoded crime d
 ## Selected Work in Progress
 
 * **Global cocaine shocks** (with Gianmarco Danielle and Juan Vargas)
-* **Methadone clinics, overdoses, and crime** (with Travis Donahoe and Analisa Packham)
+* **Methadone treatment, overdoses, and crime** (with Travis Donahoe and Analisa Packham)
 * **Policing behavior and crime** (with Mike Makowsky, Matt Ross, and CarlyWill Sloan)
 * **Prosecutorial discretion** (with Spencer Cooper)
+* **The effects of ShotSpotter on shooting fatality rates** (with Terence Chau, Phil Cook, and Jens Ludwig)
 
 ## Other Writing
 
