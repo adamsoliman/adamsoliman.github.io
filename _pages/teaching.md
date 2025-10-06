@@ -10,44 +10,31 @@ ul.teaching-list {
   margin-left: 15px;
   line-height: 1.6;
   list-style-type: disc;
-  margin-bottom: 0; /* remove extra space under list */
+  margin-bottom: 0; /* tighten spacing below list */
 }
 
 ul.teaching-list li {
   margin-bottom: 8px;
 }
 
-/* Photo grid for Dubai photos */
+/* Photo grid for Dubai */
 .photo-grid {
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
+  align-items: flex-start;
   gap: 20px;
   margin-top: 10px;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   text-align: center;
 }
 
-/* Two Dubai photos side by side */
 .photo-grid img {
-  width: 48%;
-  max-width: 550px;
+  width: 420px; /* fixed width so they stay side by side */
+  max-width: 45%;
   border-radius: 6px;
   border: 1px solid #ddd;
-  height: auto;
 }
 
-/* Wide Clemson photo */
-.photo-wide {
-  width: 100%;
-  max-width: 900px;
-  margin: 0 auto;
-  border-radius: 6px;
-  border: 1px solid #ddd;
-  display: block;
-}
-
-/* Captions */
 .photo-caption {
   font-size: 0.9em;
   color: #555;
@@ -56,10 +43,14 @@ ul.teaching-list li {
   text-align: center;
 }
 
-@media (max-width: 768px) {
-  .photo-grid img {
-    width: 100%;
-  }
+/* Clemson photo — slightly smaller than before */
+.photo-wide {
+  width: 85%;
+  max-width: 800px;
+  margin: 0 auto;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  display: block;
 }
 </style>
 
@@ -76,7 +67,7 @@ ul.teaching-list li {
   <li><strong>Mathematics (Primary) and Economics (Secondary)</strong>, International School of Chouiefat, Dubai, UAE (2009–2011)</li>
 </ul>
 
-<hr style="margin: 12px 0;">
+<hr style="margin: 14px 0;">
 
 <h2>Teaching in Action</h2>
 
@@ -92,7 +83,7 @@ ul.teaching-list li {
   </div>
 </div>
 
-<div style="text-align:center; margin-top:25px;">
+<div style="text-align:center; margin-top:20px;">
   <img class="photo-wide" src="https://adamsoliman.github.io/images/specialguest_econ4050_spring2025.jpg" alt="Econometrics Class with Guest">
   <div class="photo-caption">Econometrics Class, Clemson University (Spring 2025) — special visit from my Mom!</div>
 </div>
