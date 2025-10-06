@@ -161,45 +161,41 @@ section {
 <h2>Working Papers</h2>
 
 <div class="wp-entry">
-  <strong>Better Stealing than Dealing: How do Felony Theft Thresholds Impact Crime?</strong>  
-  (with Steve Billings, Mike Makowsky, and Kevin Schnepel)  
+  <strong>Better Stealing than Dealing: How do Felony Theft Thresholds Impact Crime?</strong> (with Steve Billings, Mike Makowsky, and Kevin Schnepel)<br>
   <span class="pub-links">
     [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572" target="_blank">Paper Link</a>]
+    <button class="toggle-button" onclick="toggleText('abstracttheft', this)">Show Abstract</button>
   </span>
-  <button class="toggle-button" onclick="toggleText('abstracttheft', this)">Show Abstract</button>
   <div id="abstracttheft" class="abstract">
     From 2005 to 2019, forty US states increased the dollar value threshold delineating misdemeanor and felony theft, reducing the expected punishment for a subset of property crimes. Using an event study framework, we observe significant and growing increases in theft after a state reform is passed. We then show that reduced sanctions for theft have broader effects in the market for illegal activity. Consistent with a mechanism of substitution across income-generating crimes, we find decreases in both drug distribution crimes and the probability that a released offender previously convicted of drug distribution is reincarcerated for a new drug conviction.
   </div>
 </div>
 
 <div class="wp-entry">
-  <strong>Drug Potency Shocks and Overdose Mortality: Evidence from Geographically Segmented Heroin Markets</strong>  
-  (with J. Travis Donahoe)  
+  <strong>Drug Potency Shocks and Overdose Mortality: Evidence from Geographically Segmented Heroin Markets</strong> (with J. Travis Donahoe)<br>
   <span style="display:block; margin-top:2px; font-size:90%; color:#555;">
     Previously circulated as <em>“What Fueled the Illicit Opioid Epidemic?”</em>
   </span>
   <span class="pub-links">
     [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929" target="_blank">Paper Link</a>]
+    <button class="toggle-button" onclick="toggleText('abstracttakeover', this)">Show Abstract</button>
   </span>
-  <button class="toggle-button" onclick="toggleText('abstracttakeover', this)">Show Abstract</button>
   <div id="abstracttakeover" class="abstract">
     We provide the first causal evidence that geographically concentrated shocks to heroin potency drove recent surges in U.S. overdose mortality. Exploiting the fact that white powder heroin markets experienced greater purity variability and fentanyl adulteration beginning in 2012, while black tar markets did not, we compare subsequent mortality across commuting zones. Exposure to these shocks increased overdose death rates by 52% through 2019. These effects arose from heightened fatality risk among existing heroin users, highlighting the dangers of volatility in illicit drug supply and underscoring the central role of supply-side dynamics in shaping the recent trajectory of the overdose epidemic.
   </div>
 </div>
 
 <div class="wp-entry">
-  <strong>The Social Spillovers of Homeownership: Evidence from Institutional Investors</strong>  
-  (with Steve Billings)  
+  <strong>The Social Spillovers of Homeownership: Evidence from Institutional Investors</strong> (with Steve Billings)<br>
   <span class="pub-links">
     [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479" target="_blank">Paper Link</a>]
+    <button class="toggle-button" onclick="toggleText('abstracthomes', this)">Show Abstract</button>
   </span>
-  <button class="toggle-button" onclick="toggleText('abstracthomes', this)">Show Abstract</button>
   <div id="abstracthomes" class="abstract">
     We provide novel evidence on the social spillovers of homeownership by exploiting the recent rise of institutional investors purchasing single-family homes and converting them into permanent rentals. Using a granular difference-in-differences design based on proximity to each investor-purchased property, we find that neighboring property values decline by 1% relative to those slightly farther away. This decline grows over time yet decays across space, and these same properties experience increases in crime and decreases in property maintenance and voter registration. Supplemental analysis suggests these externalities arise from both landlord practices and tenant composition.
   </div>
 </div>
 </section>
-
 
 <!-- ===================== -->
 <!--  WORK IN PROGRESS     -->
