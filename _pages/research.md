@@ -15,14 +15,11 @@ h2 {
   color: #222;
 }
 
-.pub-entry, .wp-entry {
-  margin-bottom: 25px;
-  padding-bottom: 18px;
-  border-bottom: 1px dotted #ccc;
-}
+/* ======= ENTRY SPACING ======= */
 
-.pub-entry:last-child, .wp-entry:last-child {
-  border-bottom: none;
+.pub-entry, .wp-entry {
+  margin-bottom: 14px;
+  padding-bottom: 0;
 }
 
 /* ======= TEXT & COLOR ======= */
@@ -34,7 +31,7 @@ h2 {
 
 .pub-meta, .wp-meta {
   display: block;
-  margin-top: 4px;
+  margin-top: 3px;
   line-height: 1.4;
   color: #555;
   font-size: 0.95em;
@@ -97,7 +94,7 @@ ul li {
 }
 
 section {
-  margin-bottom: 50px;
+  margin-bottom: 45px;
 }
 </style>
 
