@@ -92,6 +92,7 @@ ul {
 
 ul li {
   margin-bottom: 6px;
+  color: #000;
 }
 
 section {
