@@ -69,7 +69,7 @@ ul.teaching-list li {
 
 <hr style="margin: 12px 0;">
 
-<h2>Teaching in Action</h2>
+<h2>Student Snapshots</h2>
 
 <div class="photo-grid">
   <div>
