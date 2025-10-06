@@ -42,9 +42,12 @@ I am an applied microeconomist focusing on drug markets, policing, and neighborh
 Before graduate school, I was a primary and secondary <a href="https://adamsoliman.github.io/teaching/" target="_blank">school teacher</a> in Dubai.
 </p>
 
-<div class="cv-links">
-<a href="https://www.dropbox.com/scl/fi/aklgriq3on2v7ub0972f9/AdamSolimanCV.pdf?rlkey=c9b8detlwdo06ghfbuvyq6ji0&dl=0" target="_blank">Full CV</a><br>
-<a href="https://bsky.app/profile/adamsoliman.bsky.social" target="_blank">Bluesky Profile</a>
+<div class="link-block">
+For more information, please see my <a class="highlight-link" href="https://adamsoliman.github.io/research/" target="_blank">research page</a>, 
+my <a href="https://www.dropbox.com/scl/fi/aklgriq3on2v7ub0972f9/AdamSolimanCV.pdf?rlkey=c9b8detlwdo06ghfbuvyq6ji0&dl=0" target="_blank">full CV</a>, 
+and my <a href="https://bsky.app/profile/adamsoliman.bsky.social" target="_blank">Bluesky profile</a>.
 </div>
+
+
 
 </div>
