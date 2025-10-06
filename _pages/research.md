@@ -6,8 +6,30 @@ author_profile: true
 ---
 
 <style>
+/* ======= GLOBAL STYLING ======= */
+
+h2 {
+  margin-top: 40px;
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 4px;
+  color: #222;
+}
+
 .pub-entry, .wp-entry {
-  margin-bottom: 20px;
+  margin-bottom: 25px;
+  padding-bottom: 18px;
+  border-bottom: 1px dotted #ccc;
+}
+
+.pub-entry:last-child, .wp-entry:last-child {
+  border-bottom: none;
+}
+
+/* ======= TEXT & COLOR ======= */
+
+.pub-entry strong, .wp-entry strong {
+  color: #004080;
+  font-size: 1.05em;
 }
 
 .pub-meta, .wp-meta {
@@ -20,40 +42,53 @@ author_profile: true
 
 .pub-links {
   font-size: 0.9em;
-  color: #666;
+  color: #004080;
 }
 
 .pub-links a {
-  color: #666;
+  color: #004080;
   text-decoration: none;
+  font-weight: 500;
 }
 
 .pub-links a:hover {
-  color: #000;
   text-decoration: underline;
+  color: #00264d;
 }
+
+/* ======= BUTTONS ======= */
 
 .toggle-button {
   display: inline-block;
   margin-left: 10px;
-  background: none;
-  border: none;
-  color: #0066cc;
+  background: #f8f8f8;
+  border: 1px solid #c0c0c0;
+  border-radius: 4px;
+  color: #004080;
   cursor: pointer;
-  font-size: 0.9em;
-  padding: 0;
+  font-size: 0.85em;
+  padding: 2px 6px;
 }
 
 .toggle-button:hover {
-  text-decoration: underline;
+  background: #e8f0ff;
+  border-color: #004080;
 }
+
+/* ======= ABSTRACTS ======= */
 
 .abstract {
   display: none;
   margin-top: 6px;
   color: #333;
-  line-height: 1.5;
+  line-height: 1.55;
   max-width: 800px;
+}
+
+/* ======= MISC SPACING ======= */
+
+section {
+  margin-bottom: 50px;
 }
 </style>
 
@@ -61,6 +96,7 @@ author_profile: true
 <!--     PUBLICATIONS      -->
 <!-- ===================== -->
 
+<section>
 <h2>Publications</h2>
 
 <div class="pub-entry">
@@ -106,11 +142,13 @@ author_profile: true
     Governments often cannot use prices to induce water conservation, and the need to understand the impacts of alternate methods is growing due to increased variability in water resources. During the 2012–2016 drought in California, a period that may presage the future of water management in a warmer climate, the state attempted to manage water use through a set of mandatory restrictions that assigned each of California's 412 largest urban water suppliers to one of nine conservation tiers; those with greater historic usage needed to conserve more. I find that even though significant statewide savings occurred, only half of all suppliers complied with their conservation target. Moreover, the increased savings were not caused by the tiered design of the mandate: evidence from a regression discontinuity design shows that suppliers that just missed a stricter conservation tier actually conserved more. Additionally, water use rebounded after the regulation was removed, implying that variable adjustments in demand contributed more to water use savings than fixed cost household investments. Given the significant costs of water regulation and the high probability of future droughts, the policy implication is that both governments and water suppliers may benefit from investments in water supply reliability and less complex prescriptive policies.
   </div>
 </div>
+</section>
 
 <!-- ===================== -->
 <!--     WORKING PAPERS    -->
 <!-- ===================== -->
 
+<section>
 <h2>Working Papers</h2>
 
 <div class="wp-entry">
@@ -157,6 +195,35 @@ author_profile: true
     We provide novel evidence on the social spillovers of homeownership by exploiting the recent rise of institutional investors purchasing single-family homes and converting them into permanent rentals. Using a granular difference-in-differences design based on proximity to each investor-purchased property, we find that neighboring property values decline by 1% relative to those slightly farther away. This decline grows over time yet decays across space, and these same properties experience increases in crime and decreases in property maintenance and voter registration. Supplemental analysis suggests these externalities arise from both landlord practices and tenant composition.
   </div>
 </div>
+</section>
+
+<!-- ===================== -->
+<!--  WORK IN PROGRESS     -->
+<!-- ===================== -->
+
+<section>
+<h2>Selected Work in Progress</h2>
+<ul>
+  <li><strong>Global cocaine shocks</strong> (with Gianmarco Danielle and Juan Vargas)</li>
+  <li><strong>Methadone treatment, overdoses, and crime</strong> (with Travis Donahoe and Analisa Packham)</li>
+  <li><strong>Policing behavior and crime</strong> (with Mike Makowsky, Matt Ross, and CarlyWill Sloan)</li>
+  <li><strong>Prosecutorial discretion</strong> (with Spencer Cooper)</li>
+  <li><strong>The effects of ShotSpotter on shooting fatality rates</strong> (with Terence Chau, Phil Cook, and Jens Ludwig)</li>
+</ul>
+</section>
+
+<!-- ===================== -->
+<!--    OTHER WRITING      -->
+<!-- ===================== -->
+
+<section>
+<h2>Other Writing</h2>
+<ul>
+  <li><a href="https://www.niskanencenter.org/americas-overdose-blindspot/" target="_blank"><strong>America’s Overdose Blindspot</strong></a>, Niskanen Center, April 2025</li>
+  <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808698" target="_blank"><strong>Evaluation of Durham's ShotSpotter Installation: Results of a 12-Month Pilot Project</strong></a> (with Phil Cook), Wilson Center for Science and Justice at Duke Law, February 2024</li>
+  <li><a href="https://blogs.lse.ac.uk/usappblog/2023/12/18/corporate-landlords-are-eroding-the-american-dream-of-homeownership-especially-in-black-neighborhoods/" target="_blank"><strong>Corporate landlords are eroding the American Dream of homeownership</strong></a>, London School of Economics, Phelan US Centre, December 2023</li>
+</ul>
+</section>
 
 <script>
 function toggleText(sectionId, button) {
@@ -170,20 +237,3 @@ function toggleText(sectionId, button) {
   }
 }
 </script>
-
-
-
-## Selected Work in Progress
-
-* **Global cocaine shocks** (with Gianmarco Danielle and Juan Vargas)
-* **Methadone treatment, overdoses, and crime** (with Travis Donahoe and Analisa Packham)
-* **Policing behavior and crime** (with Mike Makowsky, Matt Ross, and CarlyWill Sloan)
-* **Prosecutorial discretion** (with Spencer Cooper)
-* **The effects of ShotSpotter on shooting fatality rates** (with Terence Chau, Phil Cook, and Jens Ludwig)
-
-## Other Writing
-
-* [America’s Overdose Blindspot](https://www.niskanencenter.org/americas-overdose-blindspot/), Niskanen Center, April 2025
-* [Evaluation of Durham's ShotSpotter Installation: Results of a 12-Month Pilot Project](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808698) (with Phil Cook), Wilson Center for Science and Justice at Duke Law, February 2024
-* [Corporate landlords are eroding the American Dream of homeownership](https://blogs.lse.ac.uk/usappblog/2023/12/18/corporate-landlords-are-eroding-the-american-dream-of-homeownership-especially-in-black-neighborhoods/), London School of Economics, Phelan US Centre, December 2023
-
