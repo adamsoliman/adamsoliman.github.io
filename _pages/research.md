@@ -21,6 +21,7 @@ h2 {
 .pub-entry, .wp-entry {
   margin-bottom: 14px;
   padding-bottom: 0;
+  line-height: 1.55; /* better readability */
 }
 
 /* ======= TEXT & COLOR ======= */
@@ -58,7 +59,8 @@ ul li a:hover {
 
 .toggle-button {
   display: inline-block;
-  margin-left: 10px;
+  margin-left: 8px;
+  vertical-align: middle;
   background: #f8f8f8;
   border: 1px solid #b0c4de;
   border-radius: 4px;
@@ -93,6 +95,19 @@ ul {
 ul li {
   margin-bottom: 6px;
   color: #000;
+}
+
+/* Dash-style lists (clean CV look) */
+ul.dash-list {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 10px; /* tighter */
+  line-height: 1.6;
+}
+
+ul.dash-list li::before {
+  content: "– ";
+  color: #555;
 }
 
 section {
@@ -153,6 +168,8 @@ section {
 </div>
 </section>
 
+<hr style="margin: 30px 0; border: none; border-top: 1px solid #eee;">
+
 <!-- ===================== -->
 <!--     WORKING PAPERS    -->
 <!-- ===================== -->
@@ -197,24 +214,11 @@ section {
 </div>
 </section>
 
+<hr style="margin: 30px 0; border: none; border-top: 1px solid #eee;">
+
 <!-- ===================== -->
 <!--  WORK IN PROGRESS     -->
 <!-- ===================== -->
-
-<style>
-/* Dash-style lists (clean CV look) */
-ul.dash-list {
-  list-style: none;
-  padding-left: 0;
-  margin-left: 20px;
-  line-height: 1.6;
-}
-
-ul.dash-list li::before {
-  content: "– ";
-  color: #555;
-}
-</style>
 
 <section>
 <h2>Selected Work in Progress</h2>
@@ -226,6 +230,8 @@ ul.dash-list li::before {
   <li><strong>The effects of ShotSpotter on shooting fatality rates</strong> (with Terence Chau, Phil Cook, and Jens Ludwig)</li>
 </ul>
 </section>
+
+<hr style="margin: 30px 0; border: none; border-top: 1px solid #eee;">
 
 <!-- ===================== -->
 <!--    OTHER WRITING      -->
