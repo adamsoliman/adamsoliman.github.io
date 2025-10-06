@@ -74,7 +74,6 @@ redirect_from:
 
   <div class="link-block">
     <ul class="link-list">
-      <li><a href="https://adamsoliman.github.io/research/" target="_blank">Research Page</a></li>
       <li><a href="https://www.dropbox.com/scl/fi/aklgriq3on2v7ub0972f9/AdamSolimanCV.pdf?rlkey=c9b8detlwdo06ghfbuvyq6ji0&dl=0" target="_blank">Full CV</a></li>
       <li><a href="https://bsky.app/profile/adamsoliman.bsky.social" target="_blank">Bluesky Profile</a></li>
     </ul>
