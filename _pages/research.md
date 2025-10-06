@@ -111,7 +111,7 @@ section {
     <em>American Economic Journal: Economic Policy</em>, 2025  
     <span class="pub-links">
       [<a href="https://www.aeaweb.org/articles?id=10.1257/pol.20230640" target="_blank">Published Version</a>] · 
-      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266020" target="_blank">Ungated Version (SSRN)</a>]
+      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266020" target="_blank">Ungated Version</a>]
     </span>
     <button class="toggle-button" onclick="toggleText('abstractdocs', this)">Show Abstract</button>
   </span>
@@ -126,7 +126,7 @@ section {
     <em>The Journal of Law and Economics</em>, 2022  
     <span class="pub-links">
       [<a href="https://www.journals.uchicago.edu/doi/10.1086/721292" target="_blank">Published Version</a>] · 
-      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3795758" target="_blank">Ungated Version (SSRN)</a>]
+      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3795758" target="_blank">Ungated Version</a>]
     </span>
     <button class="toggle-button" onclick="toggleText('abstractdfsz', this)">Show Abstract</button>
   </span>
@@ -162,7 +162,7 @@ section {
   <span class="wp-meta">
     <em>Working Paper</em>, 2025  
     <span class="pub-links">
-      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572" target="_blank">SSRN</a>]
+      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572" target="_blank">Link</a>]
     </span>
     <button class="toggle-button" onclick="toggleText('abstracttheft', this)">Show Abstract</button>
   </span>
@@ -179,7 +179,7 @@ section {
   <span class="wp-meta">
     <em>Working Paper</em>, 2025  
     <span class="pub-links">
-      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929" target="_blank">SSRN</a>]
+      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929" target="_blank">Link</a>]
     </span>
     <button class="toggle-button" onclick="toggleText('abstracttakeover', this)">Show Abstract</button>
   </span>
@@ -193,7 +193,7 @@ section {
   <span class="wp-meta">
     <em>Working Paper</em>, 2023  
     <span class="pub-links">
-      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479" target="_blank">SSRN</a>]
+      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479" target="_blank">Link</a>]
     </span>
     <button class="toggle-button" onclick="toggleText('abstracthomes', this)">Show Abstract</button>
   </span>
