@@ -11,10 +11,12 @@ ul.teaching-list {
   line-height: 1.6;
   list-style-type: disc;
   margin-bottom: 0;
+  color: #000; 
 }
 
 ul.teaching-list li {
   margin-bottom: 8px;
+  color: #000; 
 }
 
 /* Section heading underline */
@@ -22,6 +24,7 @@ h2 {
   border-bottom: 1px solid #ccc;
   padding-bottom: 4px;
   margin-bottom: 10px;
+  color: #000; /* make headings black */
 }
 
 /* Two Dubai photos side by side */
