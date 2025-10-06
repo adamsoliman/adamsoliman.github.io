@@ -85,6 +85,6 @@ ul.teaching-list li {
 
 <div style="text-align:center; margin-top:20px;">
   <img class="photo-wide" src="https://adamsoliman.github.io/images/specialguest_econ4050_spring2025.jpg" alt="Econometrics Class with Guest">
-  <div class="photo-caption">Econometrics Class, Clemson University (Spring 2025) — special visit from my Mom!</div>
+  <div class="photo-caption">Econometrics Class, Clemson University (2025) — special visit from my Mom!</div>
 </div>
 </section>
