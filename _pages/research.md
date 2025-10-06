@@ -30,7 +30,7 @@ h2 {
 
 .pub-entry a strong,
 .wp-entry a strong {
-  color: #000;
+  color: #1a73e8;
   font-size: 1.05em;
   text-decoration: none;
   transition: color 0.2s ease;
@@ -38,7 +38,7 @@ h2 {
 
 .pub-entry a strong:hover,
 .wp-entry a strong:hover {
-  color: #1a73e8;
+  color: #1257b0;
   text-decoration: underline;
 }
 
@@ -52,6 +52,21 @@ h2 {
 .pub-entry em, .wp-entry em {
   font-style: italic;
   color: #333;
+}
+
+/* ======= LINKS ======= */
+
+.pub-links,
+.pub-links a {
+  color: #1a73e8;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 1rem;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+  color: #1257b0;
 }
 
 /* ======= BUTTON ======= */
@@ -92,6 +107,7 @@ ul.dash-list {
   padding-left: 0;
   margin-left: 10px;
   line-height: 1.6;
+  color: #000; /* ensure black text */
 }
 
 ul.dash-list li::before {
@@ -113,7 +129,9 @@ section {
 <h2>Publications</h2>
 
 <div class="pub-entry">
-  <a href="https://www.aeaweb.org/articles?id=10.1257/pol.20230640" target="_blank"><strong>Disrupting Drug Markets: The Effects of Crackdowns on Rogue Opioid Suppliers</strong></a> (with no coauthors). <em>American Economic Journal: Economic Policy</em>, 2025.
+  <a href="https://www.aeaweb.org/articles?id=10.1257/pol.20230640" target="_blank"><strong>Disrupting Drug Markets: The Effects of Crackdowns on Rogue Opioid Suppliers</strong></a>.<br>
+  <em>American Economic Journal: Economic Policy</em>, 2025. 
+  <span class="pub-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266020" target="_blank">Ungated Version</a>]</span>
   <br>
   <button class="toggle-button" onclick="toggleText('abstractdocs', this)">Show Abstract</button>
   <div id="abstractdocs" class="abstract">
@@ -122,7 +140,9 @@ section {
 </div>
 
 <div class="pub-entry">
-  <a href="https://www.journals.uchicago.edu/doi/10.1086/721292" target="_blank"><strong>Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity</strong></a> (sole author). <em>The Journal of Law and Economics</em>, 2022.
+  <a href="https://www.journals.uchicago.edu/doi/10.1086/721292" target="_blank"><strong>Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity</strong></a>.<br>
+  <em>The Journal of Law and Economics</em>, 2022. 
+  <span class="pub-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3795758" target="_blank">Ungated Version</a>]</span>
   <br>
   <button class="toggle-button" onclick="toggleText('abstractdfsz', this)">Show Abstract</button>
   <div id="abstractdfsz" class="abstract">
@@ -131,7 +151,8 @@ section {
 </div>
 
 <div class="pub-entry">
-  <a href="https://www.sciencedirect.com/science/article/pii/S092180092200091X?dgcid=author" target="_blank"><strong>Prescriptive Drought Policy and Water Supplier Compliance</strong></a> (sole author). <em>Ecological Economics</em>, 2022.
+  <a href="https://www.sciencedirect.com/science/article/pii/S092180092200091X?dgcid=author" target="_blank"><strong>Prescriptive Drought Policy and Water Supplier Compliance</strong></a>.<br>
+  <em>Ecological Economics</em>, 2022.
   <br>
   <button class="toggle-button" onclick="toggleText('abstractwater', this)">Show Abstract</button>
   <div id="abstractwater" class="abstract">
