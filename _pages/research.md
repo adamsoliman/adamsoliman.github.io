@@ -165,7 +165,7 @@ section {
   <span class="wp-meta">
     <em>Working Paper</em>, 2025  
     <span class="pub-links">
-      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572" target="_blank">Link</a>]
+      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572" target="_blank">Paper Link</a>]
     </span>
     <button class="toggle-button" onclick="toggleText('abstracttheft', this)">Show Abstract</button>
   </span>
@@ -182,7 +182,7 @@ section {
   <span class="wp-meta">
     <em>Working Paper</em>, 2025  
     <span class="pub-links">
-      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929" target="_blank">Link</a>]
+      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929" target="_blank">Paper Link</a>]
     </span>
     <button class="toggle-button" onclick="toggleText('abstracttakeover', this)">Show Abstract</button>
   </span>
@@ -196,7 +196,7 @@ section {
   <span class="wp-meta">
     <em>Working Paper</em>, 2023  
     <span class="pub-links">
-      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479" target="_blank">Link</a>]
+      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479" target="_blank">Paper Link</a>]
     </span>
     <button class="toggle-button" onclick="toggleText('abstracthomes', this)">Show Abstract</button>
   </span>
