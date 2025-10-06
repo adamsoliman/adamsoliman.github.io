@@ -36,7 +36,7 @@ h2 {
   margin-top: 3px;
   line-height: 1.4;
   color: #555;
-  font-size: 0.95em;
+  font-size: 1em;
 }
 
 /* ======= LINKS ======= */
