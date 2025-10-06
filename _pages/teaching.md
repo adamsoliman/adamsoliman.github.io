@@ -10,11 +10,18 @@ ul.teaching-list {
   margin-left: 15px;
   line-height: 1.6;
   list-style-type: disc;
-  margin-bottom: 0; /* tighten spacing below list */
+  margin-bottom: 0;
 }
 
 ul.teaching-list li {
   margin-bottom: 8px;
+}
+
+/* Section heading underline */
+h2 {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 4px;
+  margin-bottom: 10px;
 }
 
 /* Two Dubai photos side by side */
@@ -66,8 +73,6 @@ ul.teaching-list li {
 
   <li><strong>Mathematics (Primary) and Economics (Secondary)</strong>, International School of Chouiefat, Dubai, UAE (2009–2011)</li>
 </ul>
-
-<hr style="margin: 12px 0;">
 
 <h2>Student Snapshots</h2>
 
