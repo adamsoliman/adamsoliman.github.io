@@ -228,9 +228,9 @@ section {
 <section>
 <h2>Other Writing</h2>
 <ul>
-  <li><a href="https://www.niskanencenter.org/americas-overdose-blindspot/" target="_blank"><strong>America’s Overdose Blindspot</strong></a>, Niskanen Center, April 2025</li>
-  <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808698" target="_blank"><strong>Evaluation of Durham's ShotSpotter Installation: Results of a 12-Month Pilot Project</strong></a> (with Phil Cook), Wilson Center for Science and Justice at Duke Law, February 2024</li>
-  <li><a href="https://blogs.lse.ac.uk/usappblog/2023/12/18/corporate-landlords-are-eroding-the-american-dream-of-homeownership-especially-in-black-neighborhoods/" target="_blank"><strong>Corporate landlords are eroding the American Dream of homeownership</strong></a>, London School of Economics, Phelan US Centre, December 2023</li>
+  <li><a href="https://www.niskanencenter.org/americas-overdose-blindspot/" target="_blank">America’s Overdose Blindspot</a>, Niskanen Center, April 2025</li>
+  <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808698" target="_blank">Evaluation of Durham's ShotSpotter Installation: Results of a 12-Month Pilot Project</a> (with Phil Cook), Wilson Center for Science and Justice at Duke Law, February 2024</li>
+  <li><a href="https://blogs.lse.ac.uk/usappblog/2023/12/18/corporate-landlords-are-eroding-the-american-dream-of-homeownership-especially-in-black-neighborhoods/" target="_blank">Corporate landlords are eroding the American Dream of homeownership</a>, London School of Economics, Phelan US Centre, December 2023</li>
 </ul>
 </section>
 
