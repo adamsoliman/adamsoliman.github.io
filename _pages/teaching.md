@@ -10,40 +10,41 @@ ul.teaching-list {
   margin-left: 15px;
   line-height: 1.6;
   list-style-type: disc;
-  margin-bottom: 0; /* remove extra bottom space */
+  margin-bottom: 0; /* remove extra space under list */
 }
 
 ul.teaching-list li {
   margin-bottom: 8px;
 }
 
-/* Photo grid */
+/* Photo grid for Dubai photos */
 .photo-grid {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
-  margin-top: 10px; /* tighter spacing */
+  margin-top: 10px;
   margin-bottom: 20px;
   text-align: center;
 }
 
-/* Dubai photos wider to match Clemson photo proportions */
+/* Two Dubai photos side by side */
 .photo-grid img {
-  width: 45%;
-  min-width: 320px;
-  max-width: 600px;
+  width: 48%;
+  max-width: 550px;
   border-radius: 6px;
   border: 1px solid #ddd;
+  height: auto;
 }
 
-/* Wide photo for Clemson */
+/* Wide Clemson photo */
 .photo-wide {
   width: 100%;
   max-width: 900px;
   margin: 0 auto;
   border-radius: 6px;
   border: 1px solid #ddd;
+  display: block;
 }
 
 /* Captions */
@@ -53,6 +54,12 @@ ul.teaching-list li {
   font-style: italic;
   margin-top: 5px;
   text-align: center;
+}
+
+@media (max-width: 768px) {
+  .photo-grid img {
+    width: 100%;
+  }
 }
 </style>
 
