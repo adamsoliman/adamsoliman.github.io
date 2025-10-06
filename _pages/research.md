@@ -173,7 +173,7 @@ section {
   <br>
   <button class="toggle-button" onclick="toggleText('abstracttheft', this)">Show Abstract</button>
   <div id="abstracttheft" class="abstract">
-    From 2005 to 2019, forty US states increased the dollar value threshold delineating misdemeanor and felony theft. We observe significant and growing increases in theft after a reform, along with decreases in drug distribution crimes and reincarceration for new drug convictions.
+    From 2005 to 2019, forty US states increased the dollar value threshold delineating misdemeanor and felony theft, reducing the expected punishment for a subset of property crimes. Using an event study framework, we observe significant and growing increases in theft after a state reform is passed. We then show that reduced sanctions for theft have broader effects in the market for illegal activity. Consistent with a mechanism of substitution across income-generating crimes, we find decreases in both drug distribution crimes and the probability that a released offender previously convicted of drug distribution is reincarcerated for a new drug conviction. 
   </div>
 </div>
 
@@ -184,7 +184,7 @@ section {
   </span>
   <button class="toggle-button" onclick="toggleText('abstracttakeover', this)">Show Abstract</button>
   <div id="abstracttakeover" class="abstract">
-    We show that geographically concentrated shocks to heroin potency drove recent surges in U.S. overdose mortality. Exposure to these shocks increased overdose death rates by 52% through 2019, emphasizing the dangers of volatility in illicit drug supply and the role of supply-side dynamics.
+   We provide the first causal evidence that geographically concentrated shocks to heroin potency drove recent surges in U.S. overdose mortality. Exploiting the fact that white powder heroin markets experienced greater purity variability and fentanyl adulteration beginning in 2012, while black tar markets did not, we compare subsequent mortality across commuting zones. Exposure to these shocks increased overdose death rates by 52% through 2019. These effects arose from heightened fatality risk among existing heroin users, highlighting the dangers of volatility in illicit drug supply and underscoring the central role of supply-side dynamics in shaping the recent trajectory of the overdose epidemic. 
   </div>
 </div>
 
@@ -193,7 +193,7 @@ section {
   <br>
   <button class="toggle-button" onclick="toggleText('abstracthomes', this)">Show Abstract</button>
   <div id="abstracthomes" class="abstract">
-    Using a granular difference-in-differences design based on proximity to investor-purchased properties, we find that neighboring property values decline by 1%, while crime increases and voter registration decreases. These externalities arise from both landlord practices and tenant composition.
+ We provide novel evidence on the social spillovers of homeownership by exploiting the recent rise of institutional investors purchasing single-family homes and converting them into permanent rentals. Using a granular difference-in-differences design based on proximity to each investor-purchased property, we find that neighboring property values decline by 1% relative to those slightly farther away. This decline grows over time yet decays across space, and these same properties experience increases in crime and decreases in property maintenance and voter registration. Supplemental analysis suggests these externalities arise from both landlord practices and tenant composition. 
   </div>
 </div>
 </section>
