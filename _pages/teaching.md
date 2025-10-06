@@ -18,15 +18,17 @@ ul.teaching-list li {
 
 /* Photo grid */
 .photo-grid {
-  display: table;
-  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
   margin-top: 20px;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   text-align: center;
 }
 
 .photo-grid img {
-  width: 90%;
+  width: 100%;
   max-width: 400px;
   border-radius: 6px;
   border: 1px solid #ddd;
@@ -35,12 +37,14 @@ ul.teaching-list li {
 .photo-caption {
   font-size: 0.9em;
   color: #555;
-  margin-top: 4px;
+  font-style: italic;
+  margin-top: 5px;
+  text-align: center;
 }
 </style>
 
 <section>
-<h2>Teaching</h2>
+<h2>Courses Taught</h2>
 
 <ul class="teaching-list">
   <li><strong>Introduction to Econometrics</strong>, Undergraduate Course, Department of Economics, Clemson University (Fall 2024, Spring 2025)</li>
@@ -52,22 +56,24 @@ ul.teaching-list li {
   <li><strong>Mathematics (Primary) and Economics (Secondary)</strong>, International School of Chouiefat, Dubai, UAE (2009–2011)</li>
 </ul>
 
-<hr style="margin: 30px 0;">
+<hr style="margin: 35px 0;">
+
+<h2>Teaching in Action</h2>
 
 <div class="photo-grid">
-  <div style="display:table-cell; width:50%; vertical-align:top;">
+  <div>
     <img src="https://adamsoliman.github.io/assets/Dubai007.JPG" alt="Female Students">
-    <div class="photo-caption">Grade 5 Math Students (2012)</div>
+    <div class="photo-caption">Grade 5 Math Students, Dubai (2012)</div>
   </div>
-  <div style="display:table-cell; width:50%; vertical-align:top;">
+
+  <div>
     <img src="https://adamsoliman.github.io/assets/Dubai008.JPG" alt="Male Students">
-    <div class="photo-caption">Grade 4 Math Students (2012)</div>
+    <div class="photo-caption">Grade 4 Math Students, Dubai (2012)</div>
+  </div>
+
+  <div>
+    <img src="https://adamsoliman.github.io/images/specialguest_econ4050_spring2025.jpg" alt="Econometrics Class with Guest">
+    <div class="photo-caption">Econometrics Class, Clemson University (Spring 2025) — special visit from my Mom!</div>
   </div>
 </div>
-
-<hr style="margin: 30px 0;">
-
-<h2>Econometrics with Special Guest (2025)</h2>
-
-<img src="https://adamsoliman.github.io/images/specialguest_econ4050_spring2025.jpg" alt="Econometrics Class with Guest" style="width:90%; max-width:600px; border-radius:6px; border:1px solid #ddd; display:block; margin:auto;">
 </section>
