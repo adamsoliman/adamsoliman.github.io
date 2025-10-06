@@ -17,7 +17,7 @@ ul.teaching-list li {
   margin-bottom: 8px;
 }
 
-/* Photo grid for Dubai */
+/* Two Dubai photos side by side */
 .photo-grid {
   display: flex;
   justify-content: center;
@@ -29,28 +29,28 @@ ul.teaching-list li {
 }
 
 .photo-grid img {
-  width: 420px; /* fixed width so they stay side by side */
-  max-width: 45%;
+  width: 430px; /* large and balanced */
   border-radius: 6px;
   border: 1px solid #ddd;
 }
 
+/* Clemson photo slightly smaller */
+.photo-wide {
+  width: 80%;
+  max-width: 850px;
+  margin: 0 auto;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  display: block;
+}
+
+/* Captions */
 .photo-caption {
   font-size: 0.9em;
   color: #555;
   font-style: italic;
   margin-top: 5px;
   text-align: center;
-}
-
-/* Clemson photo — slightly smaller than before */
-.photo-wide {
-  width: 85%;
-  max-width: 800px;
-  margin: 0 auto;
-  border-radius: 6px;
-  border: 1px solid #ddd;
-  display: block;
 }
 </style>
 
@@ -67,7 +67,7 @@ ul.teaching-list li {
   <li><strong>Mathematics (Primary) and Economics (Secondary)</strong>, International School of Chouiefat, Dubai, UAE (2009–2011)</li>
 </ul>
 
-<hr style="margin: 14px 0;">
+<hr style="margin: 12px 0;">
 
 <h2>Teaching in Action</h2>
 
