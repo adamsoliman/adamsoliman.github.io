@@ -179,7 +179,7 @@ section {
 </div>
 
 <div class="wp-entry">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929" target="_blank"><strong>Drug Potency Shocks and Overdose Mortality: Evidence from Geographically Segmented Heroin Markets</strong></a> (with J. Travis Donahoe)
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929" target="_blank"><strong>Drug Potency Shocks and Overdose Mortality: Evidence from Geographically Segmented Heroin Markets</strong></a> (with Travis Donahoe)
   <span style="display:block; margin-top:2px; font-size:90%; color:#555;">
     Previously circulated as <em>“What Fueled the Illicit Opioid Epidemic?”</em>
   </span>
