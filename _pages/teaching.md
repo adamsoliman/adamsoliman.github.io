@@ -22,7 +22,7 @@ ul.teaching-list li {
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
-  margin-top: 20px;
+  margin-top: 15px;
   margin-bottom: 20px;
   text-align: center;
 }
@@ -30,6 +30,15 @@ ul.teaching-list li {
 .photo-grid img {
   width: 100%;
   max-width: 400px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+/* Wide photo for Clemson */
+.photo-wide {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
   border-radius: 6px;
   border: 1px solid #ddd;
 }
@@ -56,7 +65,7 @@ ul.teaching-list li {
   <li><strong>Mathematics (Primary) and Economics (Secondary)</strong>, International School of Chouiefat, Dubai, UAE (2009–2011)</li>
 </ul>
 
-<hr style="margin: 35px 0;">
+<hr style="margin: 20px 0;">
 
 <h2>Teaching in Action</h2>
 
@@ -70,10 +79,10 @@ ul.teaching-list li {
     <img src="https://adamsoliman.github.io/assets/Dubai008.JPG" alt="Male Students">
     <div class="photo-caption">Grade 4 Math Students, Dubai (2012)</div>
   </div>
+</div>
 
-  <div>
-    <img src="https://adamsoliman.github.io/images/specialguest_econ4050_spring2025.jpg" alt="Econometrics Class with Guest">
-    <div class="photo-caption">Econometrics Class, Clemson University (Spring 2025) — special visit from my Mom!</div>
-  </div>
+<div style="text-align:center; margin-top:25px;">
+  <img class="photo-wide" src="https://adamsoliman.github.io/images/specialguest_econ4050_spring2025.jpg" alt="Econometrics Class with Guest">
+  <div class="photo-caption">Econometrics Class, Clemson University (Spring 2025) — special visit from my Mom!</div>
 </div>
 </section>
