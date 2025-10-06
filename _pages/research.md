@@ -7,26 +7,39 @@ author_profile: true
 
 {% raw %}
 <style>
-/* ======= BASE FONT STYLING ======= */
-
-body, .pub-entry, .wp-entry, .pub-meta, .wp-meta, .pub-links, .pub-links a, ul li {
-  font-size: 1rem;
-  color: #000;
-  line-height: 1.6;
-}
-
-/* ======= SECTION HEADINGS ======= */
+/* ======= GLOBAL STYLING ======= */
 
 h2 {
   margin-top: 40px;
   border-bottom: 2px solid #ddd;
   padding-bottom: 4px;
   color: #222;
-  font-size: 1.3rem;
-  font-weight: bold;
 }
 
-/* ======= LINK STYLING ======= */
+/* ======= ENTRY SPACING ======= */
+
+.pub-entry, .wp-entry {
+  margin-bottom: 14px;
+  padding-bottom: 0;
+  line-height: 1.55;
+}
+
+/* ======= TEXT & COLOR ======= */
+
+.pub-entry strong, .wp-entry strong {
+  color: #000;
+  font-size: 1.05em;
+}
+
+.pub-meta, .wp-meta {
+  display: block;
+  margin-top: 3px;
+  line-height: 1.4;
+  color: #555;
+  font-size: 0.95em;
+}
+
+/* ======= LINKS ======= */
 
 .pub-links,
 .pub-links a,
@@ -34,6 +47,7 @@ ul li a {
   color: #1a73e8;
   text-decoration: none;
   font-weight: 500;
+  font-size: 1em; /* ensures same size across all sections */
 }
 
 .pub-links a:hover,
@@ -42,33 +56,24 @@ ul li a:hover {
   color: #1257b0;
 }
 
-/* ======= ABSTRACT BUTTONS ======= */
+/* ======= BUTTONS ======= */
 
 .toggle-button {
   display: inline-block;
-  margin-left: 10px;
+  margin-left: 8px;
+  vertical-align: middle;
   background: #f8f8f8;
   border: 1px solid #b0c4de;
   border-radius: 4px;
   color: #1a73e8;
   cursor: pointer;
-  font-size: 0.85rem;
+  font-size: 0.85em;
   padding: 2px 6px;
 }
 
 .toggle-button:hover {
   background: #e8f0ff;
   border-color: #1a73e8;
-}
-
-/* ======= PREVIOUSLY CIRCULATED AS ======= */
-
-.prev-note {
-  display: block;
-  margin-top: 2px;
-  font-size: 0.9rem;
-  color: #555;
-  font-style: italic;
 }
 
 /* ======= ABSTRACTS ======= */
@@ -81,18 +86,33 @@ ul li a:hover {
   max-width: 800px;
 }
 
-/* ======= DASH LISTS ======= */
+/* ======= LISTS ======= */
 
+ul {
+  margin-left: 20px;
+  line-height: 1.6;
+}
+
+ul li {
+  margin-bottom: 6px;
+  color: #000;
+}
+
+/* Dash-style lists (clean CV look) */
 ul.dash-list {
   list-style: none;
   padding-left: 0;
-  margin-left: 20px;
+  margin-left: 10px;
   line-height: 1.6;
 }
 
 ul.dash-list li::before {
   content: "– ";
   color: #555;
+}
+
+section {
+  margin-bottom: 45px;
 }
 </style>
 {% endraw %}
@@ -163,13 +183,13 @@ ul.dash-list li::before {
     <button class="toggle-button" onclick="toggleText('abstracttheft', this)">Show Abstract</button>
   </span>
   <div id="abstracttheft" class="abstract">
-    From 2005 to 2019, forty US states increased the dollar value threshold delineating misdemeanor and felony theft, reducing the expected punishment for a subset of property crimes. Using an event study framework, we observe significant and growing increases in theft after a state reform is passed. We then show that reduced sanctions for theft have broader effects in the market for illegal activity. Consistent with a mechanism of substitution across income-generating crimes, we find decreases in both drug distribution crimes and the probability that a released offender previously convicted of drug distribution is reincarcerated for a new drug conviction.
+    From 2005 to 2019, forty US states increased the dollar value threshold delineating misdemeanor and felony theft, reducing the expected punishment for a subset of property crimes...
   </div>
 </div>
 
 <div class="wp-entry">
   <strong>Drug Potency Shocks and Overdose Mortality: Evidence from Geographically Segmented Heroin Markets</strong> (with J. Travis Donahoe)<br>
-  <span class="prev-note">
+  <span style="display:block; margin-top:2px; font-size:90%; color:#555;">
     Previously circulated as <em>“What Fueled the Illicit Opioid Epidemic?”</em>
   </span>
   <span class="pub-links">
@@ -177,7 +197,7 @@ ul.dash-list li::before {
     <button class="toggle-button" onclick="toggleText('abstracttakeover', this)">Show Abstract</button>
   </span>
   <div id="abstracttakeover" class="abstract">
-    We provide the first causal evidence that geographically concentrated shocks to heroin potency drove recent surges in U.S. overdose mortality. Exploiting the fact that white powder heroin markets experienced greater purity variability and fentanyl adulteration beginning in 2012, while black tar markets did not, we compare subsequent mortality across commuting zones. Exposure to these shocks increased overdose death rates by 52% through 2019. These effects arose from heightened fatality risk among existing heroin users, highlighting the dangers of volatility in illicit drug supply and underscoring the central role of supply-side dynamics in shaping the recent trajectory of the overdose epidemic.
+    We provide the first causal evidence that geographically concentrated shocks...
   </div>
 </div>
 
@@ -188,7 +208,7 @@ ul.dash-list li::before {
     <button class="toggle-button" onclick="toggleText('abstracthomes', this)">Show Abstract</button>
   </span>
   <div id="abstracthomes" class="abstract">
-    We provide novel evidence on the social spillovers of homeownership by exploiting the recent rise of institutional investors purchasing single-family homes and converting them into permanent rentals. Using a granular difference-in-differences design based on proximity to each investor-purchased property, we find that neighboring property values decline by 1% relative to those slightly farther away. This decline grows over time yet decays across space, and these same properties experience increases in crime and decreases in property maintenance and voter registration. Supplemental analysis suggests these externalities arise from both landlord practices and tenant composition.
+    We provide novel evidence on the social spillovers of homeownership...
   </div>
 </div>
 </section>
