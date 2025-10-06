@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Adam Soliman"
 name                     : &name "Adam Soliman"
 title_separator          : "-"
 description              : &description "Applied microeconomist studying drug markets, policing, and neighborhoods."
