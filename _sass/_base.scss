@@ -328,3 +328,28 @@ h2, h3, h4, h5, h6 {
   color: #111 !important; /* slightly softer black for hierarchy */
 }
 
+/* === HEADER & NAVIGATION COLOR FIX === */
+
+/* Site title ("Adam Soliman" at top left) */
+.site-title,
+.site-title a {
+  color: #000 !important;
+}
+
+/* Navigation links ("Research", "Teaching", etc.) */
+.site-nav a,
+.nav__item a,
+.nav-links a,
+.page__links a {
+  color: #000 !important;
+  font-weight: 500;
+}
+
+.site-nav a:hover,
+.nav__item a:hover,
+.nav-links a:hover,
+.page__links a:hover {
+  color: #1a73e8 !important; /* same blue as your links */
+  text-decoration: none;
+}
+
