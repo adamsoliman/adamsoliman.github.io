@@ -179,7 +179,7 @@ section {
 <div class="wp-entry">
   <strong>Better Stealing than Dealing: How do Felony Theft Thresholds Impact Crime?</strong> (with Steve Billings, Mike Makowsky, and Kevin Schnepel)<br>
   <span class="pub-links">
-    [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572" target="_blank">Paper Link</a>]
+    [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572" target="_blank">Working Paper Link</a>]
     <button class="toggle-button" onclick="toggleText('abstracttheft', this)">Show Abstract</button>
   </span>
   <div id="abstracttheft" class="abstract">
@@ -193,7 +193,7 @@ section {
     Previously circulated as <em>“What Fueled the Illicit Opioid Epidemic?”</em>
   </span>
   <span class="pub-links">
-    [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929" target="_blank">Paper Link</a>]
+    [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929" target="_blank">Working Paper Link</a>]
     <button class="toggle-button" onclick="toggleText('abstracttakeover', this)">Show Abstract</button>
   </span>
   <div id="abstracttakeover" class="abstract">
@@ -204,7 +204,7 @@ section {
 <div class="wp-entry">
   <strong>The Social Spillovers of Homeownership: Evidence from Institutional Investors</strong> (with Steve Billings)<br>
   <span class="pub-links">
-    [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479" target="_blank">Paper Link</a>]
+    [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479" target="_blank">Working Paper Link</a>]
     <button class="toggle-button" onclick="toggleText('abstracthomes', this)">Show Abstract</button>
   </span>
   <div id="abstracthomes" class="abstract">
