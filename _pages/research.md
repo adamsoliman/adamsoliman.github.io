@@ -47,7 +47,7 @@ ul li a {
   color: #1a73e8;
   text-decoration: none;
   font-weight: 500;
-  font-size: 1em; /* ensures same size across all sections */
+  font-size: 1rem; /* now absolute, ensures same size everywhere */
 }
 
 .pub-links a:hover,
