@@ -121,6 +121,7 @@ section {
 </style>
 {% endraw %}
 
+
 <!-- ===================== -->
 <!--     PUBLICATIONS      -->
 <!-- ===================== -->
@@ -129,8 +130,8 @@ section {
 <h2>Publications</h2>
 
 <div class="pub-entry">
-  <a href="https://www.aeaweb.org/articles?id=10.1257/pol.20230640" target="_blank"><strong>Disrupting Drug Markets: The Effects of Crackdowns on Rogue Opioid Suppliers</strong></a><br>
-  <em>American Economic Journal: Economic Policy</em>, 2025  
+  <a href="https://www.aeaweb.org/articles?id=10.1257/pol.20230640" target="_blank"><strong>Disrupting Drug Markets: The Effects of Crackdowns on Rogue Opioid Suppliers</strong></a>, 
+  <em>American Economic Journal: Economic Policy</em>, 2025 
   <span class="pub-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266020" target="_blank">Ungated Version</a>]</span>
   <br>
   <button class="toggle-button" onclick="toggleText('abstractdocs', this)">Show Abstract</button>
@@ -140,8 +141,8 @@ section {
 </div>
 
 <div class="pub-entry">
-  <a href="https://www.journals.uchicago.edu/doi/10.1086/721292" target="_blank"><strong>Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity</strong></a><br>
-  <em>The Journal of Law and Economics</em>, 2022  
+  <a href="https://www.journals.uchicago.edu/doi/10.1086/721292" target="_blank"><strong>Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity</strong></a>, 
+  <em>The Journal of Law and Economics</em>, 2022 
   <span class="pub-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3795758" target="_blank">Ungated Version</a>]</span>
   <br>
   <button class="toggle-button" onclick="toggleText('abstractdfsz', this)">Show Abstract</button>
@@ -151,12 +152,12 @@ section {
 </div>
 
 <div class="pub-entry">
-  <a href="https://www.sciencedirect.com/science/article/pii/S092180092200091X?dgcid=author" target="_blank"><strong>Prescriptive Drought Policy and Water Supplier Compliance</strong></a><br>
-  <em>Ecological Economics</em>, 2022  
+  <a href="https://www.sciencedirect.com/science/article/pii/S092180092200091X?dgcid=author" target="_blank"><strong>Prescriptive Drought Policy and Water Supplier Compliance</strong></a>, 
+  <em>Ecological Economics</em>, 2022
   <br>
   <button class="toggle-button" onclick="toggleText('abstractwater', this)">Show Abstract</button>
   <div id="abstractwater" class="abstract">
-    Governments often cannot use prices to induce water conservation, and the need to understand the impacts of alternate methods is growing due to increased variability in water resources. During the 2012–2016 drought in California, a period that may presage the future of water management in a warmer climate, the state attempted to manage water use through a set of mandatory restrictions that assigned each of California's 412 largest urban water suppliers to one of nine conservation tiers; those with greater historic usage needed to conserve more. I find that even though significant statewide savings occurred, only half of all suppliers complied with their conservation target. Moreover, the increased savings were not caused by the tiered design of the mandate: evidence from a regression discontinuity design shows that suppliers that just missed a stricter conservation tier actually conserved more. Additionally, water use rebounded after the regulation was removed, implying that variable adjustments in demand contributed more to water use savings than fixed cost household investments. Given the significant costs of water regulation and the high probability of future droughts, the policy implication is that both governments and water suppliers may benefit from investments in water supply reliability and less complex prescriptive policies.
+    Governments often cannot use prices to induce water conservation, and the need to understand the impacts of alternate methods is growing due to increased variability in water resources. During the 2012–2016 drought in California, the state attempted to manage water use through a set of mandatory restrictions that assigned each of California's 412 largest urban water suppliers to one of nine conservation tiers. I find that even though significant statewide savings occurred, only half of all suppliers complied with their conservation target. Moreover, the increased savings were not caused by the tiered design of the mandate: suppliers that just missed a stricter conservation tier actually conserved more. Water use rebounded after the regulation was removed, implying that variable adjustments in demand contributed more to water use savings than fixed-cost investments.
   </div>
 </div>
 </section>
@@ -169,8 +170,8 @@ section {
 <h2>Working Papers</h2>
 
 <div class="wp-entry">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572" target="_blank"><strong>Better Stealing than Dealing: How do Felony Theft Thresholds Impact Crime?</strong></a><br>
-  (with Steve Billings, Mike Makowsky, and Kevin Schnepel)<br>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572" target="_blank"><strong>Better Stealing than Dealing: How do Felony Theft Thresholds Impact Crime?</strong></a> (with Steve Billings, Mike Makowsky, and Kevin Schnepel)
+  <br>
   <button class="toggle-button" onclick="toggleText('abstracttheft', this)">Show Abstract</button>
   <div id="abstracttheft" class="abstract">
     From 2005 to 2019, forty US states increased the dollar value threshold delineating misdemeanor and felony theft, reducing the expected punishment for a subset of property crimes. Using an event study framework, we observe significant and growing increases in theft after a state reform is passed. We then show that reduced sanctions for theft have broader effects in the market for illegal activity. Consistent with a mechanism of substitution across income-generating crimes, we find decreases in both drug distribution crimes and the probability that a released offender previously convicted of drug distribution is reincarcerated for a new drug conviction. 
@@ -178,8 +179,7 @@ section {
 </div>
 
 <div class="wp-entry">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929" target="_blank"><strong>Drug Potency Shocks and Overdose Mortality: Evidence from Geographically Segmented Heroin Markets</strong></a><br>
-  (with J. Travis Donahoe)<br>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929" target="_blank"><strong>Drug Potency Shocks and Overdose Mortality: Evidence from Geographically Segmented Heroin Markets</strong></a> (with J. Travis Donahoe)
   <span style="display:block; margin-top:2px; font-size:90%; color:#555;">
     Previously circulated as <em>“What Fueled the Illicit Opioid Epidemic?”</em>
   </span>
@@ -190,14 +190,15 @@ section {
 </div>
 
 <div class="wp-entry">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479" target="_blank"><strong>The Social Spillovers of Homeownership: Evidence from Institutional Investors</strong></a><br>
-  (with Steve Billings)<br>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479" target="_blank"><strong>The Social Spillovers of Homeownership: Evidence from Institutional Investors</strong></a> (with Steve Billings)
+  <br>
   <button class="toggle-button" onclick="toggleText('abstracthomes', this)">Show Abstract</button>
   <div id="abstracthomes" class="abstract">
  We provide novel evidence on the social spillovers of homeownership by exploiting the recent rise of institutional investors purchasing single-family homes and converting them into permanent rentals. Using a granular difference-in-differences design based on proximity to each investor-purchased property, we find that neighboring property values decline by 1% relative to those slightly farther away. This decline grows over time yet decays across space, and these same properties experience increases in crime and decreases in property maintenance and voter registration. Supplemental analysis suggests these externalities arise from both landlord practices and tenant composition. 
   </div>
 </div>
 </section>
+
 
 <!-- ===================== -->
 <!--  WORK IN PROGRESS     -->
