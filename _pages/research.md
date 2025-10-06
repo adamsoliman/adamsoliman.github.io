@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+{% raw %}
 <style>
 /* ======= GLOBAL STYLING ======= */
 
@@ -97,6 +98,7 @@ section {
   margin-bottom: 45px;
 }
 </style>
+{% endraw %}
 
 <!-- ===================== -->
 <!--     PUBLICATIONS      -->
