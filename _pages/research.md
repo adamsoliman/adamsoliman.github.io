@@ -210,9 +210,24 @@ section {
 <!--  WORK IN PROGRESS     -->
 <!-- ===================== -->
 
+<style>
+/* Dash-style lists (clean CV look) */
+ul.dash-list {
+  list-style: none;
+  padding-left: 0;
+  margin-left: 20px;
+  line-height: 1.6;
+}
+
+ul.dash-list li::before {
+  content: "– ";
+  color: #555;
+}
+</style>
+
 <section>
 <h2>Selected Work in Progress</h2>
-<ul>
+<ul class="dash-list">
   <li><strong>Global cocaine shocks</strong> (with Gianmarco Danielle and Juan Vargas)</li>
   <li><strong>Methadone treatment, overdoses, and crime</strong> (with Travis Donahoe and Analisa Packham)</li>
   <li><strong>Policing behavior and crime</strong> (with Mike Makowsky, Matt Ross, and CarlyWill Sloan)</li>
@@ -227,7 +242,7 @@ section {
 
 <section>
 <h2>Other Writing</h2>
-<ul>
+<ul class="dash-list">
   <li><a href="https://www.niskanencenter.org/americas-overdose-blindspot/" target="_blank">America’s Overdose Blindspot</a>, Niskanen Center, April 2025</li>
   <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808698" target="_blank">Evaluation of Durham's ShotSpotter Installation: Results of a 12-Month Pilot Project</a> (with Phil Cook), Wilson Center for Science and Justice at Duke Law, February 2024</li>
   <li><a href="https://blogs.lse.ac.uk/usappblog/2023/12/18/corporate-landlords-are-eroding-the-american-dream-of-homeownership-especially-in-black-neighborhoods/" target="_blank">Corporate landlords are eroding the American Dream of homeownership</a>, London School of Economics, Phelan US Centre, December 2023</li>
