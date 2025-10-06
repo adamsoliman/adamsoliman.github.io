@@ -31,6 +31,7 @@ redirect_from:
   margin-top: 20px;
   font-size: 1em;
   color: #333;
+  line-height: 1.6;
 }
 </style>
 
@@ -42,8 +43,8 @@ Before graduate school, I was a primary and secondary <a href="https://adamsolim
 </p>
 
 <div class="cv-links">
-📄 <a href="https://www.dropbox.com/scl/fi/aklgriq3on2v7ub0972f9/AdamSolimanCV.pdf?rlkey=c9b8detlwdo06ghfbuvyq6ji0&dl=0" target="_blank">Full CV</a> <br>
-🌐 <a href="https://bsky.app/profile/adamsoliman.bsky.social" target="_blank">Bluesky Profile</a>
+<a href="https://www.dropbox.com/scl/fi/aklgriq3on2v7ub0972f9/AdamSolimanCV.pdf?rlkey=c9b8detlwdo06ghfbuvyq6ji0&dl=0" target="_blank">Full CV</a><br>
+<a href="https://bsky.app/profile/adamsoliman.bsky.social" target="_blank">Bluesky Profile</a>
 </div>
 
 </div>
