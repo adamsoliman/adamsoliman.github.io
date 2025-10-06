@@ -28,7 +28,7 @@ h2 {
 /* ======= TEXT & COLOR ======= */
 
 .pub-entry strong, .wp-entry strong {
-  color: #004080;
+  color: #000;
   font-size: 1.05em;
 }
 
@@ -40,20 +40,20 @@ h2 {
   font-size: 0.95em;
 }
 
-.pub-links {
-  font-size: 0.9em;
-  color: #004080;
-}
+/* ======= LINKS ======= */
 
-.pub-links a {
-  color: #004080;
+.pub-links,
+.pub-links a,
+ul li a {
+  color: #1a73e8;
   text-decoration: none;
   font-weight: 500;
 }
 
-.pub-links a:hover {
+.pub-links a:hover,
+ul li a:hover {
   text-decoration: underline;
-  color: #00264d;
+  color: #1257b0;
 }
 
 /* ======= BUTTONS ======= */
@@ -62,9 +62,9 @@ h2 {
   display: inline-block;
   margin-left: 10px;
   background: #f8f8f8;
-  border: 1px solid #c0c0c0;
+  border: 1px solid #b0c4de;
   border-radius: 4px;
-  color: #004080;
+  color: #1a73e8;
   cursor: pointer;
   font-size: 0.85em;
   padding: 2px 6px;
@@ -72,7 +72,7 @@ h2 {
 
 .toggle-button:hover {
   background: #e8f0ff;
-  border-color: #004080;
+  border-color: #1a73e8;
 }
 
 /* ======= ABSTRACTS ======= */
@@ -85,7 +85,16 @@ h2 {
   max-width: 800px;
 }
 
-/* ======= MISC SPACING ======= */
+/* ======= LISTS ======= */
+
+ul {
+  margin-left: 20px;
+  line-height: 1.6;
+}
+
+ul li {
+  margin-bottom: 6px;
+}
 
 section {
   margin-bottom: 50px;
