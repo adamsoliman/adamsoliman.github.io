@@ -132,6 +132,21 @@ section {
 {% endraw %}
 
 <!-- ===================== -->
+<!-- 💅 Optional CSS tweak -->
+<!-- ===================== -->
+<style>
+.coauthors .toggle-button,
+.journal .toggle-button {
+  margin-left: 8px;
+}
+
+.coauthors .pub-links,
+.journal .pub-links {
+  margin-left: 8px;
+}
+</style>
+
+<!-- ===================== -->
 <!--     PUBLICATIONS      -->
 <!-- ===================== -->
 
@@ -139,11 +154,15 @@ section {
 <h2>Publications</h2>
 
 <div class="pub-entry">
-  <a href="https://www.aeaweb.org/articles?id=10.1257/pol.20230640" target="_blank"><strong>Disrupting Drug Markets: The Effects of Crackdowns on Rogue Opioid Suppliers</strong></a>
-  <div class="journal"><em>American Economic Journal: Economic Policy</em>, 2025</div>
-  <div>
+  <a href="https://www.aeaweb.org/articles?id=10.1257/pol.20230640" target="_blank">
+    <strong>Disrupting Drug Markets: The Effects of Crackdowns on Rogue Opioid Suppliers</strong>
+  </a>
+  <div class="journal">
+    <em>American Economic Journal: Economic Policy</em>, 2025
     <button class="toggle-button" onclick="toggleText('abstractdocs', this)">Show Abstract</button>
-    <span class="pub-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266020" target="_blank">Ungated Version</a>]</span>
+    <span class="pub-links">
+      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266020" target="_blank">Ungated Version</a>]
+    </span>
   </div>
   <div id="abstractdocs" class="abstract">
     This paper estimates the impacts of doctor crackdowns on the quantity demanded of prescription opioids, across-market substitution, and across-product substitution. Exploiting plausibly exogenous variation in the timing and location of administrative actions, I find that cracking down on a single doctor decreases county-level opioid dispensing by 10%. This decline persists across space and grows over time. Additionally, significant heroin substitution occurs, yet overall overdose mortality decreases. These results highlight a critical tradeoff policymakers should consider with targeted crackdowns: reductions in the flow of new users must be balanced against the harm that arises when existing users substitute to more dangerous drugs.
@@ -151,11 +170,15 @@ section {
 </div>
 
 <div class="pub-entry">
-  <a href="https://www.journals.uchicago.edu/doi/10.1086/721292" target="_blank"><strong>Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity</strong></a>
-  <div class="journal"><em>The Journal of Law and Economics</em>, 2022</div>
-  <div>
+  <a href="https://www.journals.uchicago.edu/doi/10.1086/721292" target="_blank">
+    <strong>Crime and (a Preference for) Punishment: The Effects of Drug Policy Reform on Policing Activity</strong>
+  </a>
+  <div class="journal">
+    <em>The Journal of Law and Economics</em>, 2022
     <button class="toggle-button" onclick="toggleText('abstractdfsz', this)">Show Abstract</button>
-    <span class="pub-links">[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3795758" target="_blank">Ungated Version</a>]</span>
+    <span class="pub-links">
+      [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3795758" target="_blank">Ungated Version</a>]
+    </span>
   </div>
   <div id="abstractdfsz" class="abstract">
     Using geocoded crime data and a novel source of within-city variation in punishment severity, I find that in parts of a city where drug sale penalties were weakened, there is a 13% decrease in all drug arrests. There is no displacement of non-drug offenses. My results are consistent with police treating enforcement effort and punishment severity as complements. City-wide crime and drug use do not increase after the reform, suggesting that certain enforcement can be reduced without large public safety costs.
@@ -163,9 +186,11 @@ section {
 </div>
 
 <div class="pub-entry">
-  <a href="https://www.sciencedirect.com/science/article/pii/S092180092200091X?dgcid=author" target="_blank"><strong>Prescriptive Drought Policy and Water Supplier Compliance</strong></a>
-  <div class="journal"><em>Ecological Economics</em>, 2022</div>
-  <div>
+  <a href="https://www.sciencedirect.com/science/article/pii/S092180092200091X?dgcid=author" target="_blank">
+    <strong>Prescriptive Drought Policy and Water Supplier Compliance</strong>
+  </a>
+  <div class="journal">
+    <em>Ecological Economics</em>, 2022
     <button class="toggle-button" onclick="toggleText('abstractwater', this)">Show Abstract</button>
   </div>
   <div id="abstractwater" class="abstract">
@@ -183,40 +208,45 @@ section {
 <h2>Working Papers</h2>
 
 <div class="wp-entry">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572" target="_blank"><strong>Better Stealing than Dealing: How do Felony Theft Thresholds Impact Crime?</strong></a>
-  <div class="coauthors">with Steve Billings, Mike Makowsky, and Kevin Schnepel</div>
-  <div>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572" target="_blank">
+    <strong>Better Stealing than Dealing: How do Felony Theft Thresholds Impact Crime?</strong>
+  </a>
+  <div class="coauthors">
+    with Steve Billings, Mike Makowsky, and Kevin Schnepel
     <button class="toggle-button" onclick="toggleText('abstracttheft', this)">Show Abstract</button>
   </div>
   <div id="abstracttheft" class="abstract">
-    From 2005 to 2019, forty US states increased the dollar value threshold delineating misdemeanor and felony theft, reducing the expected punishment for a subset of property crimes. Using an event study framework, we observe significant and growing increases in theft after a state reform is passed. We then show that reduced sanctions for theft have broader effects in the market for illegal activity. Consistent with a mechanism of substitution across income-generating crimes, we find decreases in both drug distribution crimes and the probability that a released offender previously convicted of drug distribution is reincarcerated for a new drug conviction. 
+    From 2005 to 2019, forty US states increased the dollar value threshold delineating misdemeanor and felony theft, reducing the expected punishment for a subset of property crimes. Using an event study framework, we observe significant and growing increases in theft after a state reform is passed. We then show that reduced sanctions for theft have broader effects in the market for illegal activity. Consistent with a mechanism of substitution across income-generating crimes, we find decreases in both drug distribution crimes and the probability that a released offender previously convicted of drug distribution is reincarcerated for a new drug conviction.
   </div>
 </div>
 
 <div class="wp-entry">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929" target="_blank"><strong>Drug Potency Shocks and Overdose Mortality: Evidence from Geographically Segmented Heroin Markets</strong></a>
-  <div class="coauthors">with Travis Donahoe</div>
-  <div>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929" target="_blank">
+    <strong>Drug Potency Shocks and Overdose Mortality: Evidence from Geographically Segmented Heroin Markets</strong>
+  </a>
+  <div class="coauthors">
+    with Travis Donahoe
     <button class="toggle-button" onclick="toggleText('abstracttakeover', this)">Show Abstract</button>
   </div>
   <div id="abstracttakeover" class="abstract">
-    We provide the first causal evidence that geographically concentrated shocks to heroin potency drove recent surges in U.S. overdose mortality. Exploiting the fact that white powder heroin markets experienced greater purity variability and fentanyl adulteration beginning in 2012, while black tar markets did not, we compare subsequent mortality across commuting zones. Exposure to these shocks increased overdose death rates by 52% through 2019. These effects arose from heightened fatality risk among existing heroin users, highlighting the dangers of volatility in illicit drug supply and underscoring the central role of supply-side dynamics in shaping the recent trajectory of the overdose epidemic. 
+    We provide the first causal evidence that geographically concentrated shocks to heroin potency drove recent surges in U.S. overdose mortality. Exploiting the fact that white powder heroin markets experienced greater purity variability and fentanyl adulteration beginning in 2012, while black tar markets did not, we compare subsequent mortality across commuting zones. Exposure to these shocks increased overdose death rates by 52% through 2019. These effects arose from heightened fatality risk among existing heroin users, highlighting the dangers of volatility in illicit drug supply and underscoring the central role of supply-side dynamics in shaping the recent trajectory of the overdose epidemic.
   </div>
 </div>
 
 <div class="wp-entry">
-  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479" target="_blank"><strong>The Social Spillovers of Homeownership: Evidence from Institutional Investors</strong></a>
-  <div class="coauthors">with Steve Billings</div>
-  <div>
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479" target="_blank">
+    <strong>The Social Spillovers of Homeownership: Evidence from Institutional Investors</strong>
+  </a>
+  <div class="coauthors">
+    with Steve Billings
     <button class="toggle-button" onclick="toggleText('abstracthomes', this)">Show Abstract</button>
   </div>
   <div id="abstracthomes" class="abstract">
-    We provide novel evidence on the social spillovers of homeownership by exploiting the recent rise of institutional investors purchasing single-family homes and converting them into permanent rentals. Using a granular difference-in-differences design based on proximity to each investor-purchased property, we find that neighboring property values decline by 1% relative to those slightly farther away. This decline grows over time yet decays across space, and these same properties experience increases in crime and decreases in property maintenance and voter registration. Supplemental analysis suggests these externalities arise from both landlord practices and tenant composition. 
+    We provide novel evidence on the social spillovers of homeownership by exploiting the recent rise of institutional investors purchasing single-family homes and converting them into permanent rentals. Using a granular difference-in-differences design based on proximity to each investor-purchased property, we find that neighboring property values decline by 1% relative to those slightly farther away. This decline grows over time yet decays across space, and these same properties experience increases in crime and decreases in property maintenance and voter registration. Supplemental analysis suggests these externalities arise from both landlord practices and tenant composition.
   </div>
 </div>
 
 </section>
-
 
 
 <!-- ===================== -->
