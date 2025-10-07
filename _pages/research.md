@@ -240,7 +240,7 @@ section {
     <button class="toggle-button" onclick="toggleText('abstracttakeover', this)">Show Abstract</button>
   </div>
   <span style="display:block; margin-top:2px; font-size:90%; color:#555;">
-    Previously circulated as <em>“What Fueled the Illicit Opioid Epidemic?”</em>
+    Previously circulated as “What Fueled the Illicit Opioid Epidemic?”
   </span>
   <div id="abstracttakeover" class="abstract">
     We provide the first causal evidence that geographically concentrated shocks to heroin potency drove recent surges in U.S. overdose mortality. Exploiting the fact that white powder heroin markets experienced greater purity variability and fentanyl adulteration beginning in 2012, while black tar markets did not, we compare subsequent mortality across commuting zones. Exposure to these shocks increased overdose death rates by 52% through 2019. These effects arose from heightened fatality risk among existing heroin users, highlighting the dangers of volatility in illicit drug supply and underscoring the central role of supply-side dynamics in shaping the recent trajectory of the overdose epidemic.
@@ -285,9 +285,9 @@ section {
 <section>
 <h2>Other Writing</h2>
 <ul class="dash-list">
-  <li><a href="https://www.niskanencenter.org/americas-overdose-blindspot/" target="_blank">America’s Overdose Blindspot</a>, Niskanen Center, April 2025</li>
-  <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808698" target="_blank">Evaluation of Durham's ShotSpotter Installation: Results of a 12-Month Pilot Project</a> (with Phil Cook), Wilson Center for Science and Justice at Duke Law, February 2024</li>
-  <li><a href="https://blogs.lse.ac.uk/usappblog/2023/12/18/corporate-landlords-are-eroding-the-american-dream-of-homeownership-especially-in-black-neighborhoods/" target="_blank">Corporate landlords are eroding the American Dream of homeownership</a>, London School of Economics, Phelan US Centre, December 2023</li>
+  <li><a href="https://www.niskanencenter.org/americas-overdose-blindspot/" target="_blank">"America’s Overdose Blindspot"</a>, Niskanen Center, April 2025</li>
+  <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808698" target="_blank">"Evaluation of Durham's ShotSpotter Installation: Results of a 12-Month Pilot Project"</a> (with Phil Cook), Wilson Center for Science and Justice at Duke Law, February 2024</li>
+  <li><a href="https://blogs.lse.ac.uk/usappblog/2023/12/18/corporate-landlords-are-eroding-the-american-dream-of-homeownership-especially-in-black-neighborhoods/" target="_blank">"Corporate landlords are eroding the American Dream of homeownership"</a>, London School of Economics, Phelan US Centre, December 2023</li>
 </ul>
 </section>
 
