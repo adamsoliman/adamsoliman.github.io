@@ -145,7 +145,6 @@ section {
   <div id="abstractdocs" class="abstract">
     This paper estimates the impacts of doctor crackdowns on the quantity demanded of prescription opioids, across-market substitution, and across-product substitution. Exploiting plausibly exogenous variation in the timing and location of administrative actions, I find that cracking down on a single doctor decreases county-level opioid dispensing by 10%. This decline persists across space and grows over time. Additionally, significant heroin substitution occurs, yet overall overdose mortality decreases. These results highlight a critical tradeoff policymakers should consider with targeted crackdowns: reductions in the flow of new users must be balanced against the harm that arises when existing users substitute to more dangerous drugs.
   </div>
-  <div class="coauthors">Solo-authored</div>
   <div class="journal"><em>American Economic Journal: Economic Policy</em>, 2025</div>
 </div>
 
@@ -156,7 +155,6 @@ section {
   <div id="abstractdfsz" class="abstract">
     Using geocoded crime data and a novel source of within-city variation in punishment severity, I find that in parts of a city where drug sale penalties were weakened, there is a 13% decrease in all drug arrests. There is no displacement of non-drug offenses. My results are consistent with police treating enforcement effort and punishment severity as complements. City-wide crime and drug use do not increase after the reform, suggesting that certain enforcement can be reduced without large public safety costs.
   </div>
-  <div class="coauthors">Solo-authored</div>
   <div class="journal"><em>The Journal of Law and Economics</em>, 2022</div>
 </div>
 
@@ -167,7 +165,6 @@ section {
   <div id="abstractwater" class="abstract">
     Governments often cannot use prices to induce water conservation, and the need to understand the impacts of alternate methods is growing due to increased variability in water resources. During the 2012–2016 drought in California, the state attempted to manage water use through a set of mandatory restrictions that assigned each of California's 412 largest urban water suppliers to one of nine conservation tiers. I find that even though significant statewide savings occurred, only half of all suppliers complied with their conservation target. Moreover, the increased savings were not caused by the tiered design of the mandate: suppliers that just missed a stricter conservation tier actually conserved more. Water use rebounded after the regulation was removed, implying that variable adjustments in demand contributed more to water use savings than fixed-cost investments.
   </div>
-  <div class="coauthors">Solo-authored</div>
   <div class="journal"><em>Ecological Economics</em>, 2022</div>
 </div>
 
