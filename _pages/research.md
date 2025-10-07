@@ -132,9 +132,15 @@ section {
 {% endraw %}
 
 <!-- ===================== -->
-<!-- 💅 Optional CSS tweak -->
+<!-- 💅 Compact Layout Tweaks -->
 <!-- ===================== -->
 <style>
+/* Slightly tighter spacing between entries */
+.pub-entry, .wp-entry {
+  margin-bottom: 14px;
+}
+
+/* Spacing for inline buttons and links */
 .coauthors .toggle-button,
 .journal .toggle-button {
   margin-left: 8px;
@@ -143,6 +149,11 @@ section {
 .coauthors .pub-links,
 .journal .pub-links {
   margin-left: 8px;
+}
+
+/* Ensure Ungated links are not italicized */
+.pub-links {
+  font-style: normal !important;
 }
 </style>
 
@@ -247,7 +258,6 @@ section {
 </div>
 
 </section>
-
 
 <!-- ===================== -->
 <!--  WORK IN PROGRESS     -->
