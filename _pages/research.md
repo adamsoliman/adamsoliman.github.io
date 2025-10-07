@@ -239,10 +239,14 @@ section {
     with Travis Donahoe
     <button class="toggle-button" onclick="toggleText('abstracttakeover', this)">Show Abstract</button>
   </div>
+  <span style="display:block; margin-top:2px; font-size:90%; color:#555;">
+    Previously circulated as <em>“What Fueled the Illicit Opioid Epidemic?”</em>
+  </span>
   <div id="abstracttakeover" class="abstract">
     We provide the first causal evidence that geographically concentrated shocks to heroin potency drove recent surges in U.S. overdose mortality. Exploiting the fact that white powder heroin markets experienced greater purity variability and fentanyl adulteration beginning in 2012, while black tar markets did not, we compare subsequent mortality across commuting zones. Exposure to these shocks increased overdose death rates by 52% through 2019. These effects arose from heightened fatality risk among existing heroin users, highlighting the dangers of volatility in illicit drug supply and underscoring the central role of supply-side dynamics in shaping the recent trajectory of the overdose epidemic.
   </div>
 </div>
+
 
 <div class="wp-entry">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479" target="_blank">
