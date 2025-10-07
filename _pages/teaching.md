@@ -65,8 +65,7 @@ h2 {
 </style>
 
 <section>
-<h2>Courses Taught</h2>
-
+  
 <ul class="teaching-list">
   <li><strong>Introduction to Econometrics</strong>, Undergraduate Course, Department of Economics, Clemson University (Fall 2024, Spring 2025)</li>
 
