@@ -1,46 +1,41 @@
 ---
 ---
 
-/* ==========================
-   Custom colour palette: Slate & Teal
-   ========================== */
-
-/* Page + body text */
-$background-color: #F8F9FA;
-$text-color:       #343A40;
-
-/* Links and accents */
-$link-color:             #17A2B8;
-$link-color-hover:       #138496;
-$link-color-visited:     #138496;
-$accent-color:           #17A2B8;
-
-/* Masthead / nav */
-$masthead-background-color: #212529;
-$masthead-link-color:       #F8F9FA;
-$masthead-link-color-hover: #17A2B8;
-
-/* Footer */
-$footer-background-color:   #212529;
-$footer-text-color:         #F8F9FA;
-$footer-link-color:         #17A2B8;
-
-/* Code blocks */
-$code-background-color: #E9ECEF;
-$code-text-color:       #212529;
-
-/* Borders, subtle dividers */
-$border-color: #CED4DA;
-
-
-/* ==========================
-   Theme imports
-   ========================== */
-
-/* 1. Bring in a base skin. AcademicPages/Minimal Mistakes usually uses "default".
-   If your repo uses a different skin (like "academic", "air", etc.), swap that name here.
+/*
+ *    Minimal Mistakes Jekyll Theme
+ *
+ *  - Michael Rose
+ *  - mademistakes.com
+ *  - https://twitter.com/mmistakes
+ *
 */
-@import "minimal-mistakes/skins/default";
 
-/* 2. Pull in everything else in the right order */
-@import "minimal-mistakes";
+@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "variables";
+@import "mixins";
+@import "vendor/susy/susy";
+
+@import "reset";
+@import "base";
+
+@import "utilities";
+@import "animations";
+@import "tables";
+@import "buttons";
+@import "notices";
+@import "masthead";
+@import "navigation";
+@import "footer";
+@import "syntax";
+
+@import "forms";
+
+@import "page";
+@import "archive";
+@import "sidebar";
+
+@import "vendor/font-awesome/fontawesome";
+@import "vendor/font-awesome/solid";
+@import "vendor/font-awesome/brands";
+@import "vendor/magnific-popup/magnific-popup";
+@import "print";
