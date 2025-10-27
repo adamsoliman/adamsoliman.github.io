@@ -1,45 +1,35 @@
 ---
 ---
 
-/* ---------------------------
-   Color overrides: Slate & Teal
-   --------------------------- */
-
-/* Global background + text */
-$background-color: #F8F9FA;
-$text-color:       #343A40;
-
-/* Links / accents */
-$link-color:             #17A2B8;
-$link-color-hover:       #138496;
-$link-color-visited:     #138496; // keep visited close, looks more intentional
-$accent-color:           #17A2B8;
-
-/* Masthead / nav / footer bars */
-$masthead-background-color: #212529;
-$masthead-link-color:       #F8F9FA;
-$masthead-link-color-hover: #17A2B8;
-
-$footer-background-color:   #212529;
-$footer-text-color:         #F8F9FA;
-$footer-link-color:         #17A2B8;
-
-/* Code block / pre background if you want slightly higher contrast on code samples
-   (optional, skip if you don't like it slightly darker) */
-$code-background-color: #E9ECEF; // light grey block behind inline code/pre
-$code-text-color:       #212529;
-
-/* Borders / subtle dividers */
-$border-color: #CED4DA;
-
-/* ---------------------------
-   Theme imports
-   --------------------------- */
-
 @import "vendor/breakpoint/breakpoint"; // media query mixins
-@import "variables";
+@import "variables"; // theme defaults land here
 @import "mixins";
 @import "vendor/susy/susy";
+
+/* >>> Add your overrides RIGHT HERE <<< */
+
+$background-color: #F8F9FA !default;
+$text-color:       #343A40 !default;
+
+$link-color:             #17A2B8 !default;
+$link-color-hover:       #138496 !default;
+$link-color-visited:     #138496 !default;
+$accent-color:           #17A2B8 !default;
+
+$masthead-background-color: #212529 !default;
+$masthead-link-color:       #F8F9FA !default;
+$masthead-link-color-hover: #17A2B8 !default;
+
+$footer-background-color:   #212529 !default;
+$footer-text-color:         #F8F9FA !default;
+$footer-link-color:         #17A2B8 !default;
+
+$code-background-color: #E9ECEF !default;
+$code-text-color:       #212529 !default;
+
+$border-color: #CED4DA !default;
+
+/* >>> end overrides <<< */
 
 @import "reset";
 @import "base";
