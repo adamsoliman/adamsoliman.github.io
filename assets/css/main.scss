@@ -1,57 +1,46 @@
 ---
 ---
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
-@import "variables"; // theme defaults land here
-@import "mixins";
-@import "vendor/susy/susy";
+/* ==========================
+   Custom colour palette: Slate & Teal
+   ========================== */
 
-/* >>> Add your overrides RIGHT HERE <<< */
+/* Page + body text */
+$background-color: #F8F9FA;
+$text-color:       #343A40;
 
-$background-color: #F8F9FA !default;
-$text-color:       #343A40 !default;
+/* Links and accents */
+$link-color:             #17A2B8;
+$link-color-hover:       #138496;
+$link-color-visited:     #138496;
+$accent-color:           #17A2B8;
 
-$link-color:             #17A2B8 !default;
-$link-color-hover:       #138496 !default;
-$link-color-visited:     #138496 !default;
-$accent-color:           #17A2B8 !default;
+/* Masthead / nav */
+$masthead-background-color: #212529;
+$masthead-link-color:       #F8F9FA;
+$masthead-link-color-hover: #17A2B8;
 
-$masthead-background-color: #212529 !default;
-$masthead-link-color:       #F8F9FA !default;
-$masthead-link-color-hover: #17A2B8 !default;
+/* Footer */
+$footer-background-color:   #212529;
+$footer-text-color:         #F8F9FA;
+$footer-link-color:         #17A2B8;
 
-$footer-background-color:   #212529 !default;
-$footer-text-color:         #F8F9FA !default;
-$footer-link-color:         #17A2B8 !default;
+/* Code blocks */
+$code-background-color: #E9ECEF;
+$code-text-color:       #212529;
 
-$code-background-color: #E9ECEF !default;
-$code-text-color:       #212529 !default;
+/* Borders, subtle dividers */
+$border-color: #CED4DA;
 
-$border-color: #CED4DA !default;
 
-/* >>> end overrides <<< */
+/* ==========================
+   Theme imports
+   ========================== */
 
-@import "reset";
-@import "base";
+/* 1. Bring in a base skin. AcademicPages/Minimal Mistakes usually uses "default".
+   If your repo uses a different skin (like "academic", "air", etc.), swap that name here.
+*/
+@import "minimal-mistakes/skins/default";
 
-@import "utilities";
-@import "animations";
-@import "tables";
-@import "buttons";
-@import "notices";
-@import "masthead";
-@import "navigation";
-@import "footer";
-@import "syntax";
-
-@import "forms";
-
-@import "page";
-@import "archive";
-@import "sidebar";
-
-@import "vendor/font-awesome/fontawesome";
-@import "vendor/font-awesome/solid";
-@import "vendor/font-awesome/brands";
-@import "vendor/magnific-popup/magnific-popup";
-@import "print";
+/* 2. Pull in everything else in the right order */
+@import "minimal-mistakes";
