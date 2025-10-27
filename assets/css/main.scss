@@ -1,14 +1,40 @@
 ---
 ---
 
-/*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
+/* ---------------------------
+   Color overrides: Slate & Teal
+   --------------------------- */
+
+/* Global background + text */
+$background-color: #F8F9FA;
+$text-color:       #343A40;
+
+/* Links / accents */
+$link-color:             #17A2B8;
+$link-color-hover:       #138496;
+$link-color-visited:     #138496; // keep visited close, looks more intentional
+$accent-color:           #17A2B8;
+
+/* Masthead / nav / footer bars */
+$masthead-background-color: #212529;
+$masthead-link-color:       #F8F9FA;
+$masthead-link-color-hover: #17A2B8;
+
+$footer-background-color:   #212529;
+$footer-text-color:         #F8F9FA;
+$footer-link-color:         #17A2B8;
+
+/* Code block / pre background if you want slightly higher contrast on code samples
+   (optional, skip if you don't like it slightly darker) */
+$code-background-color: #E9ECEF; // light grey block behind inline code/pre
+$code-text-color:       #212529;
+
+/* Borders / subtle dividers */
+$border-color: #CED4DA;
+
+/* ---------------------------
+   Theme imports
+   --------------------------- */
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
