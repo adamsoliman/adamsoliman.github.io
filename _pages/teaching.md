@@ -68,7 +68,7 @@ h2 {
  <h2>Courses Taught</h2>
   
 <ul class="teaching-list">
-  <li><strong>Introduction to Econometrics</strong>, Undergraduate Course, Department of Economics, Clemson University (Fall 2024, Spring 2025)</li>
+  <li><strong>Introduction to Econometrics</strong>, Undergraduate Course, Department of Economics, Clemson University (Fall 2024, Spring 2025, Spring 2026)</li>
 
   <li><strong>Special Topics in Economics (Introduction to Stata)</strong>, PhD Course, Department of Economics, Duke University (Summer 2021, Summer 2022)</li>
 
