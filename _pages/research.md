@@ -173,12 +173,14 @@ section {
     <button class="toggle-button" onclick="toggleText('abstractdocs', this)">Show Abstract</button>
     <span class="pub-links">
       [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4266020" target="_blank">Ungated Version</a>]
+      [<a href="https://www.aeaweb.org/research/drug-markets-supplier-crackdowns" target="_blank">AEA Research Highlight</a>]
     </span>
   </div>
   <div id="abstractdocs" class="abstract">
     This paper estimates the impacts of doctor crackdowns on the quantity demanded of prescription opioids, across-market substitution, and across-product substitution. Exploiting plausibly exogenous variation in the timing and location of administrative actions, I find that cracking down on a single doctor decreases county-level opioid dispensing by 10%. This decline persists across space and grows over time. Additionally, significant heroin substitution occurs, yet overall overdose mortality decreases. These results highlight a critical tradeoff policymakers should consider with targeted crackdowns: reductions in the flow of new users must be balanced against the harm that arises when existing users substitute to more dangerous drugs.
   </div>
 </div>
+
 
 <div class="pub-entry">
   <a href="https://www.journals.uchicago.edu/doi/10.1086/721292" target="_blank">
