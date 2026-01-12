@@ -8,9 +8,9 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Adam Soliman"
-title_separator          : "-"
 name                     : &name "Adam Soliman"
-description              : &description ""
+title_separator          : "-"
+description              : &description "Applied microeconomist studying drug markets, policing, and neighborhoods."
 url                      : https://adamsoliman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : 
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Adam Soliman"
-  avatar           : "cofb headshots-1022.jpg" # "solimanjmp.jpg" 
+  avatar           : "solimanjmp.jpg" # "cofb headshots-1022.jpg"
   bio              : "Assistant Professor of Economics at Clemson University"
   location         : "South Carolina"
   employer         : 
@@ -99,7 +99,7 @@ author:
   google_plus      :
   keybase          :
   instagram        : # "a.k.soliman"
-  impactstory      : # "https://cep.lse.ac.uk/_new/people/person.asp?id=11305"
+  impactstory      : # "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3706931"
   lastfm           :
   linkedin         : "adamksoliman"
   orcid            : 
@@ -108,7 +108,8 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "adamksoliman"
+  bluesky          : "https://bsky.app/profile/adamsoliman.bsky.social"  
+  twitter          : 
   vine             :
   weibo            :
   xing             : 
@@ -263,7 +264,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
-    - jekyll-seo-tag
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:

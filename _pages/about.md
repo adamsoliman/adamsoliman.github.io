@@ -9,8 +9,25 @@ redirect_from:
 
 <meta name="google-site-verification" content="F1PA5O0lN6ADr5Cde5ABVSGNCeayniG2Il_SGyFGQjA" />
 
-I am an assistant professor of economics at [Clemson University](https://www.clemson.edu/business/departments/economics/index.html) and a research associate at the [Centre for Economic Performance](https://cep.lse.ac.uk/) at the London School of Economics. I am an applied microeconomist focusing on drug markets, policing, and neighborhoods. 
+<style>
+.about-text {
+  font-size: 1.05em;
+  line-height: 1.7;
+  color: #333;
+  max-width: 750px;
+}
+.about-text a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+.about-text a:hover {
+  text-decoration: underline;
+  color: #1257b0;
+}
+</style>
 
-I was previously a postdoctoral scholar at the London School of Economics after receiving my Ph.D. from Duke University in May 2023. Prior to my life as an economist, I was a primary and secondary school [teacher in Dubai](https://adamsoliman.github.io/teaching/) and took a year off to [travel](https://twitter.com/adamksoliman/status/1402014895214776331?s=20&t=kWelDx7GIkrv42lqRBRhfQ). 
-
-Please find my full CV [here](https://www.dropbox.com/scl/fi/aklgriq3on2v7ub0972f9/AdamSolimanCV.pdf?rlkey=c9b8detlwdo06ghfbuvyq6ji0&dl=0).
+<div class="about-text">
+  <p>
+    I am an applied microeconomist focusing on drug markets, policing, and neighborhoods, and I am an assistant professor of economics at <a href="https://www.clemson.edu/business/departments/economics/index.html" target="_blank">Clemson University</a>. Previously, I was a postdoctoral scholar at the London School of Economics after earning my Ph.D. in economics from Duke University in 2023. Before graduate school, I was a primary and secondary <a href="https://adamsoliman.github.io/teaching/" target="_blank">school teacher</a> in Dubai.
+  </p>
+</div>
