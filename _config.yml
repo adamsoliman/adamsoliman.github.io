@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Adam Soliman"
-  avatar           : "london.jpg" # "solimanjmp.jpg" 
+  avatar           : "solimanjmp.jpg" # "london.jpg"
   bio              : "Assistant Professor of Economics at Clemson University"
   location         : "South Carolina"
   employer         : 
