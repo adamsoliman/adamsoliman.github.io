@@ -33,8 +33,7 @@ I am an applied microeconomist focusing on drug markets, policing, and neighborh
 </p>
 
 <p>
-Before joining Clemson in 2024, I was a postdoctoral scholar at the London School of Economics after earning my Ph.D. from Duke University.
-Before graduate school, I was a primary and secondary
+Before joining Clemson in 2024, I was a postdoctoral scholar at the London School of Economics after earning my Ph.D. from Duke University; prior to graduate school, I was a primary and secondary
 <a href="https://adamsoliman.github.io/teaching/" target="_blank">school teacher</a> in Dubai.
 </p>
 </div>
