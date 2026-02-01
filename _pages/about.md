@@ -27,9 +27,14 @@ redirect_from:
 </style>
 
 <div class="about-text">
-  <p>
-I am an applied microeconomist focusing on drug markets, policing, and neighborhoods, and I am an assistant professor of economics at <a href="https://www.clemson.edu/business/departments/economics/index.html" target="_blank">Clemson University</a>. 
-    
-Previously, I was a postdoctoral scholar at the London School of Economics after earning my Ph.D. from Duke University. Before graduate school, I was a primary and secondary <a href="https://adamsoliman.github.io/teaching/" target="_blank">school teacher</a> in Dubai.
-  </p>
+<p>
+I am an applied microeconomist focusing on drug markets, policing, and neighborhoods, and I am an assistant professor of economics at
+<a href="https://www.clemson.edu/business/departments/economics/index.html" target="_blank">Clemson University</a>.
+</p>
+
+<p>
+Before joining Clemson in 2024, I was a postdoctoral scholar at the London School of Economics after earning my Ph.D. from Duke University.
+Before graduate school, I was a primary and secondary
+<a href="https://adamsoliman.github.io/teaching/" target="_blank">school teacher</a> in Dubai.
+</p>
 </div>
