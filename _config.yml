@@ -83,8 +83,8 @@ author:
   name             : "Adam Soliman"
   avatar           : "solimanjmp.jpg" # "london.jpg"
   bio              : "Assistant Professor of Economics at Clemson University"
-  location         : "South Carolina"
-  employer         : "Fields: Crime, Health, Urban"
+  location         : 
+  employer         : "Fields: Crime, Health & Urban"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Y7weoQQAAAAJ&hl=en&oi=sra"
   email            : "adamksoliman@gmail.com"
