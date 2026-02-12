@@ -285,7 +285,6 @@ We study the effects of supply-side changes in illicit drug purity and compositi
 <section>
 <h2>Selected Work in Progress</h2>
 <ul class="dash-list">
-  <li><strong>Global cocaine shocks</strong> (with Gianmarco Danielle and Juan Vargas)</li>
   <li><strong>Methadone treatment, overdoses, and crime</strong> (with Travis Donahoe and Analisa Packham)</li>
   <li><strong>Policing behavior and crime</strong> (with Mike Makowsky, Matt Ross, and CarlyWill Sloan)</li>
   <li><strong>Prosecutorial discretion</strong> (with Spencer Cooper)</li>
