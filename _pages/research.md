@@ -234,6 +234,19 @@ section {
 </div>
 
 <div class="wp-entry">
+  <a href="https://www.dropbox.com/scl/fi/hfpdg01kf9w9secvxq586/Cocaine-Goes-Bananas-February-2026.pdf?rlkey=l9mc1ie76u1599jtxnsaffkpn&dl=0" target="_blank">
+    <strong>Cocaine Goes Bananas: Global Spillovers from an Illicit Supply Shock</strong>
+  </a>
+  <div class="coauthors">
+    with Gianmarco Daniele and Juan Vargas
+    <button class="toggle-button" onclick="toggleText('abstractcocaine', this)">Show Abstract</button>
+  </div>
+  <div id="abstractcocaine" class="abstract">
+We study how a sharp expansion in Colombian cocaine production propagated internationally through global trade networks, generating substantial social costs. In Colombia, the production surge increased homicide rates by 41% in port areas and by 26% in cocaine-producing municipalities. Violence then spilled across the border into Ecuador, a transit hub with negligible cocaine production but dense maritime trade links, contributing to a nearly five-fold increase in homicide rates. The shock traveled through criminal supply chains that exploit legitimate perishable export routes, notably bananas, concentrating activity at maritime chokepoints. In Europe, countries with stronger pre-shock trade ties to Colombia and Ecuador experienced sharp increases in cocaine seizures linked to these origins, lower retail prices, a 60% rise in cocaine consumption in port cities, and 5% higher violent crime in port provinces. Together, these results show that shocks in illicit markets propagate internationally through the same trade networks as legal trade shocks, concentrating violence at contested logistical bottlenecks and expanding downstream drug markets.
+  </div>
+</div>
+
+<div class="wp-entry">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929" target="_blank">
     <strong>Illicit Drug Supply Shocks and Overdose Mortality</strong>
   </a>
