@@ -234,7 +234,7 @@ section {
 </div>
 
 <div class="wp-entry">
-  <a href="https://www.dropbox.com/scl/fi/hfpdg01kf9w9secvxq586/Cocaine-Goes-Bananas-February-2026.pdf?rlkey=l9mc1ie76u1599jtxnsaffkpn&dl=0" target="_blank">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6221120" target="_blank">
     <strong>Cocaine Goes Bananas: Global Spillovers from an Illicit Supply Shock</strong>
   </a>
   <div class="coauthors">
