@@ -273,6 +273,9 @@ We study the effects of supply-side changes in illicit drug purity and compositi
     with Steve Billings
     <button class="toggle-button" onclick="toggleText('abstracthomes', this)">Show Abstract</button>
   </div>
+    <span style="display:block; margin-top:2px; font-size:90%; color:#555;">
+    Previously circulated as “The Erosion of Homeownership and Minority Wealth”
+  </span>
   <div id="abstracthomes" class="abstract">
     We provide novel evidence on the social spillovers of homeownership by exploiting the recent rise of institutional investors purchasing single-family homes and converting them into permanent rentals. Using a granular difference-in-differences design based on proximity to each investor-purchased property, we find that neighboring property values decline by 1% relative to those slightly farther away. This decline grows over time yet decays across space, and these same properties experience increases in crime and decreases in property maintenance and voter registration. Supplemental analysis suggests these externalities arise from both landlord practices and tenant composition.
   </div>
