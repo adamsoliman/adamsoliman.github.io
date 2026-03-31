@@ -198,6 +198,7 @@ section {
   </div>
 </div>
 
+<!-- 
 <div class="pub-entry">
   <a href="https://www.sciencedirect.com/science/article/pii/S092180092200091X?dgcid=author" target="_blank">
     <strong>Prescriptive Drought Policy and Water Supplier Compliance</strong>
@@ -210,6 +211,7 @@ section {
     Governments often cannot use prices to induce water conservation, and the need to understand the impacts of alternate methods is growing due to increased variability in water resources. During the 2012–2016 drought in California, the state attempted to manage water use through a set of mandatory restrictions that assigned each of California's 412 largest urban water suppliers to one of nine conservation tiers. I find that even though significant statewide savings occurred, only half of all suppliers complied with their conservation target. Moreover, the increased savings were not caused by the tiered design of the mandate: suppliers that just missed a stricter conservation tier actually conserved more. Water use rebounded after the regulation was removed, implying that variable adjustments in demand contributed more to water use savings than fixed-cost investments.
   </div>
 </div>
+-->
 
 </section>
 
