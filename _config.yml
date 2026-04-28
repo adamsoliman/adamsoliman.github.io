@@ -83,11 +83,7 @@ author:
   name             : "Adam Soliman"
   avatar           : "solimanjmp.jpg" # "london.jpg"
   bio              : "Assistant Professor of Economics"
-  location         : 
-    links:
-    - label: "Fields: Public, Crime, Health"
-      icon: "fas fa-flask"
-      url: "#"
+  location         : "Fields: Public, Crime, Health"
   employer         : "Clemson University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Y7weoQQAAAAJ&hl=en&oi=sra"
