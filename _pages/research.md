@@ -175,7 +175,7 @@ section {
   <div class="paper-links">
     <button onclick="toggleText('abstractcocaine', this)">Abstract</button>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6221120" target="_blank" rel="noopener">Paper</a>
-    <a href="https://voxdev.org/topic/institutions-political-economy/cocaine-shock-spread-through-global-trade" target="_blank" rel="noopener">VoxDev</a>
+    <a href="https://voxdev.org/topic/institutions-political-economy/cocaine-shock-spread-through-global-trade" target="_blank" rel="noopener">VoxDev Highlight</a>
   </div>
   <div id="abstractcocaine" class="abstract">
     We study how a sharp expansion in Colombian cocaine production propagated internationally through global trade networks, generating substantial social costs. In Colombia, the production surge increased homicide rates by 41% in port areas and by 26% in cocaine-producing municipalities. Violence then spilled across the border into Ecuador, a transit hub with negligible cocaine production but dense maritime trade links, contributing to a nearly five-fold increase in homicide rates. The shock traveled through criminal supply chains that exploit legitimate perishable export routes, notably bananas, concentrating activity at maritime chokepoints. In Europe, countries with stronger pre-shock trade ties to Colombia and Ecuador experienced sharp increases in cocaine seizures linked to these origins, lower retail prices, a 60% rise in cocaine consumption in port cities, and 5% higher violent crime in port provinces. Together, these results show that shocks in illicit markets propagate internationally through the same trade networks as legal trade shocks, concentrating violence at contested logistical bottlenecks and expanding downstream drug markets.
