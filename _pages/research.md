@@ -217,11 +217,11 @@ section {
 <section>
 <h2>Selected Work in Progress</h2>
 <ul class="dash-list">
-  <li><strong>Methadone treatment, overdoses, and crime</strong> with Travis Donahoe and Analisa Packham</li>
-  <li><strong>Policing behavior and crime</strong> with Mike Makowsky, Matt Ross, and CarlyWill Sloan</li>
-  <li><strong>Prosecutorial discretion</strong> with Spencer Cooper</li>
-  <li><strong>Punitiveness and human capital formation</strong> with Gustave Kenedi</li>  
-  <li><strong>The effects of ShotSpotter on shooting fatality rates</strong> with Terence Chau, Phil Cook, and Jens Ludwig</li>
+  <li><strong>Methadone treatment, overdoses, and crime</strong> (with Travis Donahoe and Analisa Packham)</li>
+  <li><strong>Policing behavior across space and time</strong> (with Mike Makowsky, Matt Ross, and CarlyWill Sloan)</li>
+  <li><strong>Prosecutorial discretion</strong> (with Spencer Cooper)</li>
+  <li><strong>Punitiveness and human capital formation</strong> (with Gustave Kenedi)</li>    
+  <li><strong>The effects of ShotSpotter on shooting fatality rates</strong> (with Terence Chau, Phil Cook, and Jens Ludwig)</li>
 </ul>
 </section>
 
@@ -232,9 +232,9 @@ section {
 <section>
 <h2>Other Writing</h2>
 <ul class="dash-list">
-  <li><a href="https://www.niskanencenter.org/americas-overdose-blindspot/" target="_blank" rel="noopener">America’s Overdose Blindspot</a>, Niskanen Center, April 2025</li>
-  <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808698" target="_blank" rel="noopener">Evaluation of Durham's ShotSpotter Installation: Results of a 12-Month Pilot Project</a>, with Phil Cook, Wilson Center for Science and Justice at Duke Law, February 2024</li>
-  <li><a href="https://blogs.lse.ac.uk/usappblog/2023/12/18/corporate-landlords-are-eroding-the-american-dream-of-homeownership-especially-in-black-neighborhoods/" target="_blank" rel="noopener">Corporate landlords are eroding the American Dream of Homeownership</a>, London School of Economics, Phelan US Centre, December 2023</li>
+  <li><a href="https://www.niskanencenter.org/americas-overdose-blindspot/" target="_blank" rel="noopener"><strong>America’s Overdose Blindspot</strong></a>, Niskanen Center, April 2025</li>
+  <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808698" target="_blank" rel="noopener"><strong>Evaluation of Durham's ShotSpotter Installation: Results of a 12-Month Pilot Project</strong></a>, with Phil Cook, Wilson Center for Science and Justice at Duke Law, February 2024</li>
+  <li><a href="https://blogs.lse.ac.uk/usappblog/2023/12/18/corporate-landlords-are-eroding-the-american-dream-of-homeownership-especially-in-black-neighborhoods/" target="_blank" rel="noopener"><strong>Corporate landlords are eroding the American Dream of Homeownership</strong></a>, London School of Economics, Phelan US Centre, December 2023</li>
 </ul>
 </section>
 
