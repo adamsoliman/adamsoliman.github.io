@@ -175,7 +175,7 @@ section {
   <div class="paper-links">
     <button onclick="toggleText('abstractcocaine', this)">Abstract</button>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6221120" target="_blank" rel="noopener">Paper</a>
-    <a href="https://voxdev.org/topic/institutions-political-economy/cocaine-shock-spread-through-global-trade" target="_blank" rel="noopener">VoxDev Highlight</a>
+    <a href="https://voxdev.org/topic/institutions-political-economy/cocaine-shock-spread-through-global-trade" target="_blank" rel="noopener">VoxDev Article</a>
   </div>
   <div id="abstractcocaine" class="abstract">
     We study how a sharp expansion in Colombian cocaine production propagated internationally through global trade networks, generating substantial social costs. In Colombia, the production surge increased homicide rates by 41% in port areas and by 26% in cocaine-producing municipalities. Violence then spilled across the border into Ecuador, a transit hub with negligible cocaine production but dense maritime trade links, contributing to a nearly five-fold increase in homicide rates. The shock traveled through criminal supply chains that exploit legitimate perishable export routes, notably bananas, concentrating activity at maritime chokepoints. In Europe, countries with stronger pre-shock trade ties to Colombia and Ecuador experienced sharp increases in cocaine seizures linked to these origins, lower retail prices, a 60% rise in cocaine consumption in port cities, and 5% higher violent crime in port provinces. Together, these results show that shocks in illicit markets propagate internationally through the same trade networks as legal trade shocks, concentrating violence at contested logistical bottlenecks and expanding downstream drug markets.
@@ -202,6 +202,7 @@ section {
   <div class="paper-links">
     <button onclick="toggleText('abstracthomes', this)">Abstract</button>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479" target="_blank" rel="noopener">Paper</a>
+        <a href="https://blogs.lse.ac.uk/usappblog/2023/12/18/corporate-landlords-are-eroding-the-american-dream-of-homeownership-especially-in-black-neighborhoods" target="_blank" rel="noopener">LSE Blog</a>
   </div>
   <div id="abstracthomes" class="abstract">
     We provide novel evidence on the social spillovers of homeownership by exploiting the recent rise of institutional investors purchasing single-family homes and converting them into permanent rentals. Using a granular difference-in-differences design based on proximity to each investor-purchased property, we find that neighboring property values decline by 1% relative to those slightly farther away. This decline grows over time yet decays across space, and these same properties experience increases in crime and decreases in property maintenance and voter registration. Supplemental analysis suggests these externalities arise from both landlord practices and tenant composition.
@@ -234,7 +235,6 @@ section {
 <ul class="dash-list">
   <li><a href="https://www.niskanencenter.org/americas-overdose-blindspot/" target="_blank" rel="noopener"><strong>America’s Overdose Blindspot</strong></a> (with Richard Hahn), Niskanen Center, April 2025</li>
   <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808698" target="_blank" rel="noopener"><strong>Evaluation of Durham's ShotSpotter Installation: Results of a 12-Month Pilot Project</strong></a> (with Phil Cook), Wilson Center for Science and Justice at Duke Law, February 2024</li>
-  <li><a href="https://blogs.lse.ac.uk/usappblog/2023/12/18/corporate-landlords-are-eroding-the-american-dream-of-homeownership-especially-in-black-neighborhoods/" target="_blank" rel="noopener"><strong>Corporate landlords are eroding the American Dream of Homeownership</strong></a> (with Steve Billings), London School of Economics, Phelan US Centre, December 2023</li>
 </ul>
 </section>
 
