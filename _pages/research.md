@@ -51,30 +51,37 @@ h2 {
   margin-top: 2px;
 }
 
-/* ======= LINKS ======= */
+/* ======= LINK BUTTONS ======= */
 
 .paper-links {
-  margin-top: 5px;
-  font-size: 0.9rem;
+  margin-top: 7px;
+  font-size: 0.88rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
 }
 
 .paper-links a,
 .paper-links button {
   color: #1a73e8;
-  background: none;
-  border: none;
-  padding: 0;
-  margin-right: 11px;
+  background: #f7faff;
+  border: 1px solid #c9daf8;
+  border-radius: 4px;
+  padding: 2px 7px;
+  margin: 0;
   font: inherit;
   font-weight: 500;
   cursor: pointer;
   text-decoration: none;
+  line-height: 1.35;
 }
 
 .paper-links a:hover,
 .paper-links button:hover {
   color: #1257b0;
-  text-decoration: underline;
+  background: #eaf2ff;
+  border-color: #1a73e8;
+  text-decoration: none;
 }
 
 /* ======= ABSTRACTS ======= */
@@ -213,7 +220,7 @@ section {
   <li><strong>Methadone treatment, overdoses, and crime</strong> with Travis Donahoe and Analisa Packham</li>
   <li><strong>Policing behavior and crime</strong> with Mike Makowsky, Matt Ross, and CarlyWill Sloan</li>
   <li><strong>Prosecutorial discretion</strong> with Spencer Cooper</li>
-  <li><strong>  Punitiveness and human capital formation</strong> with Gustave Kenedi</li>
+  <li><strong>Punitiveness and human capital formation</strong> with Gustave Kenedi</li>  
   <li><strong>The effects of ShotSpotter on shooting fatality rates</strong> with Terence Chau, Phil Cook, and Jens Ludwig</li>
 </ul>
 </section>
