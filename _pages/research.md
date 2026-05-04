@@ -234,7 +234,7 @@ section {
 <ul class="dash-list">
   <li><a href="https://www.niskanencenter.org/americas-overdose-blindspot/" target="_blank" rel="noopener"><strong>America’s Overdose Blindspot</strong></a> (with Richard Hahn), Niskanen Center, April 2025</li>
   <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4808698" target="_blank" rel="noopener"><strong>Evaluation of Durham's ShotSpotter Installation: Results of a 12-Month Pilot Project</strong></a> (with Phil Cook), Wilson Center for Science and Justice at Duke Law, February 2024</li>
-  <li><a href="https://blogs.lse.ac.uk/usappblog/2023/12/18/corporate-landlords-are-eroding-the-american-dream-of-homeownership-especially-in-black-neighborhoods/" target="_blank" rel="noopener"><strong>Corporate landlords are eroding the American Dream of Homeownership</strong></a>, London School of Economics, Phelan US Centre, December 2023</li>
+  <li><a href="https://blogs.lse.ac.uk/usappblog/2023/12/18/corporate-landlords-are-eroding-the-american-dream-of-homeownership-especially-in-black-neighborhoods/" target="_blank" rel="noopener"><strong>Corporate landlords are eroding the American Dream of Homeownership</strong></a> (with Steve Billings), London School of Economics, Phelan US Centre, December 2023</li>
 </ul>
 </section>
 
