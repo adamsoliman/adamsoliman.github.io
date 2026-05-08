@@ -28,8 +28,7 @@ redirect_from:
 
 <div class="about-text">
 <p>
-I am an applied microeconomist who studies the economics of crime, health, and public policy, with a particular focus on drug markets, policing, and neighborhoods.
-</p>
+I am an applied microeconomist who works on topics in the economics of crime and health. My research focuses on drug markets, policing, and neighborhood change.
 
 <p>
 I am an assistant professor of economics at
