@@ -41,6 +41,6 @@ Economics of Crime, Health Economics, Public Economics
 
 <p>
 <strong>Research Interests</strong><br>
-Drug Markets, Policing, Neighborhood Spillovers
+Drug Markets, Policing, Neighborhoods, Juvenile Justice
 </p>
 </div>
