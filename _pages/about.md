@@ -28,7 +28,8 @@ redirect_from:
 
 <div class="about-text">
 <p>
-I am an applied microeconomist who works on topics in the economics of crime and health. My research focuses on drug markets, policing, and neighborhood change.
+I am an applied microeconomist who works on topics in the economics of crime and health, with a particular focus on drug markets, policing, and neighborhood change.
+</p>
 
 <p>
 I am an assistant professor of economics at
