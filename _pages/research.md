@@ -219,7 +219,7 @@ section {
 <h2>Selected Work in Progress</h2>
 <ul class="dash-list">
   <li><strong>Methadone treatment, overdoses, and crime</strong> (with Travis Donahoe and Analisa Packham)</li>
-  <li><strong>Monopsony power and criminal records</strong> (with Mike Makowsky and Peter Peter Brummund)</li>
+  <li><strong>Monopsony power and criminal records</strong> (with Mike Makowsky and Peter Brummund)</li>
   <li><strong>Prosecutorial discretion</strong> (with Spencer Cooper)</li>
   <li><strong>Punitiveness and human capital formation</strong> (with Gustave Kenedi)</li>    
   <li><strong>The effects of ShotSpotter on shooting fatality rates</strong> (with Terence Chau, Phil Cook, and Jens Ludwig)</li>
