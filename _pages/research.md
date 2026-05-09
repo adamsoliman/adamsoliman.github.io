@@ -219,7 +219,6 @@ section {
 <h2>Selected Work in Progress</h2>
 <ul class="dash-list">
   <li><strong>Methadone treatment, overdoses, and crime</strong> (with Travis Donahoe and Analisa Packham)</li>
-  <li><strong>Policing behavior across space and time</strong> (with Mike Makowsky, Matt Ross, and CarlyWill Sloan)</li>
   <li><strong>Prosecutorial discretion</strong> (with Spencer Cooper)</li>
   <li><strong>Punitiveness and human capital formation</strong> (with Gustave Kenedi)</li>    
   <li><strong>The effects of ShotSpotter on shooting fatality rates</strong> (with Terence Chau, Phil Cook, and Jens Ludwig)</li>
