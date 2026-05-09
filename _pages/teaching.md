@@ -74,7 +74,7 @@ h2 {
 
   <li><strong>Probability and Statistics</strong>, Undergraduate Course, Department of Statistical Science, Duke University </li>
 
-  <li><strong>Mathematics (Primary) and Economics (Secondary)</strong>, International School of Chouiefat, Dubai, UAE </li>
+  <li><strong>Mathematics (Primary) and Economics (Secondary)</strong>, International School of Chouiefat, Dubai (UAE) </li>
 </ul>
 
 <h2>Student Snapshots</h2>
