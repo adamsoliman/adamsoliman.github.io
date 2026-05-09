@@ -27,6 +27,7 @@ redirect_from:
 </style>
 
 <div class="about-text">
+
 <p>
 <strong>Bio</strong><br>
 I am an assistant professor of economics at
