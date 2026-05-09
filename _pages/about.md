@@ -28,6 +28,7 @@ redirect_from:
 
 <div class="about-text">
 <p>
+<strong>Bio</strong><br>
 I am an assistant professor of economics at
 <a href="https://www.clemson.edu/business/departments/economics/index.html" target="_blank">Clemson University</a>.
 I was previously a postdoctoral scholar at the London School of Economics and earned my Ph.D. in economics from Duke University. Prior to graduate school, I worked as a primary and secondary
