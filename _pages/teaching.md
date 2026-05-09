@@ -68,13 +68,13 @@ h2 {
  <h2>Courses Taught</h2>
   
 <ul class="teaching-list">
-  <li><strong>Introduction to Econometrics</strong>, Undergraduate Course, Department of Economics, Clemson University (Fall 2024, Spring 2025, Spring 2026)</li>
+  <li><strong>Introduction to Econometrics</strong>, Undergraduate Course, Department of Economics, Clemson University </li>
 
-  <li><strong>Special Topics in Economics (Introduction to Stata)</strong>, PhD Course, Department of Economics, Duke University (Summer 2021, Summer 2022)</li>
+  <li><strong>Special Topics in Economics (Introduction to Stata)</strong>, PhD Course, Department of Economics, Duke University </li>
 
-  <li><strong>Probability and Statistics</strong>, Undergraduate Course, Department of Statistical Science, Duke University (Fall 2019, Spring 2020)</li>
+  <li><strong>Probability and Statistics</strong>, Undergraduate Course, Department of Statistical Science, Duke University </li>
 
-  <li><strong>Mathematics (Primary) and Economics (Secondary)</strong>, International School of Chouiefat, Dubai, UAE (2009–2011)</li>
+  <li><strong>Mathematics (Primary) and Economics (Secondary)</strong>, International School of Chouiefat, Dubai, UAE </li>
 </ul>
 
 <h2>Student Snapshots</h2>
