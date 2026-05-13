@@ -157,6 +157,7 @@ section {
 <section>
 <h2>Working Papers</h2>
 
+  <!-- 
 <div class="paper">
   <div class="paper-title">Better Stealing than Dealing: How do Felony Theft Thresholds Impact Crime?</div>
   <div class="paper-authors">with Steve Billings, Mike Makowsky, and Kevin Schnepel</div>
@@ -168,6 +169,7 @@ section {
     From 2005 to 2019, forty US states increased the dollar value threshold delineating misdemeanor and felony theft, reducing the expected punishment for a subset of property crimes. Using an event study framework, we observe significant and growing increases in theft after a state reform is passed. We then show that reduced sanctions for theft have broader effects in the market for illegal activity. Consistent with a mechanism of substitution across income-generating crimes, we find decreases in both drug distribution crimes and the probability that a released offender previously convicted of drug distribution is reincarcerated for a new drug conviction.
   </div>
 </div>
+-->
 
 <div class="paper">
   <div class="paper-title">Cocaine Goes Bananas: Global Spillovers from an Illicit Supply Shock</div>
