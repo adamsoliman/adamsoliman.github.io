@@ -31,7 +31,7 @@ redirect_from:
 <p>
 <strong>Bio</strong><br>
 I am an assistant professor of economics at
-<a href="https://www.clemson.edu/business/departments/economics/index.html" target="_blank">Clemson University</a>.
+<a href="https://www.clemson.edu/business/departments/economics/index.html" target="_blank">Clemson University</a> and co-director of the Economic Opportunity and Policy Lab.
 I was previously a postdoctoral scholar at the London School of Economics and earned my Ph.D. in economics from Duke University. Prior to graduate school, I worked as a primary and secondary
 <a href="https://adamsoliman.github.io/teaching/" target="_blank">school teacher</a> in Dubai.
 </p>
