@@ -193,7 +193,7 @@ section {
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929" target="_blank" rel="noopener">Paper</a>
   </div>
   <div id="abstracttakeover" class="abstract">
-    We show that drug product characteristics determine which markets are vulnerable to supply-side shocks that drive overdose mortality. White powder heroin can be more easily adulterated and attain higher purity than black tar heroin, leaving white powder markets uniquely exposed. Beginning in 2012, white powder markets experienced increases in purity and fentanyl adulteration. Exploiting pre-existing differences in heroin market types, we estimate that these shocks increased overdose death rates by 50 percent, implying 32,000 excess deaths across fourteen markets. These findings revise prior interpretations of the opioid epidemic’s heroin wave and explain why fentanyl mortality rose disproportionately in eastern markets.
+We show that drug product characteristics determine which markets are vulnerable to supply-side shocks that drive overdose mortality. White powder heroin can be more easily adulterated and attain higher purity than black tar heroin, leaving white powder markets uniquely exposed. Beginning in 2012, white powder markets experienced increases in purity and fentanyl adulteration. Exploiting pre-existing differences in market types, we estimate that these shocks increased overdose death rates by 50%, implying 32,000 excess deaths across fourteen markets. We further show these findings revise prior interpretations of the opioid epidemic’s heroin wave and explain the broader geographic divergence in fentanyl mortality.
   </div>
 </div>
 
