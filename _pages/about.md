@@ -43,6 +43,6 @@ Economics of Crime, Health Economics, Public Economics
 
 <p>
 <strong>Research Interests</strong><br>
-Drug Markets, Policing, Peer Effects, Housing
+Drug Markets, Policing, Peer Effects
 </p>
 </div>
