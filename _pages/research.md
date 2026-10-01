@@ -187,7 +187,6 @@ section {
 <div class="paper">
   <div class="paper-title">Illicit Drug Supply Shocks and Overdose Mortality</div>
   <div class="paper-authors">with Travis Donahoe</div>
-  <div class="paper-note">Previously circulated as “What Fueled the Illicit Opioid Epidemic?”</div>
   <div class="paper-links">
     <button onclick="toggleText('abstracttakeover', this)">Abstract</button>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114929" target="_blank" rel="noopener">Paper</a>
@@ -200,7 +199,6 @@ We show that drug product characteristics determine which markets are vulnerable
 <div class="paper">
   <div class="paper-title">The Social Spillovers of Homeownership: Evidence from Institutional Investors</div>
   <div class="paper-authors">with Steve Billings</div>
-  <div class="paper-note">Previously circulated as “The Erosion of Homeownership and Minority Wealth”</div>
   <div class="paper-links">
     <button onclick="toggleText('abstracthomes', this)">Abstract</button>
     <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4649479" target="_blank" rel="noopener">Paper</a>
