@@ -157,20 +157,6 @@ section {
 <section>
 <h2>Working Papers</h2>
 
-  <!-- 
-<div class="paper">
-  <div class="paper-title">Better Stealing than Dealing: How do Felony Theft Thresholds Impact Crime?</div>
-  <div class="paper-authors">with Steve Billings, Mike Makowsky, and Kevin Schnepel</div>
-  <div class="paper-links">
-    <button onclick="toggleText('abstracttheft', this)">Abstract</button>
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5169572" target="_blank" rel="noopener">Paper</a>
-  </div>
-  <div id="abstracttheft" class="abstract">
-    From 2005 to 2019, forty US states increased the dollar value threshold delineating misdemeanor and felony theft, reducing the expected punishment for a subset of property crimes. Using an event study framework, we observe significant and growing increases in theft after a state reform is passed. We then show that reduced sanctions for theft have broader effects in the market for illegal activity. Consistent with a mechanism of substitution across income-generating crimes, we find decreases in both drug distribution crimes and the probability that a released offender previously convicted of drug distribution is reincarcerated for a new drug conviction.
-  </div>
-</div>
--->
-
 <div class="paper">
   <div class="paper-title">Cocaine Goes Bananas: Global Spillovers from an Illicit Supply Shock</div>
   <div class="paper-authors">with Gianmarco Daniele and Juan Vargas</div>
@@ -193,6 +179,17 @@ section {
   </div>
   <div id="abstracttakeover" class="abstract">
 We show that drug product characteristics determine which markets are vulnerable to supply-side shocks that drive overdose mortality. White powder heroin can be more easily adulterated and attain higher purity than black tar heroin, leaving white powder markets uniquely exposed. Beginning in 2012, white powder markets experienced increases in purity and fentanyl adulteration. Exploiting pre-existing differences in market types, we estimate that these shocks increased overdose death rates by 50%, implying 32,000 excess deaths across fourteen markets. We further show these findings revise prior interpretations of the opioid epidemic’s heroin wave and explain the broader geographic divergence in fentanyl mortality.
+  </div>
+</div>
+
+<div class="paper">
+  <div class="paper-title">Policy Evaluation beyond Significance Testing: Evidence from Chicago’s ShotSpotter Contract</div>
+  <div class="paper-authors">with Terence Chau, Phil Cook, Javier Lopez, Jens Ludwig, and Alejandro Roemer</div>
+  <div class="paper-links">
+    <button onclick="toggleText('abstractshots', this)">Abstract</button>
+  </div>
+  <div id="abstractshots" class="abstract">
+Program impact estimates that are not statistically significant are often treated as providing little guidance for policy choice, even when economically important effects remain plausible. In such cases, the decision-relevant task is not simply to test whether the effect differs from zero, but to estimate the probability distribution of programmatic effects. The importance of going beyond hypothesis testing is especially clear when evaluations are underpowered relative to the effect needed for benefits to exceed costs. We illustrate this point using Chicago’s contract for ShotSpotter, an acoustical gunshot detection system that reduces police response times and may therefore have improved survival among shooting victims. Using a geographic RD design, we estimate that ShotSpotter reduced the shooting fatality rate by 2.5 percentage points, equivalent to roughly 49 fewer deaths per year. Although the estimate is not statistically significant, its implied benefit far exceeds the cost of the service. To have enough statistical power under the hypothesis testing approach to detect an effect of this size would require $87$ years' worth of Chicago shooting data. We instead implement a decision-relevant perspective using Bayesian analysis, treating the life-saving effect as a random variable. We find positive expected net benefits, with posterior probabilities that benefits exceed costs ranging from 70\% under a flat prior and a \$0.5 million value of statistical life to 99.6\% under a no-harm prior and a \$13.6 million value. The results illustrate how reliance on statistical significance can discard decision-relevant evidence when economically meaningful effects are difficult to detect precisely.
   </div>
 </div>
 
@@ -220,7 +217,6 @@ We show that drug product characteristics determine which markets are vulnerable
 <ul class="dash-list">
   <li><strong>Methadone treatment, overdoses, and crime</strong> (with Travis Donahoe and Analisa Packham)</li>
   <li><strong>Monopsony power and criminal records</strong> (with Mike Makowsky and Peter Brummund)</li>
-  <li><strong>Policy Evaluation beyond Significance Testing: Evidence from Chicago’s ShotSpotter Contract</strong> (with Terence Chau, Phil Cook, Javier Lopez, Jens Ludwig, and Alejandro Roemer)</li>
   <li><strong>Prosecutorial discretion</strong> (with Spencer Cooper)</li>
   <li><strong>Punitiveness and human capital formation</strong> (with Gustave Kenedi)</li>    
 </ul>
