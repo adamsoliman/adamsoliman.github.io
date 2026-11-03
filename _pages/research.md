@@ -220,9 +220,9 @@ We show that drug product characteristics determine which markets are vulnerable
 <ul class="dash-list">
   <li><strong>Methadone treatment, overdoses, and crime</strong> (with Travis Donahoe and Analisa Packham)</li>
   <li><strong>Monopsony power and criminal records</strong> (with Mike Makowsky and Peter Brummund)</li>
+  <li><strong>Policy Evaluation beyond Significance Testing: Evidence from Chicago’s ShotSpotter Contract</strong> (with Terence Chau, Phil Cook, Javier Lopez, Jens Ludwig, and Alejandro Roemer)</li>
   <li><strong>Prosecutorial discretion</strong> (with Spencer Cooper)</li>
   <li><strong>Punitiveness and human capital formation</strong> (with Gustave Kenedi)</li>    
-  <li><strong>The effects of ShotSpotter on shooting fatality rates</strong> (with Terence Chau, Phil Cook, and Jens Ludwig)</li>
 </ul>
 </section>
 
