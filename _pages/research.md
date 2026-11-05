@@ -4,120 +4,37 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
 <style>
 /* ======= SECTION HEADERS ======= */
-
-h2 {
-  margin-top: 40px;
-  border-bottom: 2px solid #ddd;
-  padding-bottom: 4px;
-  color: #222;
-  font-size: 1.4em;
-  font-weight: 600;
-}
+h2 {margin-top: 40px; border-bottom: 2px solid #ddd; padding-bottom: 4px; color: #222; font-size: 1.4em; font-weight: 600;}
 
 /* ======= PAPER ENTRIES ======= */
-
-.paper {
-  margin-bottom: 22px;
-  line-height: 1.5;
-  max-width: 850px;
-}
-
-.paper-title {
-  font-size: 1.08em;
-  font-weight: 650;
-  color: #222;
-  margin-bottom: 2px;
-}
-
-.paper-authors {
-  color: #444;
-  font-size: 0.95rem;
-  margin-top: 2px;
-}
-
-.paper-outlet {
-  color: #333;
-  font-size: 0.95rem;
-  margin-top: 2px;
-  font-style: italic;
-}
-
-.paper-note {
-  color: #666;
-  font-size: 0.88rem;
-  margin-top: 2px;
-}
+.paper {margin-bottom: 22px; line-height: 1.5; max-width: 850px;}
+.paper-title {font-size: 1.08em; font-weight: 650; color: #222; margin-bottom: 2px;}
+.paper-authors {color: #444; font-size: 0.95rem; margin-top: 2px;}
+.paper-outlet {color: #333; font-size: 0.95rem; margin-top: 2px; font-style: italic;}
+.paper-note {color: #666; font-size: 0.88rem; margin-top: 2px;}
 
 /* ======= LINK BUTTONS ======= */
-
-.paper-links {
-  margin-top: 7px;
-  font-size: 0.88rem;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-}
-
+.paper-links {margin-top: 7px; font-size: 0.88rem; display: flex; flex-wrap: wrap; gap: 6px;}
 .paper-links a,
-.paper-links button {
-  color: #1a73e8;
-  background: #f7faff;
-  border: 1px solid #c9daf8;
-  border-radius: 4px;
-  padding: 2px 7px;
-  margin: 0;
-  font: inherit;
-  font-weight: 500;
-  cursor: pointer;
-  text-decoration: none;
-  line-height: 1.35;
-}
-
+.paper-links button {color: #1a73e8; background: #f7faff; border: 1px solid #c9daf8; border-radius: 4px;
+                     padding: 2px 7px; margin: 0; font: inherit; font-weight: 500; cursor: pointer; text-decoration: none; line-height: 1.35;}
 .paper-links a:hover,
-.paper-links button:hover {
-  color: #1257b0;
-  background: #eaf2ff;
-  border-color: #1a73e8;
-  text-decoration: none;
-}
+.paper-links button:hover {color: #1257b0; background: #eaf2ff; border-color: #1a73e8; text-decoration: none;}
 
 /* ======= ABSTRACTS ======= */
-
-.abstract {
-  display: none;
-  margin-top: 7px;
-  color: #333;
-  line-height: 1.55;
-  max-width: 800px;
-}
+.abstract {display: none; margin-top: 7px; color: #333; line-height: 1.55; max-width: 800px;}
 
 /* ======= LISTS ======= */
-
-ul.dash-list {
-  list-style: none;
-  padding-left: 0;
-  margin-left: 10px;
-  line-height: 1.6;
-  color: #000;
-}
-
-ul.dash-list li::before {
-  content: "– ";
-  color: #555;
-}
-
-section {
-  margin-bottom: 45px;
-}
+ul.dash-list {list-style: none; padding-left: 0; margin-left: 10px; line-height: 1.6; color: #000;}
+ul.dash-list li::before {content: "– "; color: #555;}
+section {margin-bottom: 45px;}
 </style>
 
 <!-- ===================== -->
 <!--     PUBLICATIONS      -->
 <!-- ===================== -->
-
 <section>
 <h2>Publications</h2>
 
@@ -153,7 +70,6 @@ section {
 <!-- ===================== -->
 <!--     WORKING PAPERS    -->
 <!-- ===================== -->
-
 <section>
 <h2>Working Papers</h2>
 
