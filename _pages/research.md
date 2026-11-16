@@ -135,8 +135,9 @@ Program impact estimates that are not statistically significant are often treate
 <ul class="dash-list">
   <li><strong>Methadone treatment, overdoses, and crime</strong> (with Travis Donahoe and Analisa Packham)</li>
   <li><strong>Monopsony power and criminal records</strong> (with Mike Makowsky and Peter Brummund)</li>
+  <li><strong>Peer effects, discipline, and human capital</strong> (with Gustave Kenedi)</li>  
   <li><strong>Prosecutorial discretion</strong> (with Spencer Cooper)</li>
-  <li><strong>Punitiveness and human capital formation</strong> (with Gustave Kenedi)</li>    
+  <li><strong>The spillover costs of violence</strong> (with Elaine Hill and Phil Cook)</li> 
 </ul>
 </section>
 
